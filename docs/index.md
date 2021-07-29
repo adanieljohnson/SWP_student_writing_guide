@@ -15,7 +15,12 @@ cover-image: images/SWP_logo.png
 url: https\://github.com/adanieljohnson/SWP/
 ---
 #  {-}
+<center>
+
 ![](images/SWP_logo.png)
+
+</center>
+
 
 This compilation work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Photos, other artwork and text that are not original to this compilation are marked with their Creative Commons or similar licenses, and should not be re-used without appropriate attribution. 
 
