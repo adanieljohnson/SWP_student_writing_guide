@@ -1,7 +1,13 @@
 # (PART) Preface {-}
 # Why Create Another Writing Guide? {-}
-This book began as a monthly work calendar and article series that I wrote for our local bonsai club newsletter. The articles answered questions from club members, addressed various growing and styling challenges that came up in club meetings, or sprang out of simple curiosity. Over time the collection of articles grew into a good-sized body of knowledge about growing and maintaining bonsai in our area. 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+Many undergraduate biology courses include lab reports and other types of __scientific writing.__ This genre is not the same as technical writing, which is the style we see in instruction manuals. It is the type of writing that scientists do every day when they write articles for publication, when they apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook.
+
+Scientific writing starts with a question. It makes one or more claims related to that question, then provides evidence to support the claim(s). The evidence can be a logically reasoned argument, data collected in an experiment, something that someone else published in the past, or some other trustworthy source of information. The ultimate goal is to convince readers that the writer is asking an important (or at least interesting) question, and has found possible answer to the original question. 
+
+This kind of writing is very different from what most students have done in the past. 
+
+It
+There are plenty of books available that tell students how to organize and format these 
 
 
 ## What is the STEM Writing Project? {-}
