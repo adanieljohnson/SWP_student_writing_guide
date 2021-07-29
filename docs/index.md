@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Biology Student Writing Guide"
+author: "STEM Writing Project"
 date: "2021-07-29"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -8,25 +8,15 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+github-repo: adanieljohnson/SWP_writing_guide
+description: "This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs. "
+favicon: <"images/favicon.ico">
+cover-image: images/SWP_logo.png
+url: https\://github.com/adanieljohnson/SWP/
 ---
+#  {-}
+![](images/SWP_logo.png)
 
-# Prerequisites
+This compilation work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Photos, other artwork and text that are not original to this compilation are marked with their Creative Commons or similar licenses, and should not be re-used without appropriate attribution. 
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-The **bookdown** package can be installed from CRAN or Github:
-
-
-```r
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
