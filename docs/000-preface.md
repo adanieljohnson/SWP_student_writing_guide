@@ -1,5 +1,9 @@
 # (PART) Preface {-}
+<<<<<<< HEAD
+# Welcome! {-}
+=======
 # Welcome!
+>>>>>>> 714946455d1079b4e35bba57b8e4de97930def86
 Many undergraduate biology courses require lab reports and other types of __scientific writing.__ This genre is different from technical writing, which is the style we see in instruction manuals. It is the kind of writing that scientists do every day when they create articles for publication, write reports that summarize work they have done for their employer, when they apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook. Scientific writing is very closely connected with oral scientific presentations and posters, which we collectively call __scientific communication__.
 
 Formal scientific communication is very different from what most students have done in the past. This kind of communication is organized in a very specific way and follows particular rules and conventions. In this Guide we will focus on how to build a report that models a journal article. We're doing that because most components of a lab report are used in other kinds of scientific communication too. For example, once you learn how to organize the Introduction to a lab report, you pretty much know how to organize the background section of an oral presentation. Making data figures is another example; the same figures used in a lab report could be used in a journal article, oral presentation, or poster.
