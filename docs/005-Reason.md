@@ -1,6 +1,6 @@
 # Who & What is Scientific Writing For?
 
-The rest of this Guide details how to organize and create a lab report or other form of scientific communication. This kind of writing is very different from what most students have done in the past. So before we dive in, let's look at the bigger picture and talk about the __assumptions__ of scientific writing and the __end goals__ that the writer hopes to accomplish.
+The rest of this Guide details how to organize and create a lab report or other form of scientific communication. This kind of writing is very different from what most students have done in the past. Before we dive in, let's look at the bigger picture and talk about the __assumptions__ of scientific writing and the __end goals__ that the writer hopes to accomplish.
 
 ## Assumptions
 Scientific writing starts with the assumption that its readers also are scientists (which includes scientists in training like you.) That means authors will assume their readers have certain background knowledge. If the readers do not have that, the author assumes the readers will look for that background on their own. 
