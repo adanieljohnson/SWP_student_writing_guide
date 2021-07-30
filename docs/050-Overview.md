@@ -1,5 +1,5 @@
 # (PART) Overview {-}
-# Welcome! {-}
+# Goals of Scientific Writing
 
-Many undergraduate biology courses require lab reports and other types of __scientific writing.__ Thiing is very closely connected with oral scientific presentations and posters, which we collectively call __scientific communication__.
+Summarize how each feature of scientific writing contributes to the communication goals.
 

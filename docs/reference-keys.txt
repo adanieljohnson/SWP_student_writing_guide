@@ -17,3 +17,11 @@ using-zotero
 welcome-5
 bins-scoring
 commenting-on-reports
+goals-of-scientific-writing
+goals-of-scientific-writing-1
+welcome-4
+the-upside-of-arguments
+welcome-3
+the-instructor-toolbox
+putting-it-all-together
+learn-what-works-by-reading-as-a-writer
