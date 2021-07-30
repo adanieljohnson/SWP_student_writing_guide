@@ -1,10 +1,15 @@
 fig:nice-fig
 tab:nice-tab
+welcome
+what-is-scientific-writing-for
 intro
+conventions
+heresies
 literature
 methods
 math-example
 applications
 example-one
 example-two
+what-is-scientific-writing-for-1
 final-words
