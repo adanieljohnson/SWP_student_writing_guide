@@ -1,5 +1,12 @@
 welcome
-what-is-scientific-writing-for
+who-what-is-scientific-writing-for
+assumptions
+end-goals
 conventions
 heresies
-what-is-scientific-writing-for-1
+welcome-1
+welcome-2
+welcome-3
+welcome-4
+welcome-5
+welcome-6
