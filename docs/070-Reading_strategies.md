@@ -1,4 +1,36 @@
-# Reading Literature Strategically
+# Reading Scientific Literature Strategically
 
-This is how the Sections and Chapters are arranged. If you get lost, the Table of Contents is always on the left side of the screen.  
+Scientists write primary research articles to outline, summarize, and share the details of experimental studies. Review articles (sometimes called secondary literature) summarize primary literature and provide a broader overview of a topic or field. Review articles also can lay out the evidence on each side of a controversial field, or competing theories about how a process works. Ultimately some of this information is included in books like your textbook.
 
+Reading scientific articles efficiently is an important skill that develops with time and practice. You can develop this skill faster if you know how to approach articles systematically, and with a goal in mind.
+ 
+## Reading Strategically, Not Flat
+If you have not read many scientific articles, it is natural to try and read them "flat," meaning from start to end, giving all of the content equal time and attention. This is how you might read a piece of fiction, a newspaper article, or maybe even a textbook. If you try to read primary research this way, it can take 1-3 hours to work through a 10-page  article; even then you may not get much out of it.
+
+Most scientists DON'T read articles this way. Two readers may be looking at the same article for very different reasons. They read articles __strategically__, spending most (or all) of their reading effort pulling out the key information they need to meet the goals they had in mind when they started reading. One of the reasons that scientific articles are organized into specific sections (and why we stress format so much) is so readers within the field can find the information they need quickly.
+
+Here are some common goals that scientific readers might have. Each goal requires a slightly different approach to reading. A reader may have more than one goal, but rarely are they trying to achieve all of them at the same time. 
+
+|Someone new to a field or topic may want to:|...so they will focus mostly on:|
+|--------------------------------|---------------------------|
+|Increase their basic background knowledge;|the Introduction section.|
+|See examples of overall experimental designs related to their own questions;|the Methods section in general.|
+|Learn how to do particular experimental assays or data analysis methods;|descriptions of the assays and analyses, (or the cited sources that describe them); these tend to be towards the end of the Methods section.|
+|Find out which statistic methods are used to analyze a particular type of date;|the Statistics section, which tends to be the last part of the Methods.|
+|See how particular types of results or data are summarized and displayed;|the graphs, tables, and figures in the Results.|
+|Know what the rules are for the topic for claims, evidence, and reasoning;|what is presented and focused on in the Discussion.|
+|Learn how data and evidence from studies by others has been interpreted (what the field accepts as reasonable);|the interpretations in the Discussion.|
+ 
+With practice, strategic reading goals become even more focused. For example:
+
+|Someone with more experience may want to:	|...so they will focus mostly on:|
+|--------------------------------|---------------------------|
+|Get a deep understanding of a particular question that interests them;|how the story told by the Introduction is organized, & what prior knowledge is emphasized.|
+|Find out where other professionals are getting reagents or study organisms;|the list of sources, or where the authors say they got materials. (Sometimes it is not in the article, so you must write the authors and ask them.)|
+|Identify & understand controversies or unanswered questions;|differences in the stories told in the Discussion section by authors from different labs.|
+|Put their own study into a larger context;|the narrative in the Discussion. What do other authors say is important? Why?|
+|Compare their results to what others have reported;|the data tables and figures, in particular how the trends they observed compare to published work by others.|
+|Find additional articles that could be useful for interpreting their own work;|the full list of Literature Cited.|
+|What the influential labs, authors, and papers in the field are;|which papers and authors are listed in the Literature Cited; which authors show up repeatedly.|
+
+A way you can practice strategic reading is described on the next page.
