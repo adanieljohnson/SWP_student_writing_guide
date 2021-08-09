@@ -5,8 +5,6 @@ The rest of this Guide details how to organize and create a lab report or other 
 ## Assumptions {-}
 Scientific writing starts with the assumption that its readers also are scientists (which includes scientists in training like you.) That means authors will assume their readers have certain background knowledge. If the readers do not have that, the author assumes the readers will look for that background on their own. 
 
-Reading is the step to mastering scientific writing.
-
 
 ## End Goals {-}
 Details differ, but  The author starts with a question. It can be their own question
