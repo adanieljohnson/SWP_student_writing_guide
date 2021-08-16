@@ -1,4 +1,4 @@
-# (PART) Tell YOUR Story {-}
+# (PART) TELL YOUR STORY {-}
 # Start With the Story
 
 text ehre.
