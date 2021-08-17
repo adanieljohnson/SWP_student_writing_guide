@@ -19,7 +19,7 @@
 * 150 Making Your Arguments
     + 160 Toulmin model of practical arguments
     + 200 Supporting your arguments with sources
-* 250 Tools 
+* 250 Mastering Your Tools 
     + 300 Data Visualization
     + 350 Statistics 
     + 400 Citations, Zotero
