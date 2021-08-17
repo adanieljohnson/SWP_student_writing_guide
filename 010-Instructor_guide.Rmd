@@ -2,21 +2,24 @@
 
 We created this Writing Guide as part of a larger set of resources for students and teachers working on scientific writing. 
 
-The general format described conforms to the Council of Science Editors (8e) standards. 
+The Guide was written assuming that undergraduate students are the main audience. Several pages have a __Notes for Instructors__ section where we outline the rationale, published evidence, and local data supporting a particular element. These Notes sections can be removed from the student edition of the Guide with no loss of content.
 
-This Writing Guide is not designed or intended to meet the needs of every possible audience. It is simply not feasible for a single source to be that comprehensive. 
+The general format described conforms to the Council of Science Editors (8e) standards. However this Writing Guide is not designed or intended to meet the needs of every possible audience. It is simply not feasible for a single source to be that comprehensive. Instead the entire text has been released under Creative Commons license, so that instructors can edit, extend or modify it to fit their particular needs and requirements. 
 
-released the entire text under Creative Commons license, so that for instructors to edit to fit their particular needs and requirements. 
-
-## Conventions {-}
+Anyone interested in contributing to the master version of this Guide should contact Dr. Dan Johnson about author-level access to the GitHub repository. 
 
 
-## Heresies {-}
-When we first took a research-centered approach to lab report collection and assessment, one of our earliest discoveries was that some traditional writing conventions simply did not bear up to close scrutiny. 
+## Guiding Principles {-}
 
-We have aimed to reduce the number of arbitrary rules and requirements so that students can focus first on the key elements of writing as a means of communication and argumentation. 
+When we began looking at lab reports as a research subject, we discovered that many common conventions and practices used to teach students scientific writing do not bear up to close scrutiny. 
 
-Not all writing instructors will agree with our approach. We invite healthy debate and discussion, but the 
+For example, it is common for scientific writing instructors to provide students with dozens of specific comments, and copy-edit individual sentences. Published evidence indicates that this is counter-productive, because an average student: 
 
-Global and structural flaws are more important for students to correct. Copy-editing and format are not important for novice writers to focus on. 
+* can only process and internalize 3-5 substantive comments per written page;
+* treats all comments as having equal weight; and 
+* tend to make the simplest corrections first, assuming they benefit the final score as much as more challenging corrections do.
+
+This is why we limited the number of arbitrary rules and requirements and encourage students to focus on the key elements of writing as a means of communication and argumentation first. It is more important for students to correct global and structural flaws first. So long as these larger flaws remain, any formatting that can be corrected by copy-editing is unlikely to improve communicative quality of the work. 
+
+
 
