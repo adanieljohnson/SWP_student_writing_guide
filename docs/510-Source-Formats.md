@@ -16,12 +16,14 @@ This style of in-text citations uses the last names of the first 1-3 authors of 
 
 > Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication (CSE, 2017). Unlike other formats you might have used in humanities or social science classes (Johnson, 2018), there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher (Taylor & Coleridge, 2019). That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats (Johnson, 2018; Albert, et al. 2010). 
 
-Different journals use slightly different versions of this basic in-text citation format. Some include first name initials (Johnson A.D., 2018), some have or do not have commas or periods, etc. The benefit of this format is that readers can tell the year the source of the evidence you cite was published, and who published it. The trade-off is each name-year citation takes up more space in the text. Some people say it interferes with reading flow too. 
+Different journals use slightly different versions of this basic in-text citation format. Some include first name initials (Johnson A.D., 2018), have or do not have commas or periods, etc. The benefit of this format is that readers can tell when evidence you cite was published, and who published it. The trade-off is each citation takes up more space in the text. Some people find it interferes with reading flow too. 
 
 
-### Numbered List Format
+### Numbered List Formats
 
-For this in-text citation style, every source listed in the Literature Cited is assigned a number that is used to identify that reference in the main text. Numbers can be in parentheses (3,4,6-9), in brackets [2,5,7-8], or as superscripts<sup>1,4,7,11</sup>. Sources can be numbered in order of first appearance:
+For this in-text citation style, every source listed in the Literature Cited is assigned a number that is used to identify that reference in the main text. Numbers can be in parentheses (3,4,6-9), in brackets [2,5,7-8], or as superscripts<sup>1,4,7,11</sup>. 
+
+When using a numbered list, the sources can be numbered in order of their first appearance in the text. For example:
 
 > Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication (1). Unlike other formats you might have used in humanities or social science classes (2), there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher (3). That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats (2, 4). 
 
@@ -32,11 +34,11 @@ For the above example, sources would be listed in the Literature Cited section i
 3. Taylor & Coleridge, 2019
 4. Albert, et al. 2010
 
-Sources also can be numbered in alphabetical order of last name of first author:
+Alternatively, the sources can be numbered in alphabetical order using the last name of the first author. For example:
 
 > Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication (2). Unlike other formats you might have used in humanities or social science classes (3), there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher (4). That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats (1,3). 
 
-For the above example, sources would be listed in the Literature Cited section in this order. 
+For this example, the sources would be listed in the Literature Cited section in this order. 
 
 1. Albert, et al. 2010
 2. CSE, 2017
@@ -47,11 +49,11 @@ For the above example, sources would be listed in the Literature Cited section i
 In-text numbers are more compact and less distracting, but they do not tell readers anything about who published the source or when. Sources also must be re-numbered every time a source is added or removed or the order of sources changes. 
 
 
-## What Our Students Use
+## What Do WE Recommend?
 
-We use (and recommend) the standard APA name-year citation format in our lab courses. It is well documented and most reference managers (including Zotero) support it. Citations can be downloaded in APA-compatible format directly from PubMed, Web of Science, and many other databases. If a database does not offer APA style as an export option, they usually offer the Harvard citation format, which is very similar so can be updated quickly. Alternatively citations can be downloaded in RIS format, imported into Zotero, and converted to APA format.
+In our introductory courses we use the standard, plain-vanilla __APA name-year citation format__. It is well documented and most reference managers (including Zotero) support it. Citations can be downloaded in APA-compatible format directly from PubMed, Web of Science, and most other databases. If a database does not offer APA style as an export option, they usually offer the Harvard citation format, which is almost the same. Alternatively citations can be downloaded in RIS format, imported into Zotero, and converted to APA format.
 
-We do NOT use the complete APA Style Guide, only the citations formats. For example, APA style allows direct quotes in text, but we do not allow our students to quote sources, even if they are cited correctly. [Learn more about our reasons here.](http://url) 
+__We do NOT follow the full APA Style Guide, only the citations formats.__ For example, APA style allows direct quotes in text; we do not allow our students to quote sources. In the past, we found students often cited quotes incorrectly. Even if they cited the sources correctly, students quoted so much from sources that almost none of what they wrote was their own words. When we eliminated quotes entirely, our students started to learn to paraphrase and use sources sooner, and could do it more accurately.
 
 
 ### Formats For In-Text Citations
@@ -77,12 +79,16 @@ In practice we try to discourage our students from using narrative citations, at
 
 ### Formats For The Literature Cited Section
 
-We have outlined the APA formats for the most common types of sources used in lab reports below. The [complete guide to APA Citation Formats](https://apastyle.apa.org/style-grammar-guidelines/references/examples)  is available online. Look there for other citation formats, but remember APA supports many source types that are not appropriate for lab reports.
+The APA formats for the most common types of sources used in lab reports our outlined below. The [complete guide to APA Citation Formats](https://apastyle.apa.org/style-grammar-guidelines/references/examples)  is available online. Look there for other citation formats, but remember APA supports many source types that are not appropriate for lab reports.
 
 
 #### Journal Article with Page Numbers
 
-__Template:__ Lastname, initials of firstname for each author. (Year). Title. Journal, Volume(Issue), firstpage-lastpage. DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year). Title. Journal, Volume(Issue), firstpage-lastpage. DOI link (if available)
+
+__Examples:__ 
 
 Albert, C. H., Yoccoz, N. G., Edwards Jr, T. C., & Thuiller, W. (2010). Sampling in ecology and evolution: bridging theory and practice. _Ecography_, 33(1), 1028–1037. https://doi.org/doi: 10.1111/j.1600-0587.2010.06421.x
 
@@ -91,7 +97,11 @@ Urban-Lurain, M., Cooper, M., Haudek, K. C., Prevost, L., Smith, M. K., & Sydlik
 
 #### Journal Article With an Article Number, Not Pages
 
-__Template:__ Lastname, initials of firstname for each author. (Year). Title. _Journal_, Volume(Issue), Article #. DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year). Title. _Journal_, Volume(Issue), Article #. DOI link (if available)
+
+__Examples:__ 
 
 Apkarian, N., Henderson, C., Stains, M., Raker, J., Johnson, E., & Dancy, M. (2021). What impacts use of active learning in undergraduate STEM education? _PLOS ONE_, 16(2), Article e0247544. https://doi.org/10.1371/journal.pone.0247544
 
@@ -100,7 +110,11 @@ Ebert-May, D., Derting, T. L., Henkel, T. P., & Passmore, H. A. (2015). Future f
 
 #### Whole Book With Single Author(s)
 
-__Template:__ Lastname, initials of firstname for each author. (Year). _Title_ (edition). Publisher. DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year). _Title_ (edition). Publisher. DOI link (if available)
+
+__Examples:__ 
 
 Gottschalk, K. K., & Hjortshoj, K. (2004). _The elements of teaching writing: A resource for instructors in all disciplines_. Bedford/St. Martin’s.
 
@@ -109,14 +123,22 @@ Lantz, B. (2013). _Machine Learning with R: Learn How to Use R to Apply Powerful
 
 #### Whole Book With Editors
 
-__Template:__ Lastname, initials of firstname for each editor. (Ed or Eds). (Year). _Title_ (edition). Publisher. URL or DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each editor. (Ed or Eds). (Year). _Title_ (edition). Publisher. URL or DOI link (if available)
+
+__Example:__ 
 
 Anson, C. M., & Moore, J. L. (Eds.). (2017). Critical transitions: Writing and the question of transfer. The WAC Clearinghouse, University Press of Colorado. https://wac.colostate.edu/books/perspectives/ansonmoore/
 
 
 #### Chapter in an Edited Book or Ebook
 
-__Template:__ Lastname, initials of firstname for each author. (Year). Chapter Title.  In initials of firstname, lastname of book editor(s) (Eds.), _Book Title_. (edition if needed, pp. in book). Publisher. URL or DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year). Chapter Title.  In initials of firstname, lastname of book editor(s) (Eds.), _Book Title_. (edition if needed, pp. in book). Publisher. URL or DOI link (if available)
+
+__Examples:__ 
 
 Rothermel, B. A. (2006). Automated writing instruction: Computer-assisted or computer-driven pedagogies? In P. F. Ericsson & R. H. Haswell (Eds.), _Machine scoring of student essays: Truth and consequences_ (pp. 199–210). Utah State University Press. https://archive.nwp.org/cs/public/download/nwp_file/16663/machine.pdf?x-r=pcfile_d
 
@@ -127,14 +149,22 @@ Tassone, A., Sciamanna, G., Bonsi, P., & Martella, G. (2011). Experimental model
 
 #### Official Report by a Government Agency
 
-__Template:__ Publishing Agency. (Year). Title. (Publication ID#). Parent Department. URL for source or DOI link.
+__Template:__ 
+
+Publishing Agency. (Year). Title. (Publication ID#). Parent Department. URL for source or DOI link.
+
+__Example:__ 
 
 President’s Council of Advisors on Science and Technology. (2012). Engage to Excel: Producing One Million Additional College Graduates with Degrees in STEM. Executive Office of the President. https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf
 
 
 #### Official Report with Individual Authors
 
-__Template:__ Lastname, initials of firstname for each author on report. (Year). Report Title.  (Report ID# if one is present). Publisher. URL or DOI link
+__Template:__ 
+
+Lastname, initials of firstname for each author on report. (Year). Report Title.  (Report ID# if one is present). Publisher. URL or DOI link
+
+__Examples:__ 
 
 Pellegrino, J. W., & Hilton, M. L. (Eds.). (2012). Education for life and work: Developing transferable knowledge and skills in the 21st century. The National Academies Press. DOI: https://doi.org/10.17226/13398
 
@@ -143,21 +173,33 @@ Fry, C. L. (Ed.) (2014). Achieving Systemic Change: A Sourcebook for Advancing a
 
 #### White Paper With a Group As Author
 
-__Template:__ Name of Group. (Year). Title. [White paper]. Publisher or sponsor (if different). URL or DOI link 
+__Template:__ 
+
+Name of Group. (Year). Title. [White paper]. Publisher or sponsor (if different). URL or DOI link 
+
+__Example:__ 
 
 R Studio Development. (2019). Scaling R for Enterprise-level Performance, Scalability, Ease of Production Deployment, and Security. [White paper.] Oracle, Inc. https://www.r-bloggers.com/2013/06/bringing-r-to-the-enterprise/
 
 
 ####  White Paper With Individual Authors
 
-__Template:__ Lastname, initials of firstname for each author. (Year). Title. [White paper]. Publisher or sponsor. URL or DOI link 
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year). Title. [White paper]. Publisher or sponsor. URL or DOI link 
+
+__Example:__ 
 
 Greenwood, M. (2001). Implementing a Vector Space Document Retrieval System. [White paper]. University of Sheffield. http://www.dcs.shef.ac.uk/~mark/nlp/pubs/vspace.pdf
 
 
 #### Conference Presentation or Abstract
 
-__Template:__ Lastname, initials of firstname for each author. (Year, date). Title [descriptor]. Conference  Name, Location. URL or DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname for each author. (Year, date). Title [descriptor]. Conference  Name, Location. URL or DOI link (if available)
+
+__Examples:__ 
 
 Describe the kind of presentation with a 1-2 word phrase like [Conference session], [Paper presentation], [Abstract], or [Poster session] in square brackets after the title. 
 
@@ -168,7 +210,11 @@ Scheffler, I.E., Yadava, N., & Potluri, P. (2004, June 30-July 3). Molecular gen
 
 #### Published Dissertation or Thesis
 
-__Template:__ Lastname, initials of firstname of author. (Year). Title. (Publication ID#) [Doctoral dissertation, Institution]. Database or repository. DOI link (if available)
+__Template:__ 
+
+Lastname, initials of firstname of author. (Year). Title. (Publication ID#) [Doctoral dissertation, Institution]. Database or repository. DOI link (if available)
+
+__Example:__ 
 
 Sullivan, T. J. (2017). Molecular Ecology, Disease Ecology, and Candidate Genes for Pathogen Resistance in the Blue Crab _Callinectes sapidus_. (Publ.# 10273194) [Doctoral dissertation, University of Louisiana at Lafayette]. ProQuest Dissertations. https://pqdtopen.proquest.com/doc/2309521814.html?FMT=AI
 
@@ -188,14 +234,22 @@ Some web pages have content that changes over time and is not archived. If this 
 
 #### Citing a Web Page Authored By a Government Agency
 
+__Template:__ 
+
 Name of the authoring agency. (Year). _Page Title_. Parent agency. URL link 
+
+__Example:__ 
 
 National Institute of Mental Health. (2018, July). _Rates of anxiety disorders_. U.S. Department of Health and Human Services, National Institutes of Health. Accessed January 9, 2020, from https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml
 
 
 #### Citing a Web Page With Named Authors
 
+__Template:__ 
+
 Lastname, initials of firstname for each author. (Date of publication, or n.d. for "no date"). _Page Title_.  Sponsoring group or agency. URL link
+
+__Example:__ 
 
 Giovanetti, F. (August 24,2021). _An unprecedented peek into life of 17,000-year-old mammoth._ National Science Foundation. https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=303320&org=NSF&from=news
 
