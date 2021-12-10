@@ -15,6 +15,7 @@ exercise-1-speed-summary
 exercise-2-3-2-1-technique
 exercise-3-science-writing-heuristic
 where-to-learn-more-1
+hypothesis200
 informal-vs.-formal-hypotheses
 there-are-different-kinds-of-hypotheses
 biological-hypotheses
@@ -232,4 +233,3 @@ appendix800
 appa810
 appb820
 appc830
-hypothesis200
