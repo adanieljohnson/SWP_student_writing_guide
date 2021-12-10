@@ -6,7 +6,7 @@ __Summary data tables__ bring together the raw data points, summarize them in so
 
 This is an example of a well-formatted table:
 
-![image table](http:url/Table-annotated.png)
+![](images/Table-annotated.png)
 
 
 Each table should have a Table # and short descriptive title placed above the table itself. Tables should be numbered in the order they are referred to in your text. 

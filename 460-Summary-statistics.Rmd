@@ -57,7 +57,7 @@ For example, the counts in each of the bins in Table 1 add up to 5788. The arith
 
 Arithmetic mean is very useful, but also sensitive to extreme values, which means it does not work well for data that are highly skewed. Imagine that you are measuring the heights of trees in two areas of equal size. 
 
-![__Figure 3__. Two forest plots.](http:url.two.forestplots).
+![__Figure 3__. Two forest plots.](images/Tree-plots.png)
 
 Plot A is in a mature, undisturbed forest. Plot B experienced a fire a few years ago that killed all but 2 very large trees. Since then, new seedlings have sprouted. There are dozens of small trees now, all about the same height.
 

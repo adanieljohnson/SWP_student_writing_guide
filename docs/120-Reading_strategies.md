@@ -37,6 +37,7 @@ Here are some common goals that scientific readers might have. Each goal require
 |Know what the rules are for the topic for claims, evidence, and reasoning;|what is presented and focused on in the Discussion.|
 |Learn how data and evidence from studies by others has been interpreted (what the field accepts as reasonable);|the interpretations in the Discussion.|
 
+<br>
 
 With practice, strategic reading goals become even more focused. For example:
 

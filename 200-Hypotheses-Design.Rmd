@@ -53,25 +53,34 @@ These are the same hypotheses rewritten so they can be tested.
     + How big is the cup of coffee?
     + How soon before running?
     + How will you measure improvement in running speed? 
+
 * Testable: If I drink 3, 8-ounce cups of coffee 30 minutes before running, then I will run the 5K distance in less than 32 minutes.
     + This is better but still could be improved. For instance, would 31 minutes, 45 seconds be an improvement? 
+
+<br>
 
 * Informal: If I run twice a day, then I will run faster.
     + When will you run?
     + How long will you run each time?
     + Again, would 31 minutes, 45 seconds (less than 32 minutes) be an improvement? 
+
 * Testable: If I run twice a day (once for 20 minutes in the morning, and once for 40 minutes in the afternoon), then I will run the 5K distance in 30 minutes instead of 32 minutes.
-    
+
+<br>
 
 * Informal: If I run with my friend instead of alone, then I will run faster.
     + What are you doing different?
     + What improvement do you predict you will see? When?
+
 * Testable: If I run with my friend instead of alone, and try to run at their pace each time, then after 60 days I will run the 5K distance at their pace.
     + This is more specific about the prediction, but what if your friend slows down to match your pace? How will you know? Can you measure pace more rigorously?
+
+<br>
 
 * Informal: If I practice running faster for 1K every day, then I will run faster.
     + Will you do this at the start, in the middle, or at the end of your run?
     + How much faster will you go?
+
 * Testable: If I run 3K every day, and try to run the second kilometer in 24 minutes, then after 60 days I will be able to run the entire 5K distance in less than 27 minutes.
 
 
@@ -111,12 +120,12 @@ __Possible Outcome 2__: You count 25 female chicks and 23 male chicks from choco
 
 __Possible Outcome 3__: Chocolate-fed chickens lay eggs that produce 31 females and only 17 males (a little under 2:1 sex ratio). The chickens that were fed regular chow laid eggs that produced 25 males, and 24 females (about 1:1 sex ratio). Now it is not so clear-cut. Could this just be coincidence? Stating this in more mathematical terms:  
 
-	“If the boring biological null hypothesis is really true, and chocolate does not affect sex ratio, what’s the probability of getting a sex ratio of 2:1 just due to random chance?” 
+`“If the boring biological null hypothesis is really true, and chocolate does not affect sex ratio, what’s the probability of getting a sex ratio of 2:1 just due to random chance?” `
 
 This is our statistical hypothesis, and it too has null and alternate versions (abbreviated H<sub>O</sub> and H<sub>A</sub>).
 
-	Null (H<sub>O</sub>): Sex ratio (choco-chix) = Sex ratio (control)
-	Alternate (H<sub>A</sub>): Sex ratio (choco-chix) =/= Sex ratio (control)
+	Null (Ho): Sex ratio (choco-chix) = Sex ratio (control)
+	Alternate (Ha): Sex ratio (choco-chix) =/= Sex ratio (control)
 
 Statistical tests estimate the __p-value__, which is the probability of obtaining the observed results assuming the null hypothesis is true (i.e., by chance). Statistical hypothesis testing methods are explained in a later section of this Guide. For now what you need to know is:
 
@@ -131,24 +140,24 @@ Our students get confused when we say we want them to make their hypotheses as "
 
 Nearly all primary literature has at least one testable hypothesis, but it may not be worded in a way that is easy to find. Look at this example:
 
-	"Based on the previous conclusions of Betto and Bell (2019) related to mating seasonality in passerines, it is reasonable to suggest that non-passerine species will have different seasonal mating patterns too."
+`"Based on the previous conclusions of Betto and Bell (2019) related to mating seasonality in passerines, it is reasonable to suggest that non-passerine species will have different seasonal mating patterns too."`
 
 There IS an if-then statement hiding in there. We can find it by revising and rearranging the wording a bit.
 
-	"In 2019, Betto and Bell concluded that when it is warmer than usual, passerine birds will mate later in the season. IF Betto and Bell are right, THEN we predict non-passerine birds will do the same thing. IF the weather is warmer than usual, THEN non-passerine birds also will mate later in the season.)"
+`"In 2019, Betto and Bell concluded that when it is warmer than usual, passerine birds will mate later in the season. IF Betto and Bell are right, THEN we predict non-passerine birds will do the same thing. IF the weather is warmer than usual, THEN non-passerine birds also will mate later in the season.)"`
 
 The second cause for confusion is that, for most published articles, the Introduction section is one giant "if" statement. In essence the authors are saying:
 
-	"Here are our prior observations, and here is what all of these other researchers are saying about our model or a related system. This is how we are interpreting these findings. Now IF all of the stuff we just told you is true, THEN we expect to find..."
+`"Here are our prior observations, and here is what all of these other researchers are saying about our model or a related system. This is how we are interpreting these findings. Now IF all of the stuff we just told you is true, THEN we expect to find..."`
 
 When articles are written this way, the authors are assuming you as the reader realize that the Introduction is their "if" statement. 
 
 Sometimes authors have no obvious hypothesis and don't actually make any specific predictions. Instead they state their objective or goals for the study. This is very common in applied science research. For example, this is an excerpt from a recent abstract:
 
-	Social and ecological differences in early SARS-CoV-2 pandemic screening and outcomes have been documented, but the means by which these differences have arisen are not understood. The objective of this study is to characterize social, economic, and chronic disease mechanisms underlying differences in outcomes for patients within the Cleveland Clinic Health System... (Dalton & Gunzler, 2021; https://doi.org/10.1371/journal.pone.0255343
+`Social and ecological differences in early SARS-CoV-2 pandemic screening and outcomes have been documented, but the means by which these differences have arisen are not understood. The objective of this study is to characterize social, economic, and chronic disease mechanisms underlying differences in outcomes for patients within the Cleveland Clinic Health System... (Dalton & Gunzler, 2021; https://doi.org/10.1371/journal.pone.0255343`
 
 In this case, the hypothesis is implied. The authors of this study are assuming that there is some difference between patients of different socio-economic and chronic disease status that affects their outcomes if they are infected with SARS-CoV-2. Their "if" statement is implied, but a clear biological alternate hypothesis:
 
-	"If there are differences in the social, economic, and chronic disease status of patients with COVID-19, then we predict there will be measurable differences in their health outcomes."
+`"If there are differences in the social, economic, and chronic disease status of patients with COVID-19, then we predict there will be measurable differences in their health outcomes."`
 
 What is MISSING from this hypothesis are specific predictors. The study authors do not know which factors are going to be important, but they are predicting that at least one social, economic, or chronic health factor will be correlated with a difference in health outcome after COVID-19 infection.

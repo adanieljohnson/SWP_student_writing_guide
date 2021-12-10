@@ -54,7 +54,7 @@ It is a set of 5-6 general questions that you can use to break down and interpre
 
 Each question has specific sub-questions. A common mistake many students make is to answer every general and specific question even if it is not appropriate for the article. Not every specific question will be appropriate for every article. If one of the specific questions does not apply, move on. Focus on being able to answer the general questions fully. 
 
-1. What is already known? What is not known?
+1\. What is already known? What is not known?
 
 Experiments are based on assumptions and prior knowledge or observations that point towards a testable hypothesis. Some information may be common knowledge. Other concepts may be known only to specialists in the field. Look for answers to these questions in the Introduction. Some background may be in the Discussion section too. 
 
@@ -63,7 +63,7 @@ Experiments are based on assumptions and prior knowledge or observations that po
 
 __Tip:__ At first you may have to look up background information that is common knowledge among specialists in the field. The more you read about a topic, the less you will have to stop and look up. 
 
-2.  Why did the individuals who conducted the study choose their particular question? 
+2\.  Why did the individuals who conducted the study choose their particular question? 
 
 Authors may list several questions that have not been answered, but choose one to study. 
 
@@ -71,7 +71,7 @@ Authors may list several questions that have not been answered, but choose one t
 * What specific model system are they using to seek answers or test hypotheses? Why that model and not another?
 * What general hypothesis did they test, and how? Why did they choose that hypothesis? 
 
-3.  What did the individuals who conducted the investigation do? 
+3\.  What did the individuals who conducted the investigation do? 
 
 Look for answers to these questions in the Methods section. Some additional information may be included near the end of the Introduction.
 
@@ -81,7 +81,7 @@ Look for answers to these questions in the Methods section. Some additional info
 * What were the controls? Were these controls sufficient to cover all possibilities?
 * Given on the methods used, what were all of the possible outcomes (not just the ones that were actually observed)? 
 
-4.  What were the main results? 
+4\.  What were the main results? 
 
 Look for answers to these questions in the Results section. You also will need to read and interpret the tables and figures. Look at the statistical analyses to gauge the reliability of their results.
 
@@ -90,7 +90,7 @@ Look for answers to these questions in the Results section. You also will need t
 * How big of an effect did they see? Were those effects significant?
 * Can we trust the reported data?
 
-5.  What do the results mean? Why are the results important? 
+5\.  What do the results mean? Why are the results important? 
 
 Look at the Discussion to answer these questions.
 
@@ -103,7 +103,7 @@ Look at the Discussion to answer these questions.
 * What new information has been learned as a result of conducting this experiment or set of experiments?
 * What is the most logical next step? What new questions or experiments does this work suggest?
 
-6.  What was good? What could be improved?
+6\.  What was good? What could be improved?
 
 Reading papers also helps you understand the mechanics of writing. These questions can help you see how authors’ decisions impact clarity, and thus a paper’s effectiveness overall.
 

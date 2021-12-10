@@ -26,17 +26,28 @@ The null hypothesis is that the population means are the same for all groups. We
 
 The alternative hypothesis is that least one mean is different from the others.
 
-> H<sub>A</sub>:  x̅<sub>MV</sub> ≠ x̅<sub>FV</sub> 
+> H<sub>A</sub>: x̅<sub>MV</sub> ≠ x̅<sub>FV</sub>
+
+or 
+
+> x̅<sub>MV</sub> ≠ x̅<sub>MO</sub>
+
 or  
-> x̅<sub>MV</sub> ≠ x̅M<sub>O</sub>  
+
+> x̅<sub>MV</sub> ≠ x̅<sub>FO</sub>  
+
 or 
-> x̅M<sub>V<sub> ≠ x̅<sub>FO</sub>
+
+> x̅<sub>FV</sub> ≠ x̅<sub>MO</sub>
+
 or 
-> x̅F<sub>V</sub> ≠ x̅M<sub>O</sub>
+
+> x̅<sub>FV</sub> ≠ x̅<sub>FO</sub>
+
 or 
-> x̅F<sub>V</sub> ≠ x̅F<sub>O</sub>
-or 
-> x̅M<sub>O</sub> ≠ x̅F<sub>O</sub>
+
+> x̅<sub>MO</sub> ≠ x̅<sub>FO</sub>
+
 
 
 ## Running the Experiment

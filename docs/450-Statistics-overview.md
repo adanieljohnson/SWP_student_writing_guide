@@ -18,6 +18,7 @@ __Table 1.__ Descriptive and Summary Statistics
 |Median|2019 median household income in the US was $68,703|Estimates the middle of a range of values using observed measures. Measurements are sorted in rank order; the middle measurement is the estimated middle of the distribution.| 
 |Standard Deviation|example|Estimated spread in the measurements|
 
+<br>
 
 __Table 2.__ Comparisons and Hypothesis Testing
 
@@ -29,6 +30,7 @@ __Table 2.__ Comparisons and Hypothesis Testing
 |Chi-square goodness of fit|The number of red, pink, white flowers in a genetic cross fits an expected 1:2:1 ratio|Tests a null hypothesis that observed frequencies are not different from expected frequencies.|
 |Chi-square independence|Compare the proportion of HIV patients who get worse after taking a new drug to the proportion who get worse after taking a placebo|Tests a null hypothesis that proportions are same in different groups.|
 
+<br>
 
 __Table 3.__ Statistical Modeling
 

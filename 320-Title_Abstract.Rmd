@@ -9,8 +9,9 @@ Your title should clearly communicate your topic to readers, what organisms are 
 
 At the same time your title should be clear, concise, and assertive. Imagine you have to pick an article to read and present to the class. You have looked at 30 other article titles already, and none sound appealing. You come to the last two choices. Based just on their titles, which of these 2 articles sounds like one you would want to read?
 
-	\#31: Study of the Effects of Feline Dripomazoloid Derivative Compounds on Involuntary Caudal Motor Behavior in Canine Communication
-	\#32: Dripomazoloids Extracted From Cat Hair Trigger Dog Tail Wagging
+`#31: Study of the Effects of Feline Dripomazoloid Derivative Compounds on Involuntary Caudal Motor Behavior in Canine Communication`
+
+`#32: Dripomazoloids Extracted From Cat Hair Trigger Dog Tail Wagging`
 
 If your title is more than 2 typed lines, it probably is long and should be shortened.
 

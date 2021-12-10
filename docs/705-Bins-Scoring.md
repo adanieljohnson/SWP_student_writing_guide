@@ -6,18 +6,20 @@ To accomplish those goals, we:
 
 * Use __bins scoring__. This grading strategy is based on Linda Nilson's _Specifications Grading_. Briefly, we limit the number of items used for scoring reports, and only score those items on a binary scale (present/absent, yes/no, etc.)  This part of our process is explained below.
 * Give students feedback a manageable number of comments in the form of __reflective coaching__. [This is explained elsewhere.](#commenting710)
-* Encourage all graders to refer back to specific sections of this Resource Guide instead of writing out their own recommendations.
-* Explicitly train GTAs to grade according to our criteria. GTA training includes orientation and practice sessions, and round-robin grading, where new and experienced GTAs grade the same pre-selected set of reports, then discuss discrepancies in scoring. [This is explained elsewhere.](#commenting710)
+* Have graders refer back to specific sections of this Resource Guide instead of writing out their own recommendations.
+* Explicitly train GTAs to follow our grading criteria. GTA training includes orientation and practice sessions, and round-robin grading, where new and experienced GTAs grade the same pre-selected set of reports, then discuss discrepancies in scoring. [This is explained elsewhere.](#commenting710)
 
 
 
 ## Bins Criteria
-These are the criteria we use to assign scores to lab reports. They can be divided into basic criteria, technical flaws, and writing quality flaws.
+These are the criteria we use to assign scores to lab reports in our 100-level lab courses. Our criteria are divided into basic criteria, technical flaws, and writing quality flaws.
 
-INSERT IMAGE HERE
+![](images/Report-criteria.png)
 
 
-We set five minimum __Basic Criteria__ that are strict requirements; either a student’s report meets them, or it does not. Items listed under __Technical Flaws__ or __Writing Quality Flaws__ are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, technical and writing quality flaws are marked on a binary "yes/no" scale.
+We set five __Basic Criteria__ based on the fundamental structural errors that we see most often. These are strict minimum requirements; either a student’s report meets them, or it does not. Reports that do not meet these minimum requirements are marked "Unacceptable," and returned with minimal feedback. In theory this seems overly harsh, but in practice, it is not. One year after implementation, this one requirement had reduced the number of incomplete reports submitted for grading from 17-22% of all reports to 1-3% of all reports. GTAs spent less time commenting on incomplete reports, and could focus on more meaningful revisions. End-of-semester averages for student report scores rose 4-6%. 
+
+Items listed under __Technical Flaws__ or __Writing Quality Flaws__ are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, technical and writing quality flaws are marked on a binary "yes/no" scale. Reports are scored as having both technical __and__ writing flaws, having __either__ technical or writing flaws, or having __no or minimal__ technical or writing flaws.
 
 
 ## Workflow
@@ -47,14 +49,13 @@ Open each report in MS Word and SKIM it (1 minute or less), looking for the feat
 |Is there a table or figure summarizing data?| |
 |Quickly skim first 1-3 lines of Discussion. Does author reference their hypothesis?|“No” should go into “Some flaws” group initially, but it could be elsewhere|
 |Does the flow and wording sound reasonable for a technical audience?|“No” should go into “Some Flaws” group|
-|Do figures or data tables at end look right?| | 
-|Do citations at the end look generally right?|Present, but you see errors means report goes in “Some flaws” group.|
+|Do figures or data tables at end look right?|Do citations at the end look generally right?|Present, but you see errors means report goes in “Some flaws” group.|
 |Nothing stands out in first brief skim through|Put in “No obvious flaws” group|
 
 
 ### Second Pass: Double-Check & Read Deeper
 
-This time don’t grade one entire group at once. Take a report from each group in turn. 
+This time don’t grade one entire group at once. Take a report from each provisional group in turn. 
 
 * This helps you avoid getting frustrated when grading. 
 * You are more likely to subconsciously change your grading standards if you keep grading reports of similar quality.

@@ -17,7 +17,9 @@ These are the criteria we use to assign scores to lab reports in our 100-level l
 ![](images/Report-criteria.png)
 
 
-We set five minimum __Basic Criteria__ that are strict requirements; either a student’s report meets them, or it does not. Items listed under __Technical Flaws__ or __Writing Quality Flaws__ are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, technical and writing quality flaws are marked on a binary "yes/no" scale.
+We set five __Basic Criteria__ based on the fundamental structural errors that we see most often. These are strict minimum requirements; either a student’s report meets them, or it does not. Reports that do not meet these minimum requirements are marked "Unacceptable," and returned with minimal feedback. In theory this seems overly harsh, but in practice, it is not. One year after implementation, this one requirement had reduced the number of incomplete reports submitted for grading from 17-22% of all reports to 1-3% of all reports. GTAs spent less time commenting on incomplete reports, and could focus on more meaningful revisions. End-of-semester averages for student report scores rose 4-6%. 
+
+Items listed under __Technical Flaws__ or __Writing Quality Flaws__ are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, technical and writing quality flaws are marked on a binary "yes/no" scale. Reports are scored as having both technical __and__ writing flaws, having __either__ technical or writing flaws, or having __no or minimal__ technical or writing flaws.
 
 
 ## Workflow

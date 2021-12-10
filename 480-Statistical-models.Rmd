@@ -28,7 +28,8 @@ You and a friend a walking through an apple orchard in the autumn. You notice th
 You decide to test it. Each of you picks 6 apples from the tree, and measures the diameter of the branch and the height above ground. These are your data:
 
 __Table 1.__ Weight of apples versus branch diameter and height above ground.
-Branch diameter (cm)|Ht. above ground (m)|Apple wt. (g)|
+
+|Branch diameter (cm)|Ht. above ground (m)|Apple wt. (g)|
 |:-:|:-:|:-:|
 |2.4|4.2|93|
 |7.8|12.9|167|
