@@ -1,4 +1,4 @@
-# Practicing Scientific Literature Reading
+# Practicing Scientific Literature Reading {#readstrats125}
 
 ## Exercise 1: Speed Summary
 
@@ -6,7 +6,7 @@ This is a generic exercise that you can use to practice strategic reading. Your 
 
 Once you have the articles, the exercise should take less than 1 hour. It is short intentionally, so you are less likely to get bogged down or frustrated.
 
-1. PICK ONE READING GOAL [\(listed here\)](http://url) that you want to practice. Start with one in the "new to the field" list. Focus on one reading area at a time. It does not help to do them all at once.
+1. PICK ONE READING GOAL [(listed here)](#reading120) that you want to practice. Start with one in the "new to the field" list. Focus on one reading area at a time. It does not help to do them all at once.
 2. FIND FIVE PRIMARY ARTICLES that you will use to practice strategic reading. The first time your instructor may give you 5 articles and a specific goal to practice. 
     + If you must find your own articles, locate 1 article related to your goal. Then look for in-text citations in the section(s) that are relevant to your goal. Get copies of 4 more cited articles that seem to be related. 
     + Do not worry about whether you have chosen good articles or not; judging their value is part of the exercise. 

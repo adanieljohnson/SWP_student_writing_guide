@@ -1,5 +1,5 @@
 # (PART) How Scientific Literature Works {-}
-# What Do We Mean By Scientific Writing? {-}
+# What Do We Mean By Scientific Writing? {#goals100}
 
 __Scientific writing__ is not the same as technical writing. Technical writing is the type we would see in instruction manuals for scientific instruments or the owner's manual for a car. Scientific writing is the kind that scientists use nearly every day. Their goal is to make an argument which convinces readers that the writer is asking an important (or at least interesting) question, and has some interesting insights related to that question.
 
@@ -8,7 +8,7 @@ Organizational rules and conventions of this genre tell authors what they are ex
 The rest of this Guide explains how to organize and create a lab report or other form of scientific communication. This kind of writing probably is very different from what you have done in the past, so before we dive in, let's step back and talk about the bigger picture. What __goals__ does a scientific writer hope to accomplish (and how will they get there), and what __assumptions__ do they make about their audience?
 
 
-## Scientific Writing Has Specific Goals {-}
+## Scientific Writing Has Specific Goals
 
 The goal of scientific writing is to make an argument which convinces readers that the writer is asking an important (or at least interesting) question, and has found a possible answer to the original question.
 
@@ -21,7 +21,7 @@ Next the writer makes one or more claims related to that question, then provides
 Some review literature is meant to summarize a large amount of data, rather than make claims in support of a particular field or point of view. An example of this is the 5th Assessment Report (AR5) from the Intergovernmental Panel on Climate Change (http://www.ipcc.ch/report/ar5/.) AR5 is the definitive source of data on global climate change up to 2013. AR5 was written by IPCC, but it brings together data from primary literature published by other scientists too. 
 
 
-## Scientific Writing Makes Assumptions About the Audience {-}
+## Scientific Writing Makes Assumptions About the Audience
 
 The first assumption is that its readers are scientists working in the same or a closely related field. Each field has its own vocabulary, accepted styles and formats for sharing information. Authors assume their readers know the conventions of their field, including how and where important information is located in written work. Authors also assume their readers know certain general background concepts in their field. If the readers do not, they assume their readers will look for that background on their own. 
 
@@ -34,7 +34,7 @@ This is why so many students struggle at first reading scientific articles: they
 Answering these questions for just a few articles in a field can uncover many of the assumptions that authors in that field make.
 
 
-## Scientific Writing Relies On a Specialized Vocabulary {-}
+## Scientific Writing Relies On a Specialized Vocabulary
 
 Some words and phrases are unique to STEM, or used very rarely outside of STEM contexts. For example, it would be very unusual to hear someone use the phrase "positive control" in daily conversation, but in scientific writing (especially in biology), this phrase has a very specific meaning. 
 
@@ -52,7 +52,7 @@ None of these are accepted as part of the scientific literature. You should not 
 Most web sites are not considered scientific literature because they are not peer reviewed. The exceptions to this are curated web databases like Genbank (where data scientists regularly check data for accuracy) and official pages of scholarly projects and federal government agencies. 
 
 
-## Where to Learn More 
+## Where to Learn More
 
 [Is It Primary Literature?](https://www.youtube.com/watch?v=3o35J2QihJY)
 

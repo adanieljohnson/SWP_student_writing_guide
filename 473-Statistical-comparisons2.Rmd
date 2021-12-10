@@ -1,4 +1,4 @@
-# Biostatistics 3: Comparing Three or More Groups - ANOVA
+# Biostatistics 3: Comparing Three or More Groups - ANOVA {#compstatstwo473}
 
 Analysis of variance (ANOVA) is an extension of t-tests. It tests whether the means of measurements from three or more treatment groups are equal. It works by comparing whether individuals chosen from different groups are, on average, more different than individuals chosen from the same group. 
 

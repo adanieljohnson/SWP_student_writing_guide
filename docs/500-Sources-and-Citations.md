@@ -1,5 +1,5 @@
 # (PART) Using Sources {-}
-# Citing Literature
+# Citing Literature {#sources500}
 
 We find that a lot of our students struggle with using and citing external sources. Like several other elements of scientific writing, this is partly because how we use and cite sources is different from what you might be used to doing in the social sciences or humanities. To make citing sources more understandable, we divided this part of the Guide into five topics:
 

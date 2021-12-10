@@ -1,4 +1,4 @@
-# Introduction
+# Introduction {#introduction340}
 
 The introduction tells the reader what topic you are addressing, presents the current state of knowledge of this topic, and ties prior knowledge and background information to your biological question. 
 
@@ -19,7 +19,7 @@ The Introduction should make it clear what your dependent and independent variab
 
 The Introduction should always include the scientific name of any study organisms (in _italics_, with first letter of the genus capitalized and the rest of the name in lower case). If you are not using an intact organism, always say what model system you are using. Include a brief (1-2 sentences) explanation for why the model organism or system is a good choice for your experiment.
 
-Sources for all information that is not common knowledge need to be referenced using the (Name, Year) citation format [\(described further here\)](http:url). Use primary literature whenever possible, and avoid secondary literature unless that is the only source you can find; do not use non-scientific literature at all. If you are unsure whether or not a source is an appropriate one, ask your instructor.
+Sources for all information that is not common knowledge need to be referenced using the (Name, Year) citation format ([described further here](#citformats510)). Use primary literature whenever possible, and avoid secondary literature unless that is the only source you can find; do not use non-scientific literature at all. If you are unsure whether or not a source is an appropriate one, ask your instructor.
 
 Often we see students try to find supporting sources that describe their exact same experiment. __Don’t try to find an experiment just like yours__. You do not need a source to prove you “did the experiment right.” The goal of doing and reporting experiments is to widen our knowledge of the world around us. We use what others have published as a starting point for asking new questions. There is a very practical reason not to do this too. If you sent a paper out for review that is nearly identical to another scientist’s work, the editor of the journal will immediately return it with a rejection letter saying that you have not made any significant contribution to that particular field. 
 

@@ -1,4 +1,4 @@
-# Biostatistics 2: Comparing Groups - T-Tests
+# Biostatistics 2: Comparing Groups - T-Tests {#compstatsone470}
 
 T-tests are a family of statistical tests that compare two groups of data points to determine whether the means of the measurement variable are the same. All of the tests in the t-test family use the t-distribution to estimate probabilities. The main differences between the various t-tests is what and how the groups are compared.  
 
@@ -60,13 +60,13 @@ It looks like there is a difference in the height of students on west vs. east c
 
 ### What Do the Statistical Hypotheses Look Like For a Two-Sample T-test?
 
-The statistical __null hypothesis (H0)__ is that the means of the measurement variable are equal for the two categories.
+The statistical __null hypothesis (H<sub>0</sub>)__ is that the means of the measurement variable are equal for the two categories.
 
 > H<sub>0</sub>:   x̅ (Group 1) = x̅ (Group 2)
 
 In terms of our original question, the null hypothesis is that there is no difference in the mean height of students living on east (Group 1) vs. west (Group 2) campus.
 
-There are two different ways you can describe the __alternative hypothesis (HA)__. Which way you choose depends on what you know already, or what your predictions are.
+There are two different ways you can describe the __alternative hypothesis (H<sub>A</sub>)__. Which way you choose depends on what you know already, or what your predictions are.
 
 If you have some prior information or other observations, you can make a prediction that the two groups will be different from one another in a particular direction. In other words, you can predict in advance which group will have a mean that is significantly greater or less than that of the other group. Depending on the direction you choose, the alternate hypothesis will be:
 

@@ -1,4 +1,4 @@
-# Avoiding Mistakes When Citing Sources
+# Avoiding Mistakes When Citing Sources {#citmistakes515}
 
 When grading students' reports we see certain mistakes related to citations come up again and again. 
 
@@ -25,7 +25,7 @@ Web sites of scholarly research projects associated with a research institution 
 
 Web pages that provide numbers, facts, or summary data are acceptable IF they document the source of the data they provide. For example, the image below is a table of CO<sub>2</sub> emissions for a subset of countries taken from Gapminder.org. 
 
-![Web-data](Web_data_documentation.png)
+![Web-data](images/Web_data_documentation.png)
 
 In the upper left of the image they provide the source of the data shown in the table. This would be a reasonable web source to cite if you wanted to support a statement about differences in growth of carbon emissions in Argentina versus Belgium in the first decade of the 20th century. 
 

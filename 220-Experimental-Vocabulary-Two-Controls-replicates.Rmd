@@ -1,4 +1,4 @@
-# The Vocabulary of Experiments 2 - Controls & Replicates {-}
+# The Vocabulary of Experiments 2 - Controls & Replicates {#replicates220}
 
 ## Terms That Describe Groups Within an Experiment
 
@@ -50,7 +50,9 @@ Here is a simple example. We want to know if hive location affects the size of w
 The data shown below are the raw data. Looking just at these numbers, what would you conclude?
 
 Yard Hive: 1.003, 0.991, 1.001, 0.991, 1.008, 0.998, 0.991, 0.993, 1.001, 0.991
+
 Clover Field Hive: 1.3037, 1.288, 1.301, 1.289, 1.310, 1.298, 1.288, 1.291, 1.301, 1.288
+
 Orchard Hive: 1.103, 1.090, 1.1008, 1.091, 1.109, 1.098, 1.090, 1.092, 1.101, 1.087
 
 The table below shows the summarized data. It is much easier to make a comparison between honeybee sizes at the three locations using the summarized data. 

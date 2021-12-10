@@ -1,4 +1,4 @@
-# Summarizing and Analyzing Your Data With Statistics 
+# Summarizing and Analyzing Your Data With Statistics {#biostats450}
 
 You will be using a variety of statistical tests to evaluate your data. These tests quantify the probability that you have obtained your results by chance, which lets you to determine whether you should accept or reject your hypothesis. 
 

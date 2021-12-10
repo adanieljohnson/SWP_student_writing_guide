@@ -1,4 +1,4 @@
-# Paraphrasing Exercise 2. Picking the Main Points {-}
+# Paraphrasing 2. Picking the Main Points {#paraphrasingtwo507}
 
 Exercise 1 pointed out the main features of a well-written paraphrasing statement.
 * The paraphrased sentence captures the key idea of the original paragraph.

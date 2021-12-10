@@ -1,7 +1,5 @@
 # (PART) Instructor Resources {-}
-# The Instructor Toolbox 
-
-Man presentations and posters, which we collectively call __scientific communication__.
+# The Instructor Toolbox {#teachertools700}
 
 Part 7 has Resources for Instructors. It may not be part of your version of the Guide.
 

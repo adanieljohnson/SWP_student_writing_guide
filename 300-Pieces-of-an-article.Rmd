@@ -1,5 +1,5 @@
 # (PART) PARTS OF AN ARTICLE OR REPORT {-}
-# How Articles Are Organized
+# How Articles Are Organized {#articleparts300}
 
 Part 3 focuses specifically on the most commonly seen format of scientific articles and lab reports in biology. We show you what goes in each section, point out where our own students struggle with each section, and suggest ways you can avoid common pitfalls. 
 
@@ -20,6 +20,9 @@ Each of these sections is explained in more detail on separate Guide pages. We h
 
 ## Other Orders and Formats
 
-The order we just described is widely used but is by no means the only format you will encounter. 
+The order we just described is widely used but is by no means the only format you might encounter. Two others are fairly common:
+
+* Combined Results and Discussion. Rather than present the data then interpret it, the authors do both at the same time. 
+* Introduction, Results and Discussion, Methods last. Some journals do this because most of their readers skip the Methods and go straight to the Results.
 
 

@@ -1,4 +1,4 @@
-# Paraphrasing Exercise 3. Checking Context {-}
+# Paraphrasing 3. Checking Context {#paraphrasingthree508}
 
 Exercise 1 pointed out the main features of a well-written paraphrasing statement.
 * The paraphrased sentence captures the key idea of the original paragraph.

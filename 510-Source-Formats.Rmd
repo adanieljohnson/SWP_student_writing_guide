@@ -1,4 +1,4 @@
-# Citing Your Sources
+# Citing Your Sources {#citformats510}
 
 Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication. Unlike other formats you might have used in humanities or social science classes, there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher. That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats. 
 

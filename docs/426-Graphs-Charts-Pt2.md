@@ -1,4 +1,4 @@
-# Graphs, Plots, and Charts Part 2 
+# Graphs, Plots, and Charts Part 2 {#chartstwo426}
 
 ## Writing Figure Legends
 

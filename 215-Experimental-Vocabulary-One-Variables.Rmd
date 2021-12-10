@@ -1,4 +1,4 @@
-# The Vocabulary of Experiments - Variables {-}
+# The Vocabulary of Experiments - Variables {#variables215}
 
 ## Vocabulary Is a Hurdle for New Scientific Writers
 
@@ -18,7 +18,7 @@ An __independent variable__ (also known as a predictor, explanatory, or exposure
 
 For example, if you grow mung beans with 5 different light conditions and measure their transpiration rate, the amount of light is an independent variable (it is what you are controlling in your experiment.) The transpiration rate is a dependent variable, because you are predicting that it changes in response to different light conditions. 
 
-[This YouTube video \(link\)](https://youtu.be/s-fVRJyEvS0) explains independent and dependent variables further.
+[This YouTube video](https://youtu.be/s-fVRJyEvS0) explains independent and dependent variables further.
 
 
 ### Measurement, Categorical, and Ranked Variables

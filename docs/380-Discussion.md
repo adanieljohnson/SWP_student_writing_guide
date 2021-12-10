@@ -1,5 +1,4 @@
-# Discussion
-
+# Discussion {#discussion380}
 The Discussion section is where you interpret your results and explain what they mean. This section also is where you relate your results back to the larger body of scientific knowledge. By the end of the Discussion section, you should be talking in general, broad terms once again. Be careful not to get too broad though; your experiment is not the explanation for everything. 
 
 These are the questions your should try to answer in the Discussion.

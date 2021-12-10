@@ -1,4 +1,4 @@
-# Photographs, Diagrams and Illustrations
+# Photographs, Diagrams and Illustrations {#photos430}
 
 Photos and diagrams (drawings, maps, or other visual data) summarize data that are not described easily in words or cannot be presented in a graph. A map of the 2–dimensional distribution of organisms in a test site, or photos of the pattern of blue staining in control and cold–treated transgenic plants, are two examples. An illustration summarizing the workflow of the experiment would be another example. 
 

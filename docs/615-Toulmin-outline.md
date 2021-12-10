@@ -1,4 +1,4 @@
-# How to Construct a Good Argument
+# How to Construct a Good Argument {#toulmin615}
 ## The Upside of Arguments
 
 Something we see a lot in scientific writing are arguments. In this situation, an argument does not mean a verbal disagreement, but rather a statement or claim backed by logical reasoning and evidence.
@@ -67,8 +67,8 @@ There are five simple but powerful questions we can use to assess any argument w
 1. Is the claim itself stated clearly?
 2. Is the claim based on clearly stated and relevant evidence?
 3. Is the reasoning that connects the evidence to claim clear and sound?
-4. Can the claim be rebutted? Is there another possible explanation? Is there conflicting evidence?
-5. Are the limits of the claim clear? Does the writer or speaker provide enough information that their audience knows when the claim does not apply or is not true?
+4. Can the claim be __rebutted__? Is there another possible explanation? Is there conflicting evidence?
+5. Are the __limits of the claim__ clear? Does the writer or speaker provide enough information that their audience knows when the claim does not apply or is not true?
 
 Remember, your goal in scientific writing is to make a strong argument that supports a claim using multiple pieces of evidence and sound reasoning.
 

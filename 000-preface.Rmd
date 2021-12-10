@@ -1,20 +1,20 @@
-# (PART) Preface {-}
-# Welcome! {-}
+# Preface {-}
+## Welcome! {-}
 
-Many undergraduate biology courses require lab reports and other types of __scientific writing.__ This genre is different from technical writing, which is the style we see in instruction manuals. Scientific writing is what scientists do every day when they create articles for publication, summarize work they have done for their employer, when they apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook. Scientific writing is very closely connected with other kinds of __scientific communication__ like oral presentations and scientific posters because the thinking and methods we use to share information are very similar.
+Many undergraduate biology courses require lab reports and other types of __scientific writing.__ This genre is different from the technical writing we see in instruction manuals for cars, computers, or other machines and tools. Scientific writing is what scientists do every day when they create articles for publication, summarize work they have done for their employer, when they apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook. Scientific writing is very closely connected with other kinds of __scientific communication__ like oral presentations and scientific posters because the thinking and methods we use to share information are very similar.
 
-Formal scientific communication is very different from what most students have done in the past. It is organized in a very specific way and follows particular rules and conventions. In this Guide we will focus on how to build a report that models a journal article. We're doing that because most parts of a lab report also are found in other kinds of scientific communication. For example, once you learn how to organize the Introduction to a lab report, you pretty much know how to organize the background section of an oral presentation. Making data figures is another example; the same figure formats used in a lab report could be used in a journal article, oral presentation, or poster.
+Formal scientific communication is very different from what most students have done in the past. It is organized in a very specific way and follows particular rules and conventions. In this Guide we will focus on how to build a lab report that models a journal article. We're using this as our model because most parts of a lab report also appear in other kinds of scientific communication. For example, once you learn how to organize the Introduction to a lab report, you pretty much know how to organize the background section of an oral presentation. Making data figures is another example; the same figure formats used in a lab report can be used in a journal article, oral presentation, or poster.
 
 
 ## How This Guide Is Organized {-}
 
-This Resource Guide talks about scientific writing in a larger context. We think that, when you understand the WHY behind scientific writing, and WHERE it sits in relation to other parts of science, it is easier to understand HOW to write effectively.
+We think that, when you understand the WHY behind scientific writing, and WHERE it sits in relation to other parts of science, it is easier to understand HOW to write effectively. So this Resource Guide puts scientific writing in a larger context. 
 
-__Part 1__ looks at what makes scientific writing distinctive, and how it is organized to meet its goals. We explain how to read scientific literature, because that is the fastest way to understand the standards and conventions authors follow in a field. 
+__Part 1__ looks at what makes scientific writing distinctive, and how it is organized to meet its goals. We also explain how to __read__ scientific literature, because that is the fastest way to understand the standards and conventions authors follow in a field. 
 
-__Part 2__ shows how hypotheses and experimental design are connected to scientific writing. We tell you how to turn questions about the world around us into testable hypotheses, and how to design an experiment that provides reliable data to start answering those questions. 
+__Part 2__ explains how hypotheses and experimental design are connected to scientific writing. We tell you how to turn questions about the world around us into testable hypotheses, then design an experiment that provides reliable data to start answering those questions. 
 
-__Part 3__ focuses specifically on scientific articles and lab reports for biology. We show what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. 
+__Part 3__ is a deep dive into scientific articles and lab reports for biology. We show you what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. Your own instructors will add their observations and suggestions too. 
 
 __Part 4__ shows you how to summarize, analyze, and present the data collected during experiments. We include a basic guide to statistical analysis, with links to more detailed sources of information.
 
@@ -44,9 +44,9 @@ In the end, we want you as a scientific writer to feel confident that you know W
 ## Who Are We? {-}
 This Guide was created as part of the __STEM Writing Project__ at Wake Forest University. We are STEM teachers and education researchers who want to make scientific writing a bigger part of students' training. Scientific writing assignments are hard to manage in large introductory classes, and hard to evaluate systematically. This Writing Guide is one of many tools we are developing to help STEM teachers solve this challenge.
 
-If you are interested in being a contributor, [contact us about access to our GitHub project space](http://github.com).
+If you are interested in being a contributor, [contact us about accessing our GitHub projects](https://github.com/adanieljohnson/stemwritingproject).
 
 
 ## Funding and Support {-}
-This project was funded in part by National Science Foundation grant #1712423: Improving Scientific Writing In Undergraduate STEM Classrooms - A Training Program for Students and GTAs Aided By Information Extraction Technology
+This project was funded in part by National Science Foundation grant #1712423: Improving Scientific Writing In Undergraduate STEM Classrooms - A Training Program for Students and GTAs Aided By Information Extraction Technology.
 

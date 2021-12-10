@@ -1,18 +1,16 @@
 # (PART) Appendices {-}
-# The Instructor Toolbox 
+# Overview {-}
 
-Man presentations and posters, which we collectively call __scientific communication__.
+## Structure {#appendix800}
 
-The Appendices contain practice cases with examples of lab reports written using the materials in the case files.
+Each Appendix contains a full set of materials that instructors can use to teach students how to write a standard lab report. Instructors whose students do not have the opportunity to conduct their own experiments and generate their own original data can write a complete report using the resources in each Appendix. Alternatively, an instructor may want students to write up their first reports using one of these standardized datasets, so the students can focus on writing and not data collection and analysis. 
 
-* Appendices: Practice Cases and Example Reports
-    + Appendix A. Ecology
-    + Appendix B. Physiology
-    + Appendix C. Cell
-    + Each case has:
-        - General starter question and observations
-        - 1 or 2 open-access articles related to the topic
-        - A Step-by-Step outline
-        - A raw dataset
-        - Summarized data
-        - Examples of a poorly- and a well-written report.
+Materials provided include:
+
+* General starter question and observations
+* 1 or 2 open-access articles related to the topic
+* An outline of the proposed experimental design
+* A step-by-step outline of the experimental procedures used to collect data
+* The raw dataset, and
+* Examples of poorly- and well-written student reports, both with and without coaching-oriented annotations.
+

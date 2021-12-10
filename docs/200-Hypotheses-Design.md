@@ -4,7 +4,7 @@
 Part 2 of this Guide shows you how hypotheses and experimental design are connected to scientific writing. You will learn how to turn your questions about the world around us into testable hypotheses, and how to design an experiment that provides you with reliable data that you can use to start answering your questions. 
 
 
-##Anatomy of a Hypothesis
+## Anatomy of a Hypothesis {#hypothesis200}
 
 All hypotheses have two basic parts: a set of conditions that exist or can be created (the “if” part), and a predicted outcome (the “then” part.) 
 

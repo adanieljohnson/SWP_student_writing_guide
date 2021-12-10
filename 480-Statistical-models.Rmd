@@ -1,4 +1,4 @@
-# Biostatistics 5: Statistical Models
+# Biostatistics 5: Statistical Models {#models480}
 
 Statistical models are extremely powerful tools for exploring relationships between variables in datasets. Many of the advanced predictive algorithms used by Google, Amazon, Netflix, and other companies to make personalized recommendations for you are statistical models. They use what others have watched, purchased, or searched for in the past to predict what you want or would like. 
 

@@ -1,4 +1,4 @@
-# Making Data Tables 
+# Making Data Tables {#tables435} 
 
 Students sometimes get confused when we say tables, and it is partly our fault, because there are TWO kinds. __Data collection tables__ are what you use to collect and organize raw data as you conduct an experiment. Your data collection tables are drawn in a paper-based lab notebook, entered in an electronic lab notebook, or created using MS Excel or Word. These tables contain unedited information that is meant for your use. You may be asked to turn in data collection tables as part of a class assignment. However a lab report should never contain raw unanalyzed data. 
 

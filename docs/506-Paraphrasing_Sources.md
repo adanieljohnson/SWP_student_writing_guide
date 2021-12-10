@@ -1,4 +1,4 @@
-# How to Paraphrase a Source {-}
+# How to Paraphrase a Source {#paraphrasingone506}
 
 Learning how to summarize an idea from a published article is an important part of scientific writing. Paraphrasing helps you better understand others ideas. It also lets you avoid copying and quoting the original texts, which takes up valuable space in your own writing. 
 
