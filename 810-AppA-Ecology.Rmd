@@ -1,14 +1,32 @@
 # Appendix A: Ecology {-}
 
-As long-time scientific writing trainers, we see patterns of mistakes that many students make when they first start out. 
+## Overview {#appa810}
 
-## Structure {#appa810}
 
-810-AppendixA-Ecology.Rmd
-        - General starter question and observations
-        - 1 or 2 open-access articles related to the topic
-        - A Step-by-Step outline
-        - A raw dataset
-        - Summarized data
-        - Examples of a poorly- and a well-written report.
+## Opening Questions, Observations
 
+
+## Related Open-Access Articles
+
+
+## Experimental Plan
+
+
+## Raw Dataset
+
+Use old demo dataset from Resource Allocation in BIO113
+
+## Summarized Data
+
+Demonstrate ANOVA, post-hoc, data tables, box-and-whisker plots for class summary
+
+## Claims, Evidence, Reasoning
+
+
+## A Poorly Written Report
+
+Page 813
+
+## A Well-Written Report
+
+Page 815

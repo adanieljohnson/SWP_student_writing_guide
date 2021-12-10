@@ -1,12 +1,33 @@
 # Appendix C: Cell Biology {-}
 
-## Structure {#appc830}
-830-AppendixC-Cell.Rmd
-        - General starter question and observations
-        - 1 or 2 open-access articles related to the topic
-        - A Step-by-Step outline
-        - A raw dataset
-        - Summarized data
-        - Examples of a poorly- and a well-written report.
+## Overview {#appc830}
 
 
+
+## Opening Questions, Observations
+
+
+## Related Open-Access Articles
+
+
+## Experimental Plan
+
+
+## Raw Dataset
+
+Use data from enzyme functions lab in BIO214
+
+## Summarized Data
+
+Demonstrate linear regression, data tables
+
+## Claims, Evidence, Reasoning
+
+
+## A Poorly Written Report
+
+Page 833
+
+## A Well-Written Report
+
+Page 835
