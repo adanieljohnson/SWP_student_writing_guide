@@ -18,12 +18,17 @@ Gottschalk, K. K., & Hjortshoj, K. (2004). _The elements of teaching writing: A 
 
 Matthews, J. R., & Matthews, R. W. (2014). _Successful scientific writing: A step-by-step guide for the biological and medical sciences_ (Fourth edition). Cambridge University Press.
 
+Turbek, S. P, Chock, T. M, Donahue, K., et al. (2016). Scientific Writing Made Easy: A Step- by- Step Guide to Undergraduate Writing in the Biological Sciences. _Bulletin of the Ecological Society of America_, 97(4), 417-426. [Link to source.](https://doi.org/10.1002/bes2.1258)
+
+> This is a shorter, more approachable guide for students, though it does not provide many specific details.
+
+<br>
 
 ## Supporting Tools
 
 Center for History and New Media. (n.d.). _Zotero Quick Start Guide_. [Link to source.](http://zotero.org/support/quick_start_guide)
 
-> We recommend students learn to use Zotero because it is free, is compatible with most research databases, and accounts transfer seemlessly between institutions. Also, the learning curve is slightly lower than Mendelay (a competing service.)
+> We recommend students learn to use Zotero because it is free, is compatible with most research databases, and accounts transfer seemlessly between institutions. If your institution has a preferred platform, provide students with locally appropriate handouts and guides.
 
 <br>
 
@@ -53,6 +58,8 @@ White, B., Frederiksen, J., & Collins, A. (2009). The interplay of scientific in
 
 ## Best Practices For Teaching Writing
 
+> How most students learn to write in the sciences is very different from what is recommended best practices. The references in this section provide a starting point for engaging in meaningful dialogue about writing as learning.
+
 Adler-Kassner, L., Barnhouse, S., Eodice, M., Estrem, M., Irvin, L., Kelly-Riley, D., Mitchler, S., & Palmquist, M. (2015). _CCCC Principles and Standards for the Teaching of Writing_. [Link to source.](https://cccc.ncte.org/cccc/resources/positions/postsecondarywriting)
 
 Bahls, P. (2012). _Student writing in the quantitative disciplines: A guide for college faculty_ (1st ed). Jossey-Bass.
@@ -67,6 +74,8 @@ Underwood, J. S., & Tregidgo, A. P. (2006). Improving student writing through ef
 
 
 ## Instructor Professional Development
+
+> Few STEM faculty are professionally trained to teach writing. We have a great deal we can learn from the WAC/WID community ourselves, and there are important lessons to be passed along to GTAs.
 
 Hall, E., & Hughes, B. (2011). Preparing Faculty, Professionalizing Fellows: Keys to Success with Undergraduate Writing Fellows in WAC. _The WAC Journal_, _22_(1), 21–40. [Link to source.](https://doi.org/10.37514/WAC-J.2011.22.1.03)
 
@@ -86,6 +95,8 @@ Tucker, K. (2018). The Cuttlefish Problem: Readability and “Science-ese” in 
 
 
 ## Writing As a Research Question
+
+> Since the mid-1990s, there has been tremendous growth in discipline-based education research and scholarship of teaching and learning. How students develop disciplinary writing skills is one of many potentially fertile areas for investigation. 
 
 Anson, C. M. (2000). Talking about writing: A classroom-based study of students’ reflections on their drafts. In J. B. Smith & K. B. Yancey (Eds.), _Self-assessment and development in writing: A collaborative inquiry_ (pp. 59–74). Hampton Press.
 

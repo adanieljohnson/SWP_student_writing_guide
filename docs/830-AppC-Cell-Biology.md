@@ -24,10 +24,8 @@ Demonstrate linear regression, data tables
 ## Claims, Evidence, Reasoning
 
 
-## A Poorly Written Report
+## Sample Reports
 
-Page 833
+[A poorly written report](#appc833)
 
-## A Well-Written Report
-
-Page 835
+[A Well-Written Report](#appc835)

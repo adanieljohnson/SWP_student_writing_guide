@@ -9,6 +9,7 @@ Tables 1-3 below outline the most common statistical methods used in general bio
 * Sample of the test applied to a small dataset; and
 * Description of how to interpret and report your data.
 
+<br>
 
 __Table 1.__ Descriptive and Summary Statistics
 

@@ -1,22 +1,22 @@
 # Citing Your Sources {#citformats510}
 
-Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication. Unlike other formats you might have used in humanities or social science classes, there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher. That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats. 
+Life sciences journals follow the __CSE (Council of Science Editors) Style Guide__ for print and web publication. Unlike other formats you might have used in humanities or social science classes, there is not a single standard "CSE citation style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher. That means if you randomly select primary articles from 10 different life science journals, you might see 10 slightly to very different citation formats. 
 
 __There is no one "right" citation format__. Each format has benefits and drawbacks. We think it is more important to focus on using citations well than to focus on whether commas are in the right place. Still, it is useful if you know a little about different formats so you know how to find the information you need when reading articles.
 
 
 ## Types of In-Text Citations
 
-The two main formats for in-text citations are the name-year format, and various numbered citations formats. Using footnotes for citing sources is rarely used in the sciences.
+The two main formats for in-text citations are the name-year format, and various numbered citations formats. Using footnotes for citing sources is rarely done in the sciences.
 
 
 ### Name-Year Format
 
 This style of in-text citations uses the last names of the first 1-3 authors of a source and the year of publication to cite the source. Here is an example of the name-year format in action, using the paragraph from the top of this page:
 
-> Life sciences journals follow the CSE (Council of Science Editors) style guide for print and web publication (CSE, 2017). Unlike other formats you might have used in humanities or social science classes (Johnson, 2018), there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher (Taylor & Coleridge, 2019). That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats (Johnson, 2018; Albert, et al. 2010). 
+> Life sciences journals follow the CSE (Council of Science Editors) Style Guide for print and web publication (CSE, 2017). Unlike other formats you might have used in humanities or social science classes (Johnson, 2018), there is not a single standard "CSE style." Instead CSE recommends what information citations should contain, then leaves the details of styling up to each journal or publisher (Taylor & Coleridge, 2019). That means if you randomly select primary articles from 10 different life science journals, you will see 10 slightly to very different citation formats (Johnson, 2018; Albert, et al. 2010). 
 
-Different journals use slightly different versions of this basic in-text citation format. Some include first name initials (Johnson A.D., 2018), have or do not have commas or periods, etc. The benefit of this format is that readers can tell when evidence you cite was published, and who published it. The trade-off is each citation takes up more space in the text. Some people find it interferes with reading flow too. 
+Different journals use slightly different versions of this basic in-text citation format. Some include first name initials (Johnson A.D., 2018), do or do not have commas or periods, etc. The benefit of this format is that readers can see instantly when the evidence you cite was published, and who published it. The trade-off is each citation takes up more space in the text. Some people find it interferes with reading flow too. 
 
 
 ### Numbered List Formats
@@ -51,14 +51,14 @@ In-text numbers are more compact and less distracting, but they do not tell read
 
 ## What Do WE Recommend?
 
-In our introductory courses we use the standard, plain-vanilla __APA name-year citation format__. It is well documented and most reference managers (including Zotero) support it. Citations can be downloaded in APA-compatible format directly from PubMed, Web of Science, and most other databases. If a database does not offer APA style as an export option, they usually offer the Harvard citation format, which is almost the same. Alternatively citations can be downloaded in RIS format, imported into Zotero, and converted to APA format.
+In our introductory courses we use the standard __APA name-year citation format__. It is well documented and most reference managers (including Zotero) support it. Citations can be downloaded directly from PubMed, Web of Science, and most other databases in APA-compatible format. Citations also can be downloaded in RIS format, imported into Zotero, and converted to APA format.
 
-__We do NOT follow the full APA Style Guide, only the citations formats.__ For example, APA style allows direct quotes in text; we do not allow our students to quote sources. In the past, we found students often cited quotes incorrectly. Even if they cited the sources correctly, students quoted so much from sources that almost none of what they wrote was their own words. When we eliminated quotes entirely, our students started to learn to paraphrase and use sources sooner, and could do it more accurately.
+__We do NOT follow the full APA Style Guide, only the citations formats.__ For example, APA style allows direct quotes in text; we do not allow our students to quote sources. In the past, we found students often imcorrectly cited their quotes. Even when they cited the sources correctly, students quoted so much from sources that almost none of what they wrote was in their own words. So we eliminated quotes entirely, and as a result our students started to learn to paraphrase and use sources sooner, and could do so more accurately.
 
 
 ### Formats For In-Text Citations
 
-APA allows both parenthetical or narrative versions of the name-year in-text format. Parenthetical citations are more common. For example, this is a parenthetical citation for a source with one author:
+APA allows both parenthetical and narrative in-text versions of the name-year format. Parenthetical citations are more common. For example, this is a parenthetical citation for a source with one author:
 
 > Learning theories (Brown, 2014) point to practical ways to improve rats' ability to solve the maze puzzle without requiring more training time.
 
@@ -79,7 +79,7 @@ In practice we try to discourage our students from using narrative citations, at
 
 ### Formats For The Literature Cited Section
 
-The APA formats for the most common types of sources used in lab reports our outlined below. The [complete guide to APA Citation Formats](https://apastyle.apa.org/style-grammar-guidelines/references/examples)  is available online. Look there for other citation formats, but remember APA supports many source types that are not appropriate for lab reports.
+The APA formats for the most common types of sources used in lab reports our outlined below. The [complete guide to APA Citation Formats](https://apastyle.apa.org/style-grammar-guidelines/references/examples) is available online. Look there for other citation formats, but remember APA supports many source types that are not appropriate for lab reports.
 
 
 #### Journal Article with Page Numbers
@@ -221,11 +221,11 @@ Sullivan, T. J. (2017). Molecular Ecology, Disease Ecology, and Candidate Genes 
 
 ### Using and Citing Electronic Materials
 
-We see students make a LOT of mistakes when using electronic sources. That is why we do not let students in our program use them as their main sources of information. If you plan to use electronic materials as part of your cited sources, you need to be very careful to cite them correctly.
+We see students make a LOT of mistakes when using electronic sources. That is why we do not let our students use them as their main sources of information. If you plan to use electronic materials as part of your cited sources, you need to be very careful to cite them correctly.
 
 The most common mistake we see is students using a URL or web address for an article as a citation. __This is not acceptable in scientific writing.__ A valid citation for an electronic source still has the names of the authors, name of the resource, and when and where it was accessed. Never use just the URL from a Pubmed, Web of Science, or Google Scholar page, or a DOI link on its own to identify or cite a source. 
 
-The other common mistake we see students make is using unreliable web sources. General access web pages are not acceptable sources because the content is not peer reviewed for accuracy by subject matter experts. Wikipedia should not be used as a sources for that reason. Electronic sources need to be peer reviewed, and preferably primary sources.  
+The other common mistake we see students make is using unreliable web sources. General access web pages are not acceptable sources because the content is not peer reviewed for accuracy by subject matter experts. Wikipedia should not be used as a sources for that reason. Electronic sources need to be peer reviewed, and preferably primary sources.
 
 In general, you can safely use electronic materials obtained from official publications of government agencies (site URLs usually end with “.gov”). Web sites of scholarly research projects associated with a research institution or university are acceptable sources, but should never be the sole source of information. 
 

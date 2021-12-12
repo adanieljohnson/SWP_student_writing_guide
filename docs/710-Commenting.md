@@ -35,9 +35,9 @@ Here is a breakdown the individual elements in the comment.
 ### Use In-Text Comments to Give Shorter Reflective Suggestions
 The excerpt below from a student report has two comments for the same block of text. The first version is a simple correction. The second version invites deeper thinking.
 
-INSERT IMAGE HERE
+![](images/In-text-comment.png)
 
-These are more examples of shorter reflective comments embedded in report pages. Read each comment. Try to identify the specific information or guidance/rationale, and how each comment encourages deeper thought.
+Below are more examples of shorter reflective comments embedded in report pages. Read each comment. Try to identify the specific information or guidance/rationale, and how each comment encourages deeper thought.
 
 * Did you mean for each leg before and after injection? Why is that important?
 * What is the relevance of this observation in the moth life cycle?

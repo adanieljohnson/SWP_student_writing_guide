@@ -1,20 +1,11 @@
 # (PART) Instructor Resources {-}
 # The Instructor Toolbox {#teachertools700}
 
-Part 7 has Resources for Instructors. It may not be part of your version of the Guide.
+Part 7 of the Resource Guide is intended for Instructors. It can be removed from the student edition of the Resource Guide with no loss of content. Topics included here are:
 
-The Appendices contain practice cases with examples of lab reports written using the materials in the case files.
+* Bins-based lab report grading.
+* Using reflective coaching to comment on student reports.
+* Strategies for training GTAs to teach scientific writing.
+*  An annotated Bibliography for those interested in going deeper.
 
-* Part 7: Resources for Instructors (700)
-    + d
-    + d
-    + d
-    + d
-    + Annotated Bibliography
-
-Scientific Writing Made Easy: A Step- by- Step Guide to Undergraduate Writing in the Biological Sciences
-Sheela P. Turbek,1 Taylor M. Chock,1 Kyle Donahue,1 Caroline A. Havrilla,1 Angela M. Oliverio,1,2Stephanie K. P
-
-
-
-
+Appendices A-C are practice cases that instructors can use for training activities or for teaching students to write lab reports when they do not have access to labs. 

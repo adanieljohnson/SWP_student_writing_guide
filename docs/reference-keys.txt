@@ -22,16 +22,6 @@ biological-hypotheses
 statistical-hypotheses
 wheres-the-hypothesis-in-a-research-article
 expdesign210
-step-1-collect-background-information-and-observations.
-step-2.-decide-what-specific-biological-question-you-want-to-try-to-answer.
-step-3.-decide-which-variables-are-relevant-to-the-question-you-are-asking.
-step-4.-determine-which-variables-are-relevant-to-the-question.
-step-5.-use-the-variables-to-state-your-the-question-in-the-form-of-a-statistical-null-hypothesis-and-alternate-hypothesis.
-step-6.-design-an-experiment-that-controls-or-randomizes-the-confounding-variables.
-step-7.-conduct-the-experiment-as-planned.
-step-8.-summarize-and-analyze-your-raw-data.
-step-9.-decide-what-your-summarized-and-analyzed-data-mean.
-step-10.-think-about-how-your-results-fit-into-a-bigger-picture.
 practice-cases
 variables215
 vocabulary-is-a-hurdle-for-new-scientific-writers
@@ -110,9 +100,8 @@ photos430
 tables435
 inserting-tables-and-figures-in-your-report
 creating-more-effective-tables
-examples-1
-some-poor-data-tables
-some-well-made-data-tables
+examples-of-poor-data-tables
+examples-of-well-made-data-tables
 biostats450
 where-to-learn-more-3
 sumstats460
@@ -167,7 +156,7 @@ how-to-report-linear-regression-statistics
 it-is-very-easy-to-misinterpret-linear-regressions
 advanced-topic-the-difference-in-r-versus-r2
 sources500
-why-do-you-need-to-support-your-arguments-with-sources
+why-do-you-need-sources-to-support-your-arguments-with-sources
 not-all-sources-of-external-evidence-are-equal
 how-many-sources-does-a-lab-report-need
 paraphrasingone506
@@ -205,7 +194,7 @@ what-you-should-not-use
 other-common-mistakes
 misusing-quotes-from-sources
 padding-the-literature-cited
-using-the-wrong-citation-format
+using-the-wrong-format
 using-an-irrelevant-source
 zotero520
 toolbox600
@@ -214,7 +203,7 @@ writing-to-an-outline
 writing-from-the-middle
 toulmin615
 the-upside-of-arguments
-putting-claim-evidence-reasoning-to-work
+putting-the-claim-evidence-reasoning-method-to-work
 assessing-arguments-systematically
 peerreview630
 lorem-ipsum
@@ -243,7 +232,6 @@ scientific-communication-as-a-transferrable-skill
 best-practices-for-teaching-writing
 instructor-professional-development
 writing-as-a-research-question
-appendix800
 appa810
 opening-questions-observations
 related-open-access-articles
@@ -277,3 +265,4 @@ a-poorly-written-report-2
 a-well-written-report-2
 appc833
 appc835
+sample-reports

@@ -9,7 +9,7 @@ These are the most frequent mistakes we see. Nearly all students now use web ver
 
 Depending on your school's academic honesty policies, incorrect citations may be considered plagiarism, because you are mis-representing the sources of your information. At the least your report will earn a much lower grade than it would have gotten if you cited your web sources properly. 
 
-The most common mistake we see is students using just the URL, link, or DOI for an article as a citation. __This is not acceptable in scientific writing.__  Never use just the URL from a Pubmed, Web of Science, or Google Scholar page, or a DOI link on its own to identify or cite a source. A valid citation for an electronic source still has the names of the authors, name of the resource, and when and where it was accessed.
+The most common mistake we see is using just the URL, link, or DOI for an article as a citation. __This is not acceptable in scientific writing.__ Never use just the URL from a Pubmed, Web of Science, or Google Scholar page, or a DOI link on its own to identify or cite a source. A valid citation for an electronic source still has the names of the authors, name of the resource, and when and where it was accessed.
 
 
 ## Using Unreliable Web Sources
@@ -25,28 +25,28 @@ Web sites of scholarly research projects associated with a research institution 
 
 Web pages that provide numbers, facts, or summary data are acceptable IF they document the source of the data they provide. For example, the image below is a table of CO<sub>2</sub> emissions for a subset of countries taken from Gapminder.org. 
 
-![Web-data](images/Web_data_documentation.png)
+![An example of a data table from the web.](images/Web_data_documentation.png)
 
 In the upper left of the image they provide the source of the data shown in the table. This would be a reasonable web source to cite if you wanted to support a statement about differences in growth of carbon emissions in Argentina versus Belgium in the first decade of the 20th century. 
 
 
 ### What You Should Not Use 
 
-General access web pages are not acceptable sources because the content is not peer reviewed for accuracy by subject matter experts. Wikipedia should not be used as a sources for that reason. 
+General access web pages are not acceptable sources because the content is not peer reviewed for accuracy by subject matter experts. Wikipedia should not be used as a sources for that reason.
+
+> Wikipedia CAN be a good resource, if you use it wisely. For example, a Wikipedia page can give you a general overview of a difficult topic (say, how yeast control their cell cycle) so you have a framework of knowledge on which to build. Also, more technical Wikipedia articles may have primary literature for some of the references. Track down the original articles and see if they meet the criteria for primary literature. If they do, they might be more suitable sources for your report or other assignment. 
 
 
 ## Other Common Mistakes
 ### Misusing Quotes From Sources
 
-Teachers have differing policies on how long quotes can be before they are considered plagiarism, and disagree on how to format and properly cite them. This led to a lot of confusion for our students, and report grades suffered. 
-
-After struggling with this for many years, we found a simple solution to the problem. We have a blanket requirement: 
+Teachers have differing policies on how long quotes can be before they are considered plagiarism, and disagree on how to format and properly cite them. This led to a lot of confusion for our students, and report grades suffered. After struggling with this for many years, we found a simple solution to the problem. We have a blanket requirement: 
 
 > "Everyone has to paraphrase their sources. No quotes longer than 3 words are allowed in lab reports. Period." 
 
-This might seem harsh, but think about it: if you can never quote a source, you spend less time worrying about whether or not you formatted the quote right, or whether it is below the word limit to be called plagiarism. You spend your time and mental energy practicing paraphrasing sources instead. We found our stricter rule meant FEWER students made mistakes in how they quoted sources; we did not have to count off for it, and our students got higher scores on lab reports.
+This might seem harsh, but think about it: if you can never quote a source, you spend less time worrying about whether or not you formatted the quote right, or whether it is below the word limit to be called plagiarism. You spend your time and mental energy practicing paraphrasing sources instead. We found this stricter rule meant FEWER students made mistakes in how they quoted sources; we did not have to count off for it, and our students got higher scores on lab reports.
 
-Even if your instructor allows quotes, we recommend not using them unless __absolutely__ necessary.
+Even if your instructor allows quotes, we recommend avoiding them unless __absolutely__ necessary.
 
 
 ### Padding the Literature Cited
@@ -54,7 +54,7 @@ Even if your instructor allows quotes, we recommend not using them unless __abso
 Never list references in the Literature Cited that are not used in the text of a report. Every in-text citation should be in the Literature Cited, and vice versa. Failing to list all cited sources properly is a form academic dishonesty.
 
 
-### Using the Wrong Citation Format
+### Using the Wrong Format
 
 Make sure you know which citation format you are expected to use, and follow it. Better still, use a citation manager program to do the work for you. We can overlook minor errors like a misplaced comma, but omitting important information is more serious. Omitting essential citation information is the same as not citing the source at all.
 

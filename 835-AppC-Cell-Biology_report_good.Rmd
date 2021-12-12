@@ -1,4 +1,4 @@
-# Appendix C: Cell Biology {-}
+# C2: Well-Written Cell Biology Report {-}
 
 ## A Well-Written Report {#appc835}
 

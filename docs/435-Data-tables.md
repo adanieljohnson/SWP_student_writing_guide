@@ -35,18 +35,12 @@ These tips address the most frequent mistakes we see in our students' summary ta
 * Be sure your tables are legible. Do not try to put too much data in a single table. Crowded tables are hard to interpret.
 * The numbers are the most important part of the table. Make sure they are the most prominent element of the table. 
 * Use the minimum amount of text you can. 
-* 
-* 
-* 
 
 
-## Examples
-### Some Poor Data Tables
+## Examples of Poor Data Tables
 
 
-
-### Some Well-Made Data Tables
-
+## Examples of Well-Made Data Tables
 
 
 

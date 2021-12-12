@@ -54,7 +54,7 @@ or
 
 You recruit 40 volunteers to help you with your study. Here are the raw data you collect.
 
-__Table 1.__ data
+__Table 1.__ Blood cholesterol and iron levels for male and femal omnivores and vegetarians.
 
 |Group|Blood cholesterol (mg/dl)|Blood iron (mg/dl)
 |:-:|:-:|:-:|
@@ -99,9 +99,13 @@ __Table 1.__ data
 |Female omnivore|||
 |Female omnivore|||
 
+<br>
+
 Table 1 has all of the data we need, but which measurements should we be averaging? Should we include all of the measurements in the ANOVA? 
 
 A common mistake we see students make when they first start using one-way ANOVA is arranging their data incorrectly for analysis. We actually made the experiment a little confusing intentionally so we can show you the problem, and help you learn to do it an more intuitive way.
+
+<br>
 
 If we rearrange the data, it is easier to see what to compare in the ANOVA.
 
@@ -121,6 +125,8 @@ __Table 2.__ Blood cholesterol data
 |Male veget.||Female veget.||Male omni.||Female omni.||
 |Male veget.||Female veget.||Male omni.||Female omni.||
 
+<br>
+
 __Table 3.__ Blood iron data
 
 |Group|Blood iron (mg/dl)|Group|Blood iron (mg/dl)|Group|Blood iron (mg/dl)|Group|Blood iron (mg/dl)|
@@ -137,6 +143,8 @@ __Table 3.__ Blood iron data
 |Male veget.||Female veget.||Male omni.||Female omni.||
 |Male veget.||Female veget.||Male omni.||Female omni.||
 
+<br>
+
 The four groups (categories) are now in separate columns (1,3,5, & 7) and the numbers we need for the ANOVA (in columns 2, 4, 6, & 8) are separated and grouped by category. 
 
 Why did we separate the data for blood cholesterol from blood iron? A one-way ANOVA only works with one measurement variable at a time. Blood cholesterol and blood iron levels are different measurements, so we cannot compare them directly. We have to separate the two types of measurements for analysis. 
@@ -146,13 +154,13 @@ Why did we separate the data for blood cholesterol from blood iron? A one-way AN
 
 Technically you can run ANOVA in Excel, but we do not recommend setting it up yourself. It is very easy to set up incorrectly. Instead we recommend using [this pre-formatted ANOVA Excel spreadsheet](http://www.biostathandbook.com/anova.xls). It was created by Dr. John H. McDonald at the University of Delaware as part of his [excellent online book of basic statistics](http://www.biostathandbook.com), which has Excel spreadsheets for many tests. 
 
-Another option is to use one of these online calculators.
+Another option is to use one of these online ANOVA calculators.
 
 * [Vassar Stats](http://vassarstats.net/anova1u.html)
 * [StatPages](https://statpages.info/anova1sm.html)
 * [One-Way ANOVA](https://goodcalculators.com/one-way-anova-calculator/)
 
-If your initial ANOVA tells you that at least one of the means is different from the others (p<0.05), you will need to perform a post hoc test to determine which groups are significantly different. Don't just compare the groups using a two-sample t-test over and over; you risk saying two groups are different when they are not. Instead use a Tukey-Kramer test (or some other post-hoc test) to determine which groups are different from each other.
+If your initial ANOVA tells you that at least one of the means is different from the others (p<0.05), you will need to perform a __post hoc test__ to determine which groups are significantly different. Don't just compare the groups using a two-sample t-test over and over; you risk saying two groups are different when they are not. Instead use a Tukey-Kramer test (or some other post-hoc test) to determine which groups are different from each other.
 
 
 ## How to Report and Interpret ANOVA Statistics

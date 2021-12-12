@@ -1,14 +1,13 @@
 # Bins Scoring {#binsscore705}
 
-In our program, most undergraduate lab reports are graded by GTAs, not faculty. One of our highest priorities when we train GTAs is ensuring they grade students fairly, and that GTAs give similar scores for work of similar quality (i.e., they have good inter-grader reliability.) We also want students to get actionable feedback that helps them grow as writers. Finally, we want TAs to spend their grading time efficiently. 
+In our program, most undergraduate lab reports are graded by GTAs, not faculty. A priority when we train GTAs is ensuring they know how to grade students fairly, and have good inter-grader reliability (different GTAs give similar scores for work of similar quality.) We also want GTAs to know how to give actionable feedback that helps their students grow as writers. Finally, we want GTAs to spend their grading time efficiently. 
 
-To accomplish those goals, we:
+To accomplish those goals, our GTA training program includes a general writing orientation and practice sessions, and round-robin grading where new and experienced GTAs grade the same pre-selected set of reports, then discuss discrepancies in scoring. [This is explained elsewhere.](#commenting710). To further improve consistency we:
 
-* Use __bins scoring__. This grading strategy is based on Linda Nilson's _Specifications Grading_. Briefly, we limit the number of items used for scoring reports, and only score those items on a binary scale (present/absent, yes/no, etc.)  This part of our process is explained below.
-* Give students feedback a manageable number of comments in the form of __reflective coaching__. [This is explained elsewhere.](#commenting710)
-* Have graders refer back to specific sections of this Resource Guide instead of writing out their own recommendations.
-* Explicitly train GTAs to follow our grading criteria. GTA training includes orientation and practice sessions, and round-robin grading, where new and experienced GTAs grade the same pre-selected set of reports, then discuss discrepancies in scoring. [This is explained elsewhere.](#commenting710)
-
+* Use __bins scoring__. This grading strategy is based on Linda Nilson's _Specifications Grading_. Briefly, we limit the number of items used for scoring reports, and only score those items on a binary scale (present/absent, yes/no, etc.) This part of our process is explained below.
+* Limit the number of comments GTAs give to what their students can manage. 
+* Give students feedback in the form of __reflective coaching__. [This is explained elsewhere.](#commenting710)
+* Have GTAs refer students back to specific sections of this Resource Guide instead of writing out their own recommendations.
 
 
 ## Bins Criteria
@@ -17,14 +16,25 @@ These are the criteria we use to assign scores to lab reports in our 100-level l
 ![](images/Report-criteria.png)
 
 
-We set five __Basic Criteria__ based on the fundamental structural errors that we see most often. These are strict minimum requirements; either a student’s report meets them, or it does not. Reports that do not meet these minimum requirements are marked "Unacceptable," and returned with minimal feedback. In theory this seems overly harsh, but in practice, it is not. One year after implementation, this one requirement had reduced the number of incomplete reports submitted for grading from 17-22% of all reports to 1-3% of all reports. GTAs spent less time commenting on incomplete reports, and could focus on more meaningful revisions. End-of-semester averages for student report scores rose 4-6%. 
+We set our five __Basic Criteria__ based on the fundamental structural errors that we have historically seen most often. These are strict minimum requirements; if a student’s report does not meet them it is marked "Unacceptable," and returned with minimal feedback. While this seems overly harsh, in practice it is not. Prior to implementation, up to 36% of all reports submitted were incomplete. One year after implementation, this one requirement reduced the number of incomplete reports submitted for grading to 1-3% of all reports. GTAs spent less time trying to comment on incomplete reports, and could focus on more meaningful revisions. End-of-semester averages for student report scores rose 4-6%. 
 
-Items listed under __Technical Flaws__ or __Writing Quality Flaws__ are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, technical and writing quality flaws are marked on a binary "yes/no" scale. Reports are scored as having both technical __and__ writing flaws, having __either__ technical or writing flaws, or having __no or minimal__ technical or writing flaws.
+Items listed under __Technical Flaws__ or __Writing Quality Flaws__ also are our most commonly encountered errors; other flaws are outlined in this Resource Guide. Again, the presence of technical and writing quality flaws is marked on a binary "yes/no" scale. Reports are scored as having both technical __and__ writing flaws, having __either__ technical or writing flaws, or having __no or minimal__ technical or writing flaws. 
 
+We do not assign numeric grades based on points, but instead describe the overall quality of a students work relative to our goals. These are the terms we use, and how they translate to course grades.
+
+|Descriptor Term|Criteria|Translated Grade in Course|
+|:-:|:--|:--|
+|Acceptable|Meets all basic criteria, minor writing and technical flaws only|“A”/95%|
+|Needs minor revisions|Meets all basic criteria, has EITHER writing OR technical flaws|“B”/85%|
+|Needs major revisions|Meets all basic criteria, has BOTH writing AND technical flaws|“C”/75%|
+|Submitted but Unacceptable|Fails to meet 1+ basic criteria|High “F”/55%|
+|No report|Report not submitted, or plagiarized|"F"/0%|
+
+<br>
 
 ## Workflow
 
-In our program, GTAs have 7 calendar days to grade and return 30-35 student reports. To make their grading time efficient, this is how we recommend GTAs organize their grading process the first few times. As they gain experience, they may find other ways that work better for them individually. Other workflows are fine so long as they maintain consistency with other GTAs. 
+In our program, GTAs have 7 calendar days to grade and return 30-35 student reports. To make their grading time efficient, we recommend GTAs organize their grading process the first few times as described below. As they gain experience, many find other ways that work better for them individually. Other workflows are fine so long as they maintain consistency with other GTAs. 
 
 
 ### Keep Time {-}
@@ -52,6 +62,7 @@ Open each report in MS Word and SKIM it (1 minute or less), looking for the feat
 |Do figures or data tables at end look right?|Do citations at the end look generally right?|Present, but you see errors means report goes in “Some flaws” group.|
 |Nothing stands out in first brief skim through|Put in “No obvious flaws” group|
 
+<br>
 
 ### Second Pass: Double-Check & Read Deeper
 

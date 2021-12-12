@@ -54,5 +54,5 @@ Most web sites are not considered scientific literature because they are not pee
 
 ## Where to Learn More
 
-[Is It Primary Literature?](https://www.youtube.com/watch?v=3o35J2QihJY)
+This is a great video explanation of the different types of literature: [Is It Primary Literature?](https://www.youtube.com/watch?v=3o35J2QihJY)
 
