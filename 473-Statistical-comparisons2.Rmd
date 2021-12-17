@@ -56,7 +56,7 @@ You recruit 40 volunteers to help you with your study. Here are the raw data you
 
 __Table 1.__ Blood cholesterol and iron levels for male and femal omnivores and vegetarians.
 
-|Group|Blood cholesterol (mg/dl)|Blood iron (mg/dl)
+|Group|Blood cholesterol (mg/dl)|Blood iron (mg/dl)|
 |:-:|:-:|:-:|
 |Male vegetarian|||
 |Male vegetarian|||

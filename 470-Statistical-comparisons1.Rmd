@@ -35,7 +35,7 @@ Let's go back to an earlier exploration of the distribution of student height on
 
 __Table 1.__ Distribution of student height on campus.
 
-|Height (cm)|# students, east half|# students, west half|Total
+|Height (cm)|# students, east half|# students, west half|Total|
 |:-:|:-:|:-:|:-:|
 |<135 (4'5")|24|20|44|
 |135-139|61|48|109|
