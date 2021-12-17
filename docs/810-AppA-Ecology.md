@@ -1,4 +1,4 @@
-# Appendix A: Ecology {-}
+# DRAFT Appendix A: Ecology {-}
 
 ## Overview {#appa810}
 
@@ -23,10 +23,8 @@ Demonstrate ANOVA, post-hoc, data tables, box-and-whisker plots for class summar
 ## Claims, Evidence, Reasoning
 
 
-## A Poorly Written Report
+## Sample Reports
 
-Page 813
+[A poorly written report](#appa813)
 
-## A Well-Written Report
-
-Page 815
+[A Well-Written Report](#appa815)

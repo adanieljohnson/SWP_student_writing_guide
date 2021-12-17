@@ -1,4 +1,4 @@
-# Discussion {#discussion380}
+# DRAFT Discussion {#discussion380}
 The Discussion section is where you interpret your results and explain what they mean. This section also is where you relate your results back to the larger body of scientific knowledge. By the end of the Discussion section, you should be talking in general, broad terms once again. Be careful not to get too broad though; your experiment is not the explanation for everything. 
 
 These are the questions your should try to answer in the Discussion.
@@ -39,5 +39,17 @@ What is the next logical step for this study? Modify the procedure and repeat it
 
 
 ## Examples of Well-Written Discussion Sections
+
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 
 

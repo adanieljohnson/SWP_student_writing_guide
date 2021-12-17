@@ -63,9 +63,7 @@ Here your strategy is to write your report in 3 separate 1/2- to 1-page segments
 This is a good strategy to use when you are not completely sure what readers need to know to interpret your results. You can write the middle segment first, and use that to decide what to include in the front and back segments. Once you have the 3 segments written, you add text to connect them.
 
 
-### Start With the Middle Segment {-}
-
-This will become your __Methods__ and __Results__ sections. 
+### Start With the Methods and Results Sections {-}
 
 1. Organize your summary results into tables and figures. These are the centerpiece of the middle segment.
 
@@ -82,9 +80,7 @@ This will become your __Methods__ and __Results__ sections.
 5. Summarize the results of the statistical tests comparing control and test groups. Write the results out in the reporting format described on the statistics pages.
 
 
-### Front Segment {-}
-
-This will become your __Introduction__.
+### Next Write the  Introduction {-}
 
 6. Start by summarizing your central question question, and your testable hypothesis. These are the centerpiece of the front segment.
 
@@ -93,9 +89,7 @@ This will become your __Introduction__.
 8. Now, what background information does someone need to know to see why the hypothesis you want to test is important? Put that information __before__ your prior observations. 
 
 
-### Back Segment {-}
-
-This will become your __Discussion__ section.
+### Write the Discussion Last {-}
 
 9. Explain what your summarized and analyzed data are telling you. Refer back to the tables and figures as needed. This summary is the centerpiece of the back segment.
     + Don’t just look at the outcome of the statistical test(s) and blindly assign a conclusion to your work. 

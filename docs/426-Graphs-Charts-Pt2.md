@@ -1,4 +1,4 @@
-# Graphs, Plots, and Charts Part 2 {#chartstwo426}
+# DRAFT Graphs, Plots, and Charts Part 2 {#chartstwo426}
 
 ## Writing Figure Legends
 
@@ -27,9 +27,32 @@ These tips address the most frequent mistakes we see in our students' graphs.
 ## Examples
 ### Some Poorly Designed Graphs
 
+__Sample 1.__
+
+__What Could Be Improved?__
+
+__Sample 2.__
+
+__What Could Be Improved?__
+
+__Sample 3.__
+
+__What Could Be Improved?__
 
 
 ### Some Well-Designed Graphs
+
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 
 
 

@@ -1,6 +1,6 @@
 # Table of Contents {-}
 
-The links take you to specific Sections and Chapters. If you get lost, the Table of Contents always is on the left side of the screen.  
+The links take you to specific chapters. If you get lost, the Table of Contents always is on the left side of the screen.  
 
 * [Part 1: How Scientific Literature Works](#goals100)
     + [Goals of Scientific Writing](#goals100)

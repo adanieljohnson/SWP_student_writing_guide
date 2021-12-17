@@ -25,7 +25,7 @@ Often you will see a bar graph without standard error bars. Here is an example:
 
 This bar graph is informative in it tells us that the higher the level of free PSA in blood, the lower the probability a man will have cancer. However, we cannot say for certain if the probability is different between the two age groups. For 0-10% free PSA, it looks like there is no difference in cancer probability between the two age groups. At 10-15% or 20-25% free PSA, it seems like older men are more likely to have cancer, but at 15-20% or >25% PSA, there is not as much of a difference. Without error bars to show the variability in the data, readers cannot estimate whether or not the two age groups have different cancer probabilities for the same free PSA level. 
 
-Unless you are told otherwise or have a specific reason not to, you should always include standard error bars for each treatment group. If your reader does not want to see that information, they can ignore it, but if you do not include the standard errors, you have made that choice for them. 
+Unless you are told otherwise or have a specific reason not to, __you should always include standard error bars for each treatment group__. If your reader does not want to see that information, they can ignore it, but if you do not include the standard errors, you have made that choice for them. 
 
 
 ### Line Graphs
@@ -39,8 +39,6 @@ The two panels of Figure 4 show different versions of the same line graph. The f
 ![A](images/Line-noSD.png) ![__Figure 4.__ Effect of soil nitrogen levels on perennial vine growth over the year. Kudzu (_Pueraria montana_) vines were planted in native soil left fallow for 3 years (green line), fallow soil amended with nitrogen-containing fertilizer (two orange lines), or soil depleted of nitrogen by a cabbage crop the previous season (yellow line). Vines were allowed to establish for one year. New growth was measured starting with the emerging green shoots in January. In subsequent months, new growth was measured from the terminal pair of leaves on the previous month’s growth to the terminal leaves of the vine currently. Values are the means from n=25 separate vines. Panel A. Average growth graphed without standard errors. Panel B. Average growth graphed with standard errors (± 1 s.d.)](images/Line-plusSD.png)
 
 
-
-
 ### X-Y or Scatter Plot/Graph
 
 At first a scatter or X-Y plot looks similar to a line graph, but they are very different. A scatter plot shows the relationship between many different pairs of numerical variables. Each pair of observations is plotted as one point on a grid. The pattern of plotted points tells us about the relationship between the two variables. 
@@ -48,10 +46,10 @@ At first a scatter or X-Y plot looks similar to a line graph, but they are very 
 Scatter plots are a good choice for estimating the relationship or correlation between the variables. We also can add a regression line to a scatter plot and create a mathematical model of the relationship between the two variables. 
 
 
-![A](images/Scatter_diagram.png)
+![A](images/Scatter_diagram.png){width=50%}
 
 
-![B](images/Scatter_diagram_regression.png)
+![B](images/Scatter_diagram_regression.png){width=50%}
 
 __Figure 5.__ Inverse relationship between reproductive potential (% r) and size of shell chamber (in mm) of Gastropods. Values shown are for n=60 independently sampled animals. Panel A. Data distribution. Panel B. Distribution with linear regression prediction line.
 
@@ -60,12 +58,12 @@ __Figure 5.__ Inverse relationship between reproductive potential (% r) and size
 
 This is a very good way to summarize a lot of data points. These plots provide readers with more information about the underlying raw data, without actually showing the numbers. It also is a good choice if we want to combine numerical data with categories, and compare the distribution of data in each of the different categories.
 
-![__Figure 6__. An example of a box-and-whisker plot.](images/boxplot.png)
+![__Figure 6__. An example of a box-and-whisker plot.](images/boxplot.png){width=50%}
 
 To draw the plot, all of the data points collected for one treatment group are sorted from lowest to highest value. A box is drawn that contains the middle 50% of the data. Near the middle of the box is a line indicating the median value, and often a second symbol (a dot or star usually) to show the arithmetic mean of the data in the category. “Whiskers” around the box show the range of the remaining data points. 
 
 
-![__Figure 7__. Map of the data distribution for an idealized box-and-whisker plot element. The top panel shows one box plot element turned on its side.](images/Boxplot_dist.png)
+![__Figure 7__. Map of the data distribution for an idealized box-and-whisker plot element. The top panel shows one box plot element turned on its side.](images/Boxplot_dist.png){width=50%}
 
 * The box shows the data range that contains 50% of all measurements. The difference between the top and bottom value in the box is the IQR (inter-quartile range). 
 * If we add whiskers to the box that are 1.5x the IQR, ~99% of all observed data points should be inside that range. Data points outside the whiskers are classified as outliers.

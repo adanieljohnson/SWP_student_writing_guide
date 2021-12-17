@@ -1,13 +1,8 @@
-# Making Data Tables {#tables435} 
+# DRAFT Making Data Tables {#tables435} 
 
 Students sometimes get confused when we say tables, and it is partly our fault, because there are TWO kinds. __Data collection tables__ are what you use to collect and organize raw data as you conduct an experiment. Your data collection tables are drawn in a paper-based lab notebook, entered in an electronic lab notebook, or created using MS Excel or Word. These tables contain unedited information that is meant for your use. You may be asked to turn in data collection tables as part of a class assignment. However a lab report should never contain raw unanalyzed data. 
 
 __Summary data tables__ bring together the raw data points, summarize them in some way, and present the summary values or information so that another reader can make sense of the data quickly. All of the data tables in a lab report should present summarized data. 
-
-This is an example of a well-formatted table:
-
-![](images/Table-annotated.png)
-
 
 Each table should have a Table # and short descriptive title placed above the table itself. Tables should be numbered in the order they are referred to in your text. 
 
@@ -17,10 +12,17 @@ A few short footnotes, either numbered with a superscript or marked with symbols
 
 The table legend is like a figure legend in it explains details of the table that had to be left out to maximize legibility. Table legends go on a separate page, just like figure legends.
 
+<center>
+
+![This is an example of a well-formatted table.](images/Table-annotated.png)
+
+</center>
+<br>
+
 Beyond these basic guidelines, there are innumerable ways to organize data summary tables. As you are reading scientific articles, pay attention to how they lay out their tables. Which ones make it easier to understand their argument or review their evidence? Those are the tables you should use as models. Which tables are hard to understand? Why? Those are examples of what you should NOT do.
 
 
-## Inserting Tables and Figures in Your Report
+## Inserting Tables and Figures in Your Reports
 
 Like figures, tables are numbered separately, in the order they are referred to in your text. You MUST reference each table in the text of your lab report. If you do not reference each table, readers do not know where to look for the data you are using to support your claims. 
 
@@ -37,10 +39,34 @@ These tips address the most frequent mistakes we see in our students' summary ta
 * Use the minimum amount of text you can. 
 
 
-## Examples of Poor Data Tables
+## Examples of Poorly Made Data Tables
+
+__Sample 1.__
+
+__What Could Be Improved?__
+
+__Sample 2.__
+
+__What Could Be Improved?__
+
+__Sample 3.__
+
+__What Could Be Improved?__
 
 
 ## Examples of Well-Made Data Tables
+
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 
 
 

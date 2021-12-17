@@ -1,4 +1,4 @@
-# Appendix B: Physiology {-}
+# DRAFT Appendix B: Physiology {-}
 
 ## Overview {#appb820}
 
@@ -25,10 +25,8 @@ Demonstrate paired t-test, bar graphs
 ## Claims, Evidence, Reasoning
 
 
-## A Poorly Written Report
+## Sample Reports
 
-Page 823
+[A poorly written report](#appb823)
 
-## A Well-Written Report
-
-Page 825
+[A Well-Written Report](#appb825)

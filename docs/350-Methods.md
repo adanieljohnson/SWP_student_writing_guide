@@ -1,4 +1,4 @@
-# Methods {#methods350}
+# DRAFT Methods {#methods350}
 
 The Methods give readers a general idea of procedures you used to test your hypothesis. 
 
@@ -47,6 +47,18 @@ This particular example reads just like the laboratory manual, and in fact was c
 
 
 ## Examples of Well-Written Methods Sections
+
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 
 
 

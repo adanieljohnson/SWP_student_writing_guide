@@ -86,4 +86,4 @@ What do your results mean compared to what others have seen? What is your reason
 
 ## Practice Cases
 
-In the Appendix there are three sample cases that you can use to practice these steps [go to cases](#appendix800). Each case has a general starting question, links to 1-2 open-access background articles, suggested questions to explore, and a simple raw data set. Use the case materials to practice each of the steps listed here.  
+In the Appendix there are [three sample cases that you can use to practice these steps](#overview). Each case has a general starting question, links to 1-2 open-access background articles, suggested questions to explore, and a simple raw data set. Use the case materials to practice each of the steps listed here.  

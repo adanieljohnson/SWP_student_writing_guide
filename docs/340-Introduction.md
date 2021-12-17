@@ -1,4 +1,4 @@
-# Introduction {#introduction340}
+# DRAFT Introduction {#introduction340}
 
 The introduction tells the reader what topic you are addressing, presents the current state of knowledge of this topic, and ties prior knowledge and background information to your biological question. 
 
@@ -48,4 +48,15 @@ Often we see students try to find supporting sources that describe their exact s
 
 ## Examples of Well-Written Introduction Sections
 
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 

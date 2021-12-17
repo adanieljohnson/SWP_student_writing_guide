@@ -1,9 +1,9 @@
 # Preface {-}
 ## Welcome! {-}
 
-Many undergraduate biology courses require lab reports and other types of __scientific writing.__ This genre is different from the technical writing we see in instruction manuals for cars, computers, or other machines and tools. Scientific writing is what scientists do every day when they create articles for publication, summarize work they have done for their employer, when they apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook. Scientific writing is very closely connected with other kinds of __scientific communication__ like oral presentations and scientific posters because the thinking and methods we use to share information are very similar.
+Many undergraduate biology courses require lab reports and other types of __scientific writing.__ This genre is different from the technical writing in instruction manuals for cars, computers, or other machines and tools. Scientific writing is what scientists do every day when they create articles for publication, write reports summarizing their for their employer,  apply for grant funding for their research, and even (less formally) when they write up observations in a lab notebook. Scientific writing is very closely connected with other kinds of __scientific communication__ like oral presentations and scientific posters because the thinking and methods we use to share information are very similar.
 
-Formal scientific communication is very different from what most students have done in the past. It is organized in a very specific way and follows particular rules and conventions. In this Guide we will focus on how to build a lab report that models a journal article. We're using this as our model because most parts of a lab report also appear in other kinds of scientific communication. For example, once you learn how to organize the Introduction to a lab report, you pretty much know how to organize the background section of an oral presentation. Making data figures is another example; the same figure formats used in a lab report can be used in a journal article, oral presentation, or poster.
+Formal scientific communication is very different from what you probably have done in the past. It is organized in a very specific way and follows particular rules and conventions. In this Guide we will focus on how to build a lab report that models a journal article. We're using a lab report as our model because most parts of a lab report also appear in other kinds of scientific communication. For example, if you learn how to organize the Introduction to a lab report, you pretty much know how to organize the background section of an oral presentation or a poster. Making data figures is another example; the same figures you make for a lab report can be used in a journal article, oral presentation, or poster.
 
 
 ## How This Guide Is Organized {-}
@@ -41,10 +41,10 @@ Finally, we will suggest free tools and resources that can help you avoid proble
 In the end, we want you as a scientific writer to feel confident that you know WHAT your goals are, WHY those goals are important, and HOW to get there. Who knows? You may find that you have a hidden talent for it, on which you can build a career. Yet even if you never come to enjoy scientific writing, learning to do it well now will pay off regardless of where your professional path takes you.
 
 
-## Who Are We? {-}
-This Guide was created as part of the __STEM Writing Project__ at Wake Forest University. We are STEM teachers and education researchers who want to make scientific writing a bigger part of students' training. Scientific writing assignments are hard to manage in large introductory classes, and hard to evaluate systematically. This Writing Guide is one of many tools we are developing to help STEM teachers solve this challenge.
+## Who ARE We? {-}
+This Guide was created by the __STEM Writing Project__ at Wake Forest University. We are STEM teachers and education researchers who want to make scientific writing a bigger part of students' training. This Guide is just one of the tools we've created to help you and your teachers do that.
 
-If you are interested in being a contributor, [contact us about accessing our GitHub projects](https://github.com/adanieljohnson/stemwritingproject).
+If you are a teacher who is interested in collaborating, or just want to find out more, [check us out on GitHub](https://github.com/adanieljohnson/stemwritingproject).
 
 
 ## Funding and Support {-}

@@ -1,13 +1,13 @@
 # Reading Scientific Literature {#reading120}
 
-Learning how to __read__ scientific writing effectively is an important step in learning to __write__ it well.
+Learning how to __read__ scientific writing is an important step in learning to __write__ it well.
 
-Most scientific writers assume their readers know the vocabulary and accepted styles and formats for sharing information in their field. The best way to learn the conventions and assumptions of any field is to read published work from that field. Instead of just looking at the scientific arguments or conclusions though, also pay attention to how the author has organized and presented the information. 
+Most scientific writers assume their readers know the vocabulary and accepted styles and formats for sharing information in their field. The best way to learn those conventions and assumptions is to read published work from that field. Instead of just looking at the scientific arguments or conclusions though, pay attention to how the author has organized and presented information. 
 
 
 ## Reading As a Writer
 
-Scientists write primary research articles to outline, summarize, and share the details of experimental studies. Review articles (sometimes called secondary literature) summarize primary literature and provide a broader overview of a topic or field. Review articles also can lay out the evidence on each side of a controversial field, or competing theories about how a process works. Ultimately some of this information is included in books like your textbook.
+Scientists write primary research articles to outline, summarize, and share the details of their experiments. Review articles (sometimes called secondary literature) summarize primary literature and provide a broader overview of a topic or field. Review articles also can lay out the evidence on each side of a controversial field, or competing theories about how a process works. Ultimately some of this information is included in books like your textbook.
 
 Reading scientific articles efficiently is an important skill that develops with time and practice. You can develop this skill faster if you approach articles skeptically and strategically.
 

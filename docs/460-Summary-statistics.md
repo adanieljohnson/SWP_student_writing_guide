@@ -1,4 +1,4 @@
-# Biostatistics 1: Summary Statistics {#sumstats460}
+# DRAFT Biostatistics 1: Summary Statistics {#sumstats460}
 
 Summary statistics make it much easier for your readers to understand and think about your data. The questions you want to answer for your readers are:
 

@@ -1,4 +1,4 @@
-# Results {#results360}
+# DRAFT Results {#results360}
 
 The Results section is where you report your observations and findings. You also  summarize and organize your findings (especially numbers) so they are easier to understand. 
 
@@ -39,6 +39,18 @@ Do not try to interpret or discuss your data just yet. Be careful to refrain fro
 
 
 # Examples of Well-Written Results Sections
+
+__Sample 1.__
+
+__What Is Particularly Good?__
+
+__Sample 2.__
+
+__What Is Particularly Good?__
+
+__Sample 3.__
+
+__What Is Particularly Good?__
 
 
 
