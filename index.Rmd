@@ -1,7 +1,6 @@
 --- 
 title: "Biology Student Writing Guide"
 author: "STEM Writing Project"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -12,7 +11,7 @@ github-repo: adanieljohnson/SWP_writing_guide
 description: "This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs. "
 favicon: <"images/favicon.ico">
 cover-image: images/SWP_logo.png
-url: https\://github.com/adanieljohnson/SWP/
+url: https\://github.com/adanieljohnson/SWP_student_writing_guide/
 ---
 #  {-}
 <center>

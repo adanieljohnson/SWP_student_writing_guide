@@ -264,5 +264,3 @@ claims-evidence-reasoning-2
 sample-reports-2
 appc833
 appc835
-r-markdown
-including-plots
