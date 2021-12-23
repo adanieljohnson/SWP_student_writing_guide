@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 22 DRAFT Biostatistics 2: Comparing Groups - T-Tests | Biology Student Writing Guide</title>
+  <title>DRAFT How to Modify the Resource Guide | Biology Student Writing Guide</title>
   <meta name="description" content="This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs." />
   <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 22 DRAFT Biostatistics 2: Comparing Groups - T-Tests | Biology Student Writing Guide" />
+  <meta property="og:title" content="DRAFT How to Modify the Resource Guide | Biology Student Writing Guide" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://github.com/adanieljohnson/SWP_student_writing_guide/" />
   <meta property="og:image" content="https://github.com/adanieljohnson/SWP_student_writing_guide//images/SWP_logo.png" />
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="adanieljohnson/SWP_writing_guide" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 22 DRAFT Biostatistics 2: Comparing Groups - T-Tests | Biology Student Writing Guide" />
+  <meta name="twitter:title" content="DRAFT How to Modify the Resource Guide | Biology Student Writing Guide" />
   
   <meta name="twitter:description" content="This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs." />
   <meta name="twitter:image" content="https://github.com/adanieljohnson/SWP_student_writing_guide//images/SWP_logo.png" />
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="&lt;“images/favicon.ico”&gt;" type="image/x-icon" />
-<link rel="prev" href="sumstats460.html"/>
-<link rel="next" href="compstatstwo473.html"/>
+<link rel="prev" href="for-instructors.html"/>
+<link rel="next" href="draft-contributors.html"/>
 <script src="libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -89,10 +89,10 @@
 </ul></li>
 <li class="chapter" data-level="" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html"><i class="fa fa-check"></i>DRAFT How to Modify the Resource Guide</a>
 <ul>
-<li class="chapter" data-level="0.1" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#adapting-the-guide-to-your-students"><i class="fa fa-check"></i><b>0.1</b> Adapting the Guide to Your Students</a></li>
-<li class="chapter" data-level="0.2" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#editing-the-guide-itself"><i class="fa fa-check"></i><b>0.2</b> Editing the Guide Itself</a>
+<li class="chapter" data-level="" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#adapting-the-guide-to-your-students"><i class="fa fa-check"></i>Adapting the Guide to Your Students</a></li>
+<li class="chapter" data-level="" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#editing-the-guide-itself"><i class="fa fa-check"></i>Editing the Guide Itself</a>
 <ul>
-<li class="chapter" data-level="0.2.1" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#creating-cross-links-between-pages"><i class="fa fa-check"></i><b>0.2.1</b> Creating Cross-Links Between Pages</a></li>
+<li class="chapter" data-level="" data-path="draft-how-to-modify-the-resource-guide.html"><a href="draft-how-to-modify-the-resource-guide.html#creating-cross-links-between-pages"><i class="fa fa-check"></i>Creating Cross-Links Between Pages</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="draft-contributors.html"><a href="draft-contributors.html"><i class="fa fa-check"></i>DRAFT Contributors</a></li>
@@ -613,236 +613,38 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="compstatsone470" class="section level1" number="22">
-<h1><span class="header-section-number">Chapter 22</span> DRAFT Biostatistics 2: Comparing Groups - T-Tests</h1>
-<p>T-tests are a family of statistical tests that compare two groups of data points to determine whether the means of the measurement variable are the same. All of the tests in the t-test family use the t-distribution to estimate probabilities. The main differences between the various t-tests is what and how the groups are compared.</p>
-<p>The most common version is the <strong>two-sample t-test.</strong> It tests a null hypothesis that the means of a measurement variable are the same in two independently sampled groups.</p>
-<p>The other widely used version is a <strong>paired t-test.</strong> It tests a null hypothesis that the means of the measurement variable are the same before vs. after a treatment. This test takes into account the pre-existing variation in the measured variable.</p>
-<p>This video is a good introduction to <a href="https://youtu.be/AGh66ZPpOSQ">T-tests</a></p>
-<div id="two-sample-t-tests" class="section level2" number="22.1">
-<h2><span class="header-section-number">22.1</span> Two Sample T-Tests</h2>
-<p>Two-sample t-tests compare the means from two groups of data. Usually the comparison is between the mean of a control group and the mean of an experimental group. Sometimes though, the comparison is between two experimental groups.</p>
-<p>You can use the two-sample t–test when you have one categorical variable and one measurement variable, and you want to compare the mean values of the measurement variable. The categorical variable must have only two values, such as “present” and “absent” or “treated” and “untreated.”</p>
-<p>Two-sample t-tests should only be used when you are comparing data collected from two <strong>independent groups</strong>. This mean that the data were collected from completely different groups of organisms, different locations, etc. If the groups are connected (paired) you need to use a paired t-test, which is explained in the next section.</p>
-<p>There are two versions of the two-sample t-test:</p>
-<ul>
-<li>You should use <strong>Student’s t-test</strong> when the data points in BOTH groups are randomly distributed, not skewed.</li>
-<li>You should use <strong>Welch’s t-test</strong> (also called Welch’s unequal variances test) when the measured variables are not equally distributed, or the two groups have different sample sizes.</li>
-</ul>
-<p>A rule of thumb is that you should use Welch’s t-test if either the standard deviations of the two groups you want to compare are more than 10% different from one another, or the number of observations are more than 10% different between the two groups.</p>
-<p>In practice, the number of data points you usually work with in a biology lab course is small enough that the choice of test is not critical. So if you do not have access to a program that can run Welch’s t-test, use Student’s t-test.</p>
-<blockquote>
-<p>Advanced: There is a long-running debate over which test to use. Some statistics specialists say you should ALWAYS use Welch’s t-test, but others say you will overlook small but significant differences. Google “Welch’s vs. Student’s t-test” if you want to see the arguments on both sides.</p>
-</blockquote>
-<div id="an-example-of-a-two-sample-t-test" class="section level3" number="22.1.1">
-<h3><span class="header-section-number">22.1.1</span> An Example of a Two-Sample T-test</h3>
-<p>Let’s go back to an earlier exploration of the distribution of student height on campus. Now we want to know if there is any difference in average height of students living on the eastern half versus the western half of campus.</p>
-<p><strong>Table 1.</strong> Distribution of student height on campus.</p>
-<table>
-<thead>
-<tr class="header">
-<th align="center">Height (cm)</th>
-<th align="center"># students, east half</th>
-<th align="center"># students, west half</th>
-<th align="center">Total</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">&lt;135 (4’5”)</td>
-<td align="center">24</td>
-<td align="center">20</td>
-<td align="center">44</td>
-</tr>
-<tr class="even">
-<td align="center">135-139</td>
-<td align="center">61</td>
-<td align="center">48</td>
-<td align="center">109</td>
-</tr>
-<tr class="odd">
-<td align="center">140-149</td>
-<td align="center">152</td>
-<td align="center">79</td>
-<td align="center">231</td>
-</tr>
-<tr class="even">
-<td align="center">150-159</td>
-<td align="center">269</td>
-<td align="center">267</td>
-<td align="center">536</td>
-</tr>
-<tr class="odd">
-<td align="center">160-169</td>
-<td align="center">484</td>
-<td align="center">1015</td>
-<td align="center">1499</td>
-</tr>
-<tr class="even">
-<td align="center">170-179 (5’10”)</td>
-<td align="center">1001</td>
-<td align="center">672</td>
-<td align="center">1673</td>
-</tr>
-<tr class="odd">
-<td align="center">180-189</td>
-<td align="center">379</td>
-<td align="center">500</td>
-<td align="center">879</td>
-</tr>
-<tr class="even">
-<td align="center">190-199</td>
-<td align="center">135</td>
-<td align="center">351</td>
-<td align="center">486</td>
-</tr>
-<tr class="odd">
-<td align="center">200-209</td>
-<td align="center">62</td>
-<td align="center">132</td>
-<td align="center">194</td>
-</tr>
-<tr class="even">
-<td align="center">210-219</td>
-<td align="center">21</td>
-<td align="center">64</td>
-<td align="center">85</td>
-</tr>
-<tr class="odd">
-<td align="center">&gt;219 (7’2”)</td>
-<td align="center">0</td>
-<td align="center">52</td>
-<td align="center">52</td>
-</tr>
-<tr class="even">
-<td align="center">Total</td>
-<td align="center">2588</td>
-<td align="center">3200</td>
-<td align="center">5788</td>
-</tr>
-</tbody>
-</table>
-<p>If we plot these data as a series of bars showing the counts for each category, we get a <strong>clustered histogram</strong> like the one in Figure 1.</p>
-<div class="figure">
-<img src="http:url.excel" alt="" />
-<p class="caption"><strong>Figure 1.</strong> Histogram showing the distribution of student height on east vs. west campus.</p>
-</div>
-<p>It looks like there is a difference in the height of students on west vs. east campus, but can we be sure?</p>
-</div>
-<div id="what-do-the-statistical-hypotheses-look-like-for-a-two-sample-t-test" class="section level3" number="22.1.2">
-<h3><span class="header-section-number">22.1.2</span> What Do the Statistical Hypotheses Look Like For a Two-Sample T-test?</h3>
-<p>The statistical <strong>null hypothesis (H<sub>0</sub>)</strong> is that the means of the measurement variable are equal for the two categories.</p>
-<blockquote>
-<p>H<sub>0</sub>: x̅ (Group 1) = x̅ (Group 2)</p>
-</blockquote>
-<p>In terms of our original question, the null hypothesis is that there is no difference in the mean height of students living on east (Group 1) vs. west (Group 2) campus.</p>
-<p>There are two different ways you can describe the <strong>alternative hypothesis (H<sub>A</sub>)</strong>. Which way you choose depends on what you know already, or what your predictions are.</p>
-<p>If you have some prior information or other observations, you can make a prediction that the two groups will be different from one another in a particular direction. In other words, you can predict in advance which group will have a mean that is significantly greater or less than that of the other group. Depending on the direction you choose, the alternate hypothesis will be:</p>
-<blockquote>
-<p>H<sub>A</sub>: x̅ Group 1 &gt; x̅ Group 2
-or
-H<sub>A</sub>: x̅ Group 1 &lt; x̅ Group 2</p>
-</blockquote>
-<p>In terms of our original question, we see what looks like taller students living on west campus. So we can choose a hypothesis that includes a specific direction, and predict that the mean height of students living on east (Group 1) campus is less than the mean height of students on west (Group 2) campus. Because we have made a prediction of change in one direction in our hypothesis, we will be running a <strong>one-tailed t-test.</strong></p>
-<p>Now suppose we did not have the histogram in Figure 1. We suspect there is a height difference but we cannot predict which group will be taller on average. We only can predict that the two groups are different. Now the alternate hypothesis will be:</p>
-<blockquote>
-<p>H<sub>A</sub>: x̅ Group 1 ≠ x̅ Group 2</p>
-</blockquote>
-<p>Because our hypothesis does NOT predict the direction of change, we will be running a <strong>two-tailed t-test.</strong></p>
-</div>
-<div id="running-the-experiment" class="section level3" number="22.1.3">
-<h3><span class="header-section-number">22.1.3</span> Running the Experiment</h3>
-<p>To test our hypothesis, we randomly select 50 students each living on west and east campus, measure their heights, and tabulate the data.</p>
-<p>INSERT:</p>
-<p><strong>Table 2.</strong> Table with 2 x 50 nominal values centered on two sign. diff. means.</p>
-</div>
-<div id="calculating-two-sample-t-tests-in-excel" class="section level3" number="22.1.4">
-<h3><span class="header-section-number">22.1.4</span> Calculating Two-Sample T-Tests in Excel</h3>
-<p>You can use MS Excel to calculate mean and standard deviations for numerical measurements.</p>
-<ul>
-<li>Use the formula “=AVERAGE(<a href="data:range" class="uri">data:range</a>)” to calculate the arithmetic mean for all values in the cells listed in “<a href="data:range" class="uri">data:range</a>”.</li>
-<li>Use “=STDEV(<a href="data:range" class="uri">data:range</a>)” to calculate the standard deviation.</li>
-</ul>
-</div>
-</div>
-<div id="paired-t-test" class="section level2" number="22.2">
-<h2><span class="header-section-number">22.2</span> Paired T-Test</h2>
-<p>You will use a <strong>paired t test</strong> if you have a group of individuals, organisms, sites, etc., and <strong>pairs of observations</strong> for each member of that group.</p>
-<p>The paired t-test asks whether the mean difference in the pairs is different from 0. A paired t-test compares two means that come from the same group, but the group is measured twice.</p>
-<p>The first measurement from each member of the group is the <strong>control or pre-treatment measurement.</strong> The group is given a treatment or allowed to participate in some event, then you measure each member of the group again; this second measurement is the <strong>experimental or post-treatment measurement.</strong></p>
-<div id="an-example-of-a-paired-t-test" class="section level3" number="22.2.1">
-<h3><span class="header-section-number">22.2.1</span> An Example of a Paired T-test</h3>
-<p>Let’s change around the campus height question. Suppose that all students live on east campus for their first two years, then move to west campus for the rest of their time in school. Heights of all students are measured twice: once in the first year they are living on east campus, then again in their fourth year, after they have moved to west campus.</p>
-<p>Now we can ask a different question: do students get taller when they move to west campus?</p>
-</div>
-<div id="what-do-the-statistical-hypotheses-look-like-for-a-paired-t-test" class="section level3" number="22.2.2">
-<h3><span class="header-section-number">22.2.2</span> What Do the Statistical Hypotheses Look Like For a Paired T-test?</h3>
-<p>The null hypothesis (H0) is that student height does not differ across campus.</p>
-<blockquote>
-<p>H<sub>0</sub>: x̄ West campus = x̄ East campus</p>
-</blockquote>
-<p>Just like the previous t-test, we may have prior observations or a particular reason to predict student height changes in a particular direction. If so, we can state the alternative hypothesis (HA) in the form of a one-tailed t-test.</p>
-<blockquote>
-<p>H<sub>A</sub>: x̅ Wes campus &gt; x̅ East campus
-OR:
-H<sub>A</sub>: x̅ Pre-exam &lt; x̅ Post-exam</p>
-</blockquote>
-<p>If we think there is a difference but we have no data to make a prediction about which direction height changes, we word the alternative hypothesis as a two-tailed test, meaning we expect the means will be significantly different, but cannot predict which direction.</p>
-<blockquote>
-<p>H<sub>A</sub>: x̄ West campus ≠ x̄ East campus</p>
-</blockquote>
-</div>
-<div id="running-the-experiment-1" class="section level3" number="22.2.3">
-<h3><span class="header-section-number">22.2.3</span> Running the Experiment</h3>
-<p>To test our hypothesis, we randomly select 50 students, and tabulate their heights when living on east vs. west campus.</p>
-<p>INSERT:
-<strong>Table 3.</strong> Table with 2 x 50 PAIRED nominal values centered on two sign. diff. means.</p>
-</div>
-<div id="calculating-paired-t-tests-in-excel" class="section level3" number="22.2.4">
-<h3><span class="header-section-number">22.2.4</span> Calculating Paired T-Tests in Excel</h3>
-<p>MS Excel can handle paired t-tests too.</p>
-<ul>
-<li>Use the formula “=AVERAGE(<a href="data:range" class="uri">data:range</a>)” to calculate the arithmetic mean for all values in the cells listed in “<a href="data:range" class="uri">data:range</a>”.</li>
-<li>Use “=STDEV(<a href="data:range" class="uri">data:range</a>)” to calculate the standard deviation.</li>
-</ul>
-<p>================</p>
-</div>
-</div>
-<div id="how-to-report-and-interpret-t-test-statistics" class="section level2" number="22.3">
-<h2><span class="header-section-number">22.3</span> How to Report and Interpret T-Test Statistics</h2>
-<p>When reporting the results of any type of t-test, you should include the t-statistic, the degrees of freedom (df), whether the test was one- or two-tailed, and the corresponding p-value.</p>
-<p>Your statement reporting outcomes of a two-sample t-test might look like this:</p>
-<blockquote>
-<p>The mean height of students living on west campus was not statistically significantly different than mean height of students living on east campus (t-stat = 0.57, df = 26, one-tailed, P = 0.674).</p>
-</blockquote>
-<p>OR:</p>
-<blockquote>
-<p>The mean height of students living on west campus was statistically significantly different than mean height of students living on east campus (t-stat = 0.57, df = 26, one-tailed, P = 0.0135).</p>
-</blockquote>
-<p>Your statement reporting results of a paired t-test might look like this:</p>
-<blockquote>
-<p>The mean height of students was not significantly higher after moving from east campus to west campus (t-stat = 0.57, df = 26, one-tailed, P = 0.0135).</p>
-</blockquote>
-<p>OR:</p>
-<blockquote>
-<p>The mean height of students was significantly higher after moving from east campus to west campus (t-stat = 0.57, df = 26, one-tailed, P = 0.0135).</p>
-</blockquote>
-<p>When you report the results of your statistical tests, be very careful that you interpret them carefully. Based on the results of the last paired t-test, which of these interpretations seems right or wrong, and why?</p>
+<div id="draft-how-to-modify-the-resource-guide" class="section level1 unnumbered">
+<h1>DRAFT How to Modify the Resource Guide</h1>
+<p>Unlike a static print guide, we encourage other instructors to modify this Resource Guide to fit their local needs, and address the problems they see most often with their own students. Given that, we do have some general recommendations for how to go about it.</p>
+<div id="adapting-the-guide-to-your-students" class="section level2 unnumbered">
+<h2>Adapting the Guide to Your Students</h2>
 <ol style="list-style-type: decimal">
-<li>“Based on these results we concluded that moving from east to west campus makes students grow taller.”</li>
-<li>“These results prove students are taller on west campus.”</li>
-<li>“These results support the conclusion that mean student height increases between the time students are measured in their first year of school, and their fourth year of school.”</li>
+<li><p>Focus on the <strong>largest, most serious writing skills gaps your students have first.</strong> Look systematically at the writing products of your students locally, and try to quantify how many students make particular mistakes (not just which mistakes you or your instructional team finds the most irritating.) Rank the mistakes so you are confident that you have identified the 5-10 most serious shortcomings in their scientific writing. These are your priority goals that you should focus on first, and what you should keep in mind as you revise this Guide.</p></li>
+<li><p>Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, you can simply move our overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.</p></li>
+<li><p>The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book.</p></li>
+<li><p><strong>Part 3</strong> is the main deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.</p></li>
 </ol>
-<p>Statement #1 implies that moving from one side of campus to the other is what <strong>causes</strong> students to get taller. Simply moving across campus should not do that; something else is going on during that time.</p>
-<p>Statement #2 breaks the basic assumption of statistics (and science): we cannot prove anything is true, we can only provide support for the alternate hypothesis. What if by chance our sample included several members of the basketball team, which lives only on west campus?</p>
-<p>Statement #3 steps back from the east vs. west campus question, and looks at what is going on biologically BEHIND the scenes. We cannot say the height difference is due to the move, because we did not measure heights just before and just after the move. So the authors stepped back to what they CAN say with certainty. Now they can speculate on what happens between Year 1 and Year 4. It might be:</p>
-<ul>
-<li>Year 1 students are younger, so have not finished growing yet. Everyone is still growing between the time they live on east campus and when they move to west campus.</li>
-<li>The football, basketball, and volleyball teams all live on west campus starting their first year. This takes some of the taller people out of the population on east campus.</li>
-<li>The food in the cafeteria on east campus is so bad that students don’t eat enough to grow until they move to west campus, where the cafeteria is better.</li>
-</ul>
-<p>These speculations range from very plausible to very unlikely. Still, they all are testable hypotheses that could be evaluated in future experiments.</p>
+</div>
+<div id="editing-the-guide-itself" class="section level2 unnumbered">
+<h2>Editing the Guide Itself</h2>
+<p>Each chapter is a plain text file with an .Rmd file. This is the standard format for R Markdown files. If you change the extension of the file name from .Rmd to .md, the file will switch to a plain Markdown file, and vice versa. Both file types are plain text files. The extensions simply indicate which programs to use to open and edit the files. In practice, you can write new chapters entirely as plain text files using any text editor. When you are ready to use them, simply change the extension on the filename.</p>
+<p>Each .Rmd file begins with a 3-digit number, which defines the order of the files when compiled into a book. To change the order of the chapters, just change the order of the numbering. There are other ways to tell R Studio how to arrange pages, but this way is obvious and fairly painless.</p>
+<p>A good practice when renumbering pages is to number sequential by 10s (10, 20, 30, etc.) This leaves room to add new pages without renumbering all existing ones.</p>
+<p>Chapter files begin with the chapter title as a level-one header, e.g., <code># Chapter Title</code>. Each chapter is divided into sections using lower-level headers, e.g., <code>## A Section Within a Chapter</code>.</p>
+<div id="creating-cross-links-between-pages" class="section level3 unnumbered">
+<h3>Creating Cross-Links Between Pages</h3>
+<p>When an .Rmd file is converted to HTML for a book the chapter and section headings are formatted and sequentially numbered automatically. Chapter and section headers include a cross-reference tag; the auto-generated tags can be replaced by adding an explicit {#label} after the chapter. For example, the H1 chapter header for the document describing scientific writing in general has this header line:</p>
+<pre><code># What Do We Mean By Scientific Writing? {#goals100}</code></pre>
+<p>Adding an explicit {#label} to the end of all chapter headers is a good practice if you know you’re going to cross-reference a topic repeatedly. We have already attached explicit {#labels} to the top level header of most pages (only pages in the Preface were excluded.)</p>
+<p>In-book crosslinks are formatted this way:</p>
+<pre><code>[link text](#goals100)</code></pre>
+<p>The first part in square brackets is the linked text that will be displayed. The hashed text in parentheses is the label from the page or section that is the target.</p>
+<p>To refer to the NUMBER of a particular chapter or section, use <code>\@ref(label)</code>. For example:</p>
+<pre><code>In chapter \@ref(install-git) we explain how to install Git.</code></pre>
+<p>renders this way:</p>
+<pre><code>In Chapter 6 we explain how to install Git.</code></pre>
 
+</div>
 </div>
 </div>
             </section>
@@ -850,8 +652,8 @@ H<sub>A</sub>: x̅ Pre-exam &lt; x̅ Post-exam</p>
           </div>
         </div>
       </div>
-<a href="sumstats460.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="compstatstwo473.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="for-instructors.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="draft-contributors.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -883,7 +685,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/470-Statistical-comparisons1.Rmd",
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/006-Modifying_guide.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -894,7 +696,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["https://github.com/rstudio/bookdown-demo/raw/master/470-Statistical-comparisons1.Rmd"],
+"download": ["https://github.com/rstudio/bookdown-demo/raw/master/006-Modifying_guide.Rmd"],
 "toc": {
 "collapse": "section"
 }

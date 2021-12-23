@@ -1,3 +1,6 @@
+adapting-the-guide-to-your-students
+editing-the-guide-itself
+creating-cross-links-between-pages
 goals100
 scientific-writing-has-specific-goals
 scientific-writing-makes-assumptions-about-the-audience
