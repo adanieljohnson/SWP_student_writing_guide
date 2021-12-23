@@ -1,5 +1,5 @@
 # (PART) Hypotheses and Experimental Design {-}
-# What IS a Hypothesis? {-}
+# What IS a Hypothesis?
 
 Part 2 of this Guide shows you how hypotheses and experimental design are connected to scientific writing. You will learn how to turn your questions about the world around us into testable hypotheses, and how to design an experiment that provides you with reliable data that you can use to start answering your questions. 
 
