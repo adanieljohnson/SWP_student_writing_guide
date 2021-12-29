@@ -1,4 +1,4 @@
-# DRAFT Summarizing Data: Photos,  Diagrams, and Illustrations {#photos430}
+# Summarizing Data: Photos,  Diagrams, and Illustrations {#photos430}
 
 Photos and diagrams (drawings, maps, or other visual data) summarize data that are not described easily in words or cannot be presented in a graph. A map of the 2–dimensional distribution of organisms in a test site, or photos of the pattern of blue staining in control and cold–treated transgenic plants, are two examples. An illustration summarizing the workflow of the experiment would be another example. 
 
@@ -49,6 +49,17 @@ __What Could Be Improved?__
 
 <br/>
 
+### Example 4
+
+![Figure 1: Root: shoot length ratio in centimeters of non-nitrogen treated and nitrogen treated groups. Error bar denotes standard deviation.](images/Bad_crop.png){width=80%}
+
+__What Could Be Improved?__
+
+1. This bar graph was inserted as an uncropped screen shot. It needs to be cropped down so only the graph is showing. Better yet, save the graph as a separate image file.
+2. Remove the figure legend from the photo.
+3. In the legend, how many observations ("n") do the mean and s.d. represent?
+
+<br/>
 
 ## Examples of Well-Chosen Photos and Diagrams
 
@@ -75,15 +86,6 @@ __What is Particularly Good?__
 <br/>
 
 ### Example 3
-
-![image 3 is good](images/name.png){width=80%}
-Prefer to have an illustration or diagram for this example.
-
-__What is Particularly Good?__
-
-<br/>
-
-### Example 4
 
 ![Example of a myogram collected after a frog leg was injected with A23187 calcium ionophore. Each myogram has a higher peak amplitude than the previous one.](images/Four_myograms.png){width=80%}
 

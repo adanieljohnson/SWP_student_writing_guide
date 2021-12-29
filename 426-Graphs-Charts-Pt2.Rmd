@@ -13,8 +13,8 @@ These tips address the most frequent mistakes we see in our students' graphs.
 
 * Be sure your graphs are legible. Do not try to put too much data in a single figure. Clutter keeps readers from extracting information effectively. 
 * Use fonts and font sizes that are easy to read. 
-* Do not skimp on space. Small figures are hard to read. A rule of thumb is to draw your graphs so they fill at least half of a standard print page. 
-* Use clearly different textures or plot elements to indicate different sets of data (for example, the black vs. white bars in the bar graph shown in Figure 1 above, and the different shaped symbols in Figure 2B).
+* Do not skimp on space. Small figures are hard to read. A rule of thumb is to draw graphs so they fill at least half of a standard print page. 
+* Use clearly different textures or plot elements to indicate different sets of data (for example, black vs. white bars in a bar graph, or different shaped symbols like in Example 2 below.
 * When you plot means in a bar or line graph, always include error bars that show the standard error of the means. 
     + Don't let Excel decide what the error bar values should be; its default choice is not correct for scientific articles. Put in the standard error bar values yourself.
     + Usually you will use +/- 1 s.d. for your error bars.

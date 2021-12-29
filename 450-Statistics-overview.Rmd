@@ -44,7 +44,7 @@ __Table 3.__ Statistical Modeling
 
 ## Where to Learn More
 
-This Guide covers a fraction of all there is to know about biostatistics. This introduction will get you started thinking about some foundational concepts and using some simple tests. When you are ready, check out these additional resources. 
+This Guide covers just a fraction of all there is to know about biostatistics. This introduction will get you started thinking about some foundation concepts and using some simple tests. When you are ready, check out these additional resources. 
 
 [HHMI Data Explorer](https://www.biointeractive.org/classroom-resources/data-explorer) is an interactive web site that you can use to build graphs and learn how different parts go together. In the __Materials__ box on the right side is a link to download the __HHMI Statistical Analysis Selection Guide__. This short reference helps you choose the right statistical test for your data.
 
