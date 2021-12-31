@@ -44,6 +44,7 @@ __Table 1.__ Weight of apples versus branch diameter and height above ground.
 |5.7|10.4|145|
 |1.9|3|70|
 
+<br/>
 
 ### What Do the Statistical Hypotheses Look Like For Correlation?
 
@@ -105,6 +106,8 @@ __Table 2.__ Weight of apples versus height above ground.
 |12.7|159|
 |12.9|167|
 |14.2|170|
+
+<br/>
 
 
 ### What Do the Statistical Hypotheses Look Like For Linear Regression?

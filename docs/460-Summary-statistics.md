@@ -32,6 +32,8 @@ __Table 1.__ Distribution of student height on campus.
 |>219 (7'2")|52|
 |Total|5788|
 
+<br/>
+
 If we plot these data as a series of bars showing the counts for each category, we get a __histogram__ like the one in Figure 1.
 
 <center>

@@ -1,12 +1,12 @@
 # DRAFT How to Modify the Resource Guide {-}
 
-Unlike a static print guide, we encourage other instructors to modify this Resource Guide to fit their local needs, and address the problems they see most often with their own students. Given that, we do have some general recommendations for how to go about it. 
+Other instructors should modify this Resource Guide to fit their local needs, and address the problems they see most often with their own students. We have some general recommendations for how to go about doing that. 
 
-## Adapting the Guide to Your Students {-}
+## Adapting the Guide to Your Students' Needs {-}
 
-1. Focus on the __largest, most serious writing skills gaps your students have first.__ Look systematically at the writing products of your students locally, and try to quantify how many students make particular mistakes (not just which mistakes you or your instructional team finds the most irritating.) Rank the mistakes so you are confident that you have identified the 5-10 most serious shortcomings in their scientific writing. These are your priority goals that you should focus on first, and what you should keep in mind as you revise this Guide. 
+1. Focus on the __largest, most serious writing skills gaps your students have first.__ Look at the writing products of your students systematically, and try to quantify how many students make particular mistakes (not just which mistakes you or your instructional team find the most irritating.) Rank the mistakes so you are confident that you have identified the 5-10 most serious shortcomings in their scientific writing. These are your priority goals that you should focus on first, and what you should keep in mind as you revise this Guide. 
 
-2. Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, you can simply move our overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.
+2. Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, move the overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.
 
 2. The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book. 
 
@@ -54,4 +54,9 @@ renders this way:
 In Chapter 6 we explain how to install Git.
 ```
 
+
+## For More Information {-}
+
+[Handouts from our first workshop on how to modify the Guide](https://github.com/adanieljohnson/ABLE_2022_Workshop)
+[Presentation of the complete writing instructional model]()
 

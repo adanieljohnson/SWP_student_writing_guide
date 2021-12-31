@@ -55,13 +55,11 @@ Quitadamo, I. J., & Kurtz, M. J. (2007). Learning to improve: Using writing to i
 
 White, B., Frederiksen, J., & Collins, A. (2009). The interplay of scientific inquiry and metacognition. In D. J. Hacker, J. Dunlosky, & A. C. Graesser (Eds.), _Handbook of metacognition in education_ (pp. 175–205). Routledge.
 
-
 <br>
-
 
 ## Best Practices For Teaching Writing
 
-> How most students learn to write in the sciences is very different from what is recommended best practices. The references in this section provide a starting point for engaging in meaningful dialogue about writing as learning.
+> How most students learn to write in the sciences is very different from what is recommended best practices. The references in this section provide a starting point for engaging in more meaningful dialogue about writing instruction.
 
 Adler-Kassner, L., Barnhouse, S., Eodice, M., Estrem, M., Irvin, L., Kelly-Riley, D., Mitchler, S., & Palmquist, M. (2015). _CCCC Principles and Standards for the Teaching of Writing_. [Link to source.](https://cccc.ncte.org/cccc/resources/positions/postsecondarywriting)
 
@@ -99,9 +97,7 @@ Tanner, K., & Allen, D. (2006). Approaches to biology teaching and learning: On 
 
 Tucker, K. (2018). The Cuttlefish Problem: Readability and “Science-ese” in Scientific Writing. _Science Editor_, _41_(1), 12–13.
 
-
 <br>
-
 
 ## Writing As a Research Question
 

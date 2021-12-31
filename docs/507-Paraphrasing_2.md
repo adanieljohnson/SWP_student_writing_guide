@@ -20,18 +20,25 @@ This example of an Introduction section mixes information that Y.L. Chen and the
 
 > Lung cancer is the leading cause of cancer-related death worldwide, despite improvements in relevant detection methods and treatment regimens. Personalized therapy through the selection of patients who are likely to respond to a particular therapeutic agent may improve patient survival [1]. 
 
+<br/>
+
 This sentence summarizes an important concept in this article. You might want to use a paraphrased version of this statement in your lab report. However, if you as an author want to make a statement about the value of personalized therapies, you should not use Chen, et. al (2021), because they are not the primary source; these authors did not come up with this idea. It is a concept that they learned about from other authors’ studies. We know this because they provided their source for this information. You should look up Y.L. Chen’s source for the information (Reference 1), then read and paraphrase it for yourself. 
 
 > The most successful example is the identification of activating mutations of the EGFR gene in patients with non–small cell lung cancer (NSCLC) for the administration of EGFR-kinase–targeting drugs [2]. 
+
+<br/>
 
 Again, you should not paraphrase and cite this part of the Introduction, because it is not the original source. If you think this is a concept you want to include in your own writing, go back to the original source and read it for yourself. Then paraphrase and cite the original source. 
 
 > Thus, the application of targeted therapies for NSCLC patients based on biomarker analysis is expected to increase.
 
+<br/>
+
 Finally we have a statement that we can paraphrase. You might use this sentence in your own lab report:
 
 > Chen, et. al (2021) predict that a greater number of patients with NSCLC will get customized treatments based on biomarkers from their cancer cells.
 
+<br/>
 
 Ready to try another one? Here is the second paragraph from the Introduction. 
 
@@ -40,9 +47,13 @@ Ready to try another one? Here is the second paragraph from the Introduction.
 
 > Soda et al. discovered the fusion of the anaplastic lymphoma kinase (ALK) gene with echinoderm microtubule–associated protein like 4 (EML4) in NSCLC as a novel molecular target for cancer therapy [3]. The reported incidence of ALK rearrangement ranges from 5% to 7% in unselected NSCLC patients, with 29% in the subset of young patients with adenocarcinoma who are never or light smokers. In addition, ALK rearrangement is mutually exclusive with EGFR and KRAS mutations [4]. However, clinicopathologic characteristics are insufficient for identifying relevant patients, and molecular testing is becoming the mainstream laboratory test for analyzing ALK status [5]. The recent introduction of an ALK inhibitor in therapy for patients with ALK rearrangement further necessitates the development of molecular testing to identify patients who may benefit from the ALK targeted therapy [6]. Moreover, fusions of different ALK partners or even different fusion points with the same partner may result in differential sensitivity to structurally diverse ALK kinase inhibitors [7]. Thus, the detection of ALK rearrangement is crucial for providing quality care for patients with NSCLC in routine clinical service.
 
+<br/>
+
 Out of the entire preceding paragraph, only the last sentence does not come from another study. The paraphrased example below combines the main points of paragraphs 1 and 2 into a single statement. 
 
 > Chen, et. al (2021) predict that a greater number of patients with NSCLC will get customized treatments based on biomarkers from their cancer cells. Routine detection of ALK rearrangements is one of the biomarkers being used this way currently. 
+
+<br/>
 
 These two sentences capture the main points of the first half of the Introduction of the original article. We’ve not directly quoted Y.L. Chen, et al.’s text, avoided excessive detail, and provided the original source for our information. 
 
@@ -75,6 +86,7 @@ Look at the reprinted excerpt below.
 
 > Paragraph 8.  In summary, a novel RNA-based ALK KD analysis method has been successfully developed for ALK rearrangement screening in MPE and FFPE specimens of NSCLC. The laboratory test is simple and practical with potential to identify the rare occurrence of ALK amplification and new rearrangement partners, if substantiated by 5’RACE. The technique also has the advantage of joint analysis of EGFR and ALK gene rearrangements in NSCLC through the use of the same collection of RNA.
 
+<br/>
 
 So which parts can be paraphrased (and how) and cited? Below are the statements that you could safely paraphrase and cite using this text as the source. The rest of the points made in the original Discussion came from other sources, so should be tracked back to those sources to be cited. How the authors summarized their own Discussion in their Abstract is shown below the list of citable points from each paragraph. Remember, the authors can reuse the same words and phrases as they did in their original Discussion to summarize their points in their Abstract. To avoid copying, you would need to change the wording more completely.
 
@@ -86,11 +98,14 @@ __Citable Ideas in Paragraphs 1 & 2__
 * We demonstrated that the ALK KD screening strategy provides comparable sensitivity to that of ALK RGQ RT-PCR testing for MPE (12.8% vs. 10.6%, respectively) and FFPE (21.3% vs. 17.0%, respectively) in patients with EGFR-wt. 
 * Current CAP/AMP guidelines recommend prioritizing testing of EGFR mutations followed by ALK assays.
 
+<br/>
+
 ___How the Authors' Abstract Summarized Paragraphs 1 & 2___
 
 * To detect ALK fusion genes, we developed a novel test using reverse transcription polymerase chain reaction (RT-PCR) for the ALK kinase domain (KD). 
 * Since ALK expression is mostly silenced in the adult with the exception of neuronal tissue, the normal lung tissue, mesothelial lining, and inflammatory cells are devoid of ALK transcript, making ALK KD RT-PCR an ideal surrogate test for ALK fusion transcripts in lung or pleural effusion. 
 
+<br/>
 
 __Citable Ideas in Paragraphs 3 & 4__
 
@@ -98,18 +113,23 @@ __Citable Ideas in Paragraphs 3 & 4__
 * In FFPE samples, ALK KD screening and EML4-ALK multiplex PCR tests yielded discrepant results for two cases. 
 * Because of its sensitivity to crizotinib in vitro, the ALK inhibitor should be considered for patients with SPECC1L-ALK NSCLC. 
 
+<br/>
+
 ___How the Authors' Abstract Summarized Paragraphs 3 & 4___
 
 * It also offers an advantage over multiplex RT-PCR with the capability to detect novel ALK fusions. 
 * [W]e found a novel ALK fusion partner (sperm antigen with calponin homology and coiled-coil domains 1 like gene, SPECC1L) with increased sensitivity to crizotinib in vitro. 
 * Two false positive cases were found. 
 
+<br/>
 
 __Citable Ideas in Paragraphs 5 & 6__
 
 * In contrast to combined analysis of ALK KD and the control ABL1 gene in the ALK RGQ RT-PCR kit, RNA quality assessment with GAPDH (165 bp) and β2-microglobulin (256 bp) genes was chosen as our standard to select qualified samples for ALK testing. With this approach, most of the MPE samples (143/144, 99.3%) and FFPE samples (185/190, 97.4%; 5 μm, 3 sections) were favorable for testing. Our study provides a cost-effective alternative to next-generation sequencing for evaluating clinical molecular pathology in laboratories.
 * In this study, ALK rearrangement was associated with patients’ age but not associated with gender. The results agree with a prospective ALK screening study reporting a substantial association of younger ages with ALK rearrangements. 
 * Further investigation is required to explain the discrepancy; however, the small sample size, selection bias, or ethnic difference of our study might account for the difference.
+
+<br/>
 
 ___How the Abstract Summarized Paragraph 5___
 
@@ -118,10 +138,13 @@ ___How the Abstract Summarized Paragraph 5___
 
 There was no direct summary of paragraph 6 in the Abstract. This is not unusual if the paragraph is providing deeper detailed analysis that is not essential to understanding the study overall. Most of this paragraph in the original article summarized others' published research, which is another reason not to include it in the abstract for this article.
 
+<br/>
 
 __Citable Ideas in Paragraphs 7 & 8__
 * Even though this study put emphasis on testing economy, our ALK KD test still holds its value in a scenario where cost is not a major concern. In fact, a primer set for the ALK kinase domain can be incorporate into a multiplex PCR. If properly designed, it can give rise to a distinct band different from other specific fusions; or in a more sophisticate system, a different color or tag can be assigned to the kinase domain product. In this way, the kinase domain primers can help to detect potential novel fusions, thus eliminating the main concern of a multiplex PCR which normally can only detect known fusion events.
 * ...[A] novel RNA-based ALK KD analysis method has been successfully developed for ALK rearrangement screening in MPE and FFPE specimens of NSCLC. The laboratory test is simple and practical with potential to identify the rare occurrence of ALK amplification and new rearrangement partners, if substantiated by 5’RACE. The technique also has the advantage of joint analysis of EGFR and ALK gene rearrangements in NSCLC through the use of the same collection of RNA.
+
+<br/>
 
 ___How the Authors' Abstract Summarized Paragraphs 7 & 8___
 

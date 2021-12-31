@@ -50,6 +50,7 @@ __Table 1.__ Distribution of student height on campus.
 |>219 (7'2")|0|52|52|
 |Total|2588|3200|5788|
 
+<br/>
 
 If we plot these data as a series of bars showing the counts for each category, we see the distribution shown in Figure 1.
 

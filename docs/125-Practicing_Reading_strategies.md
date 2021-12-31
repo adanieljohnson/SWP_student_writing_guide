@@ -10,16 +10,21 @@ This is a generic exercise that you can use to practice strategic reading. Your 
 Once you have the articles, the exercise should take less than 1 hour. It is short intentionally, so you are less likely to get bogged down or frustrated.
 
 1. __Pick one reading goal__ [(listed here)](#reading120) that you want to practice. Start with one in the "new to the field" list. Focus on one reading area at a time. It does not help to do them all at once.
+
 2. __Find five primary literature articles__ that you will use to practice strategic reading. The first time your instructor may give you 5 articles and a specific goal to practice. 
     + If you must find your own articles, locate 1 article related to your goal. Then look for in-text citations in the section(s) that are relevant to your goal. Get copies of 4 more cited articles that seem to be related. 
     + Do not worry about whether you have chosen good articles or not; judging their value is part of the exercise. 
     + Learning to find primary sources is an important skill on its own. If you have trouble searching for literature, schedule a meeting with your local Science Reference Librarian.
+
 3. __SKIM each of the articles__ you have chosen. Spend no more than 5 minutes per article (25 minutes total.) Find and write down 3 pieces of concrete or specific information in EACH article that helps you meet the original stated goal. 
     + For now ignore interesting information that is not relevant to your main goal. 
     + If one of the articles you chose does NOT provide useful information related to your reading goal, rank it "less relevant," and move on to the next article.
+
 4. __Pick the three best or most informative articles__ relative to your original reading goal. Spend no more than 5 minutes on this step.
+
 5. __Summarize what you learned__ from the 3 most relevant or informative articles relative to your original reading goal. Spend no more than 20 minutes on this step.
     + Do not just list facts. Connect the information in the 3 articles in a coherent argument or story.
+
 6. __Reflect on what you just did__. Where did you struggle or get bogged down? What took longer than it should have? If you had to do this same thing again, what would you change and why? Write down what you noticed so you can review it quickly the next time you have to read primary literature.
 
 
@@ -30,9 +35,14 @@ This technique is adapted from the Purposeful Reading Assignment [Roberts: 2008;
 The description assumes you are reading primary literature. With a little adjustment it can be used for almost any pre-class reading or activity. Read the questions below FIRST, then read the assigned article with those questions in mind. 
 
 1. __Choose and describe the THREE most important aspects of the article__. They can be key findings, conclusions, concepts, or issues raised. Write a short 1-2 sentence justification for why each item you chose is one of the 3 most important aspects of the reading.
+
 2. __Identify TWO aspects of the reading you do not understand__. You may identify more than two confusing elements. If so, put them in priority order, and decide which two are the most important. Write a 1-2 sentence explanation of what you do understand vs. what is confusing. 
+
 3. __Pose ONE follow-up question to the text’s author__. The answer to this question should not be in the reading and should not be the same as the 2 areas of confusion above. The goal is to think beyond the reading content.
+
 4. If you are discussing the article in class, bring your 3 key points, 2 points of confusion, and 1 follow-up question with you to class on the day the article is discussed, and use them as reference material.
+
+<br/>
 
 Different readers are going to choose different key points. By discussing them as a class, you will get to see what others thought were important, without anyone having to find everything. The two confusing points may be standing in the way of your own understanding, but very likely several other people are struggling with the same points. Also, we rarely understand fully an article that is outside our comfort zone. Reflecting explicitly on what we do not know and how it affects our understanding makes confusion an acceptable part of learning, not something we must hide. 
 
@@ -114,6 +124,7 @@ Reading papers also helps you understand the mechanics of writing. These questio
 * If tables were included, were they clear, easy to read and understand, and properly explained?
 * What about the writing style made the paper easier or harder to read and understand? 
 
+<br/>
 
 ## Where to Learn More 
 

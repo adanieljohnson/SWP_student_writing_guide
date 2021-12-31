@@ -55,6 +55,7 @@ Which general statement is best supported by this Introduction? What follow-up s
 
 > For these reasons, general aim of this study is to determine prototypical stimuli (spiders and spider-like arthropods) that elicit pronounced emotional response. We asked whether high negative emotional evaluation (fear and/or disgust) is specific to spiders compared to other arthropods. Regarding phylogeny, spiders are representatives of Chelicerata which in turn are one of four major extant arthropod groups (other three being Myriapoda, Crustacea and Insecta; for detailed phylogeny and taxonomy see [62], and S1 Table in S1 File). To answer our questions, we chose a wide variety of stimuli including several representatives of spiders, nine other main clades of chelicerates as well as representatives of above-mentioned arthropod groups. Together, the selected stimuli represent full morphological diversity of living spiders and its closest relatives allowing for a precise comparison on a very fine scale. Further, we asked which morphological features of spiders are responsible for their emotional evaluation. Because the emotional evaluation of spiders is closely related to the respondents’ sensitivity to a specific fear of spiders [13, 21], we tested people with normative as well as high fear of spiders. We focused on covering a full spectrum of respondents from those with low or no fear of spiders to suspected phobic and near phobic respondents. Relatively large numbers of diverse respondents are firstly crucial for validly defining spiders as a prototypical stimulus in a general population. Secondly, it allows investigating from what point specific fear of spiders affects subjective emotional evaluation of spider and spider-like stimuli in a manner a simple comparison of two extreme groups from opposite sides of the “fear spectrum” cannot.
 
+<br/>
 
 __Excerpt of the Original Discussion__
 
@@ -63,7 +64,6 @@ Which of these general statements is best supported by the Discussion? What foll
 1. Spiders stimulate strong negative or even phobic reactions because they elicit both strong fear and strong disgust.
 2. Negative responses to spiders have their evolutionary roots in the risk of venomous bites.
 3. It is unlikely that negative responses to spiders have a simple explanation. There are likely multiple evolutionary roots and connections.
-
 
 > _Is position of taxonomically defined spiders on fear and disgust scales distinctive compared to that of other chelicerates and arthropods?_
 

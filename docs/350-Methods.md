@@ -35,6 +35,8 @@ This particular example has too much detail. It reads just like our laboratory m
 
 > In order to test how differing temperatures affect chloroplast activity in spinach leaves we first collected enriched chloroplast samples. In order to do this we removed the large central veins from 4 medium-sized spinach leaves and washed them with cold water. We then added the leaves and 10 ml of 400 mM sucrose in Tricine buffer (grinding buffer) to a mortar and pestle and grinded the spinach until it became a thick paste. Following this, we added an additional 10 ml of grinding buffer to the paste and strained it through three layers of cheesecloth into the chilled beaker. Next, we transferred the liquid to a chilled 50 ml centrifuge tube marked “A”, and spun it in a centrifuge at 200 x G  for 3 minutes at 4°C. After, we poured the supernatant out of the tube marked “A” into the second chilled 50 ml centrifuge tube marked “B”. We then centrifuged the 50 ml tube “B” at 1,000 x G for 10 minutes at 4°C. Next, we poured the supernatant, into a clean 50 ml tube marked “C”. Finally, we add 20 ml of grinding buffer to the pellet at the bottom of tube “B” and suspend it in solution. In a previous experiment we determined that “sample of pellet B” contains the enriched chloroplasts because it had the highest chloroplast to debree ratio. As a result, the chloroplasts from “sample of pellet B” are what we used in our samples for our chloroplast activity assay. We started the chloroplast activity assay by numbering 13 test tubes “blank” and “1-12”. We added 8 mL of water, 2 mL of reaction buffer, and 100 microliters of enriched chloroplasts to the “blank tube”. In tubes 1-12 we added 6 mL of water, 2 mL of DCIP, 2 mL of reaction buffer, and 100 microliters of enriched chloroplasts. Next, we mixed each tube and added their contents to individual cuvettes. Following this, we used the blank tube to blank the spectrophotometer. We then recorded the absorbance of each sample. These absorbance values served as our baseline measurements (0 minutes). We then place samples 1-3 in ice water (0°C), samples 4-6 in room temperature water (23°C), samples 7-9 in 40°C water, and samples 10-12 in 55°C water. We recorded the absorbance of each sample every ten minutes for a duration or thirty minutes. We then calculated the percent change for every absorbance measurement using the formula % change = ((absorbance at time zero - absorbance at time N) / absorbance at time 0) x 100. Following this, we plotted the change in absorbance against time for each temperature group. Finally, we used a one way ANOVA test to determine if there was a statistically significant difference in chloroplast activity between any of the temperature groups.
 
+<br>
+
 This example also has numerous misspellings and poor word choices. Some examples:
 
 1. grinded (should be ground)
@@ -49,6 +51,8 @@ This is an example of not providing enough detail. This is the entire methods se
 
 > For three dissected frog legs, electrical probes were applied to the gastrocnemius muscle, and the muscle was attached with string at one end to a force sensor. The electrical probes and force sensor were used to collect data on the threshold for producing notable muscle contractions in each frog’s gastrocnemius under various voltage stimuli. Once each muscle's threshold had been determined as a control, each gastrocnemius was injected with Lidocaine, and the new thresholds were determined. Each muscle was also rinsed in Ringer’s solution to prevent changes in threshold resulting from deficient salts or variables other than the sodium ion concentration. After each gastrocnemius’s thresholds were found, a t-test with a P value of 0.05 was performed to determine if a significant change had occurred.
 
+<br>
+
 What is missing? What needs revision?
 
 1. What equipment is being used? What voltage is being applied? How is threshold determined?
@@ -61,6 +65,8 @@ What is missing? What needs revision?
 This author has focused on the wrong details, and left out essential information. Again, this is the entire methods section, not an excerpt. Spelling and grammatical errors have not been corrected.
 
 > The materials that were used was soil with either nitrogen or without nitrogen, as well as pots, water, field pea seas, and time. The seeds were planted in their respective pots, either with or without nitrogen. The seeds were then planted in their pots and left to grow over two weeks, with one member of the group going to the greenhouse every other day in order to water the plants and check on their growth. After the two weeks were over, the plants were collected and the roots/shoots were taken out of their pots, cut apart, and measured using a ruler (cm). The data was recorded and the waste was disposed of. 
+
+<br>
 
 What is missing? What needs to be revised?
 
@@ -80,6 +86,8 @@ What is missing? What needs to be revised?
 
 > After 2 weeks, 5 individual seedlings from each container were gently uprooted (keeping the entirety of the plant intact). The length of the entire sprout was measured in centimeters and weighed in grams, then the sprout was cut at the top of the root, where it meets the stem, and the lengths of the root and shoot were measured individually. Finally, weights of the roots and shoots were measured for each seedling. Root:shoot length ratios and weight ratios were calculated for each individual seedling, then the average ratios for the control and treatment groups were calculated. A one-tailed, two-sample t-test was used to compare the average overall lengths and weights, and root:shoot ratios. 
 
+<br>
+
 __What Is Particularly Good?__ 
 
 1. The author clearly explains how the test conditions were created, and how they standardized the four containers. 
@@ -96,6 +104,8 @@ __What Is Particularly Good?__
 
 > To measure control contractile activity, each leg was stimulated through the sciatic nerve with the final stimulation voltage three times, and the contraction amplitude in volts and total time in seconds were recorded. Then the muscle was injected with 0.1 mL of 25mM lidocaine (a sodium channel blocker), and allowed to sit 3-5 mins. Each leg was stimulated again in the same way as the controls, and the contraction amplitude and contraction time recorded again. Each set of 3 values for amplitude and time was averaged. Then a one-tailed paired t-test was used to analyze the data, with an alpha value of 0.05 for significant difference between control and lidocaine-treated measurements
 
+<br>
+
 __What Is Particularly Good?__ 
 
 1. This author included important information about the equipment they used. The specific brands and types is not always important, but it can be useful in certain situations. 
@@ -111,6 +121,8 @@ This methods section is somewhat different because it is describing an animal be
 > For the control, we placed a male betta into the testing tank, allowed it to acclimate 5 minutes, then recorded the number of seconds it spent inside the shelter in a five minute period. Next we added a second male betta (the rival) contained in a glass beaker to the tank. The test fish could see the rival, but was physically separated from it. We recorded the number of seconds the test fish spent using the shelter in the next five minute period. 
 
 > Four male Betta fish were used to run twelve trials. Each male was the test fish three times, using each of the other three males its rival once. We used a paired t-test to determine whether there was a significant difference between the time spent in shelter when there was another male present compared to when there was not another male present. 
+
+<br>
 
 __What Is Particularly Good?__ 
 
