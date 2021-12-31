@@ -82,3 +82,28 @@ These are what we see __our__ students do. Your instructor will provide you with
 
 [ &nbsp; ] Starting too late. Good writing takes time.
 
+
+<hr/>
+<br/>
+
+## Instructors' Supplement
+
+### Rationale
+
+Reasoning, published evidence, or local data supporting a practice we recommend.
+
+
+### Instructional Notes
+
+Practical tips, tricks, or alternative ways to implement the methods or activities described. 
+ 
+ 
+### Adapting Your Guide
+
+Items that instructors should check and modify so the distributed document/web pages match their local goals or requirements. 
+
+
+### Watch Out
+
+Particularly difficult or frequent problems that we or others have encountered, and if we know any, strategies for working around them. 
+

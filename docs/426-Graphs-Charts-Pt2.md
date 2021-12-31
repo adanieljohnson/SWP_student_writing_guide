@@ -29,6 +29,7 @@ These tips address the most frequent mistakes we see in our students' graphs.
 ### Example 1
 
 ![No figure legend was submitted.](images/Raw_data.png){width=80%}
+<br>
 
 __What Could Be Improved?__
 
@@ -41,6 +42,7 @@ __What Could Be Improved?__
 ### Example 2
 
 ![No figure legend was submitted.](images/Red-mane.png){width=80%}
+<br>
 
 __What Could Be Improved?__
 
@@ -54,6 +56,7 @@ __What Could Be Improved?__
 ### Example 3
 
 ![Figure 1. Average weight per day of control and treatment group by standard deviation.](images/Average_weight.png){width=80%}
+<br>
 
 __What Could Be Improved?__
 
@@ -72,6 +75,8 @@ This figure is better than the first two, but still could be more informative.
 
 ![Figure 1. Effect of low visibility on aggression score in male:male interactions in _Betta splendens_. Bars show the average scores for 5 randomly selected males in clean water, and 5 other males in murky water. Mean aggression score (number of seconds out of 200 in which males showed 1 or more of the 5 primary aggressive behaviors) was signficantly lower when bettas were in murky water (t-stat = 3.19, df = 4, p = 0.017.) Error bars represent +/- one standard deviation in the data.](images/Clean_plot.png){width=80%}
 
+<br>
+
 __What Is Particularly Good?__
 
 1. We know exactly what test subjects we are looking at, and what the scales are for the data.
@@ -84,6 +89,8 @@ __What Is Particularly Good?__
 ### Example 2
 
 ![Figure 2. Effect of relative light intensity on DCIP reduction by isolated spinach chloroplasts. Plotted values are means of 5 independent replicates. Error bars represent +/- one standard deviation around each mean. Light intensity is described as % of brightness of full summer sun at midday. Change in DCIP absorbance is described as % of blue color lost compared to time zero.](images/DCIP_Spinach.png){width=80%}
+<br>
+
 
 __What Is Particularly Good?__
 
@@ -97,6 +104,8 @@ __What Is Particularly Good?__
 ### Example 3
 
 ![Figure 3. Change in light absorbance with time of a catalase enzyme solution. Darkening of a solution of 0.1 units/mL of catalase in PBS in artificial sunlight was measured by absorption at 634 nm. Time indicates how long (in seconds) the same was exposed to a panel of high-intensity broad-spectrum lights (details are in the Methods.) Each point represents an independent sample. Overall, the catalase solution darkened very quickly when exposed bright broad spectrum light approximating full sunlight.](images/Scatter_data1.png){width=80%}
+
+<br>
 
 __What Is Particularly Good?__
 

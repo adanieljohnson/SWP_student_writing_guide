@@ -99,7 +99,7 @@ Sometimes basic writing is the biggest weakness of a lab report. Here is an exam
 
 It is hard to address so many errors using just reflective coaching and references to other resources. Adding to the challenge, the entire report likely needs detailed corrections, not just these two paragraphs. We do not expect GTAs to spend time copy editing entire reports. Instead, we recommend they use one of these two strategies for responding to writing mechanics problems. 
 
-__Option 1:__ highlight one poorly written paragraph, and attach a new comment. List the specific errors that you see. Be sure to tell the student that you saw similar errors in other paragraphs, and that they are responsible for finding and correcting them. For example, the feedback comment for the flawed paragraph above might read:
+__Option 1:__ highlight the one poorly written paragraph, and attach a new comment. List the specific errors that you see. Be sure to tell the student that you saw similar errors in other paragraphs, and that they are responsible for finding and correcting them. For example, the feedback comment for the flawed paragraph above might read:
 
 > You have a lot of basic writing flaws in your report that you need to correct or revise. For example, I found all of these basic errors in just these two paragraphs:
 * Unclear flow of the logic in both paragraphs
@@ -112,6 +112,8 @@ __Option 1:__ highlight one poorly written paragraph, and attach a new comment. 
 
 > You need to revise this report very carefully. I recommend that you contact the Writing Center in the library first. They can help you with basic writing issues. After meeting with their tutors, make an appointment with me to work on how you could better organize your logic and key points. 
 
+<br/>
+
 __Option 2:__ use minimal marking. Edit one paragraph thoroughly for grammatical errors. Then attach a comment in the margin telling the student they are responsible for fixing similar errors beyond this paragraph. [You can learn more about minimal marking here.](www.csuchico.edu/ge/faculty/writing_intensive_u/responding_to_writing/responding_to_surface_errors.shtml)
 
 
@@ -120,4 +122,4 @@ __Option 2:__ use minimal marking. Edit one paragraph thoroughly for grammatical
 * Provide some positive encouragement or praise when warranted, but do not over-state it, or give undeserved praise. 
 * If one particular item was done well, refer the student to it as an example of how to correct other parts of the report. 
 * Avoid “but.” Think about this comment: “I like how you wrote your Intro, but the Methods need…”. The “but” negates what the student did well. Try wording that invites continued effort: “I like how you organized your Introduction. For the revision, try using the same organizational strategy for your Methods section, which needs…”. 
-* Do not interject writing conventions and idioms of your sub-field. For example, our students are not required to use different formats for in-text citations, depending on the number of authors on the source article. These details become important later as students specialize; at the introductory level we want to focus on foundational issues. 
+* Do not interject writing conventions and idioms of your disciplinary sub-field. For example, our students are not required to use different formats for in-text citations, depending on the number of authors on the source article. These details become important later as students specialize; at the introductory level we want them to focus on fundamental writing issues. 

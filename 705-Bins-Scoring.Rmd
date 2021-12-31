@@ -127,4 +127,28 @@ Be sure your students understand that we do not assign numeric grades based on p
 * Submitted but Unacceptable. Translates to a high “F”/55%.
 * No report submitted, or plagiarized. Translates to a zero.
 
+<br/>
+<hr/>
 
+## Instructors' Supplement
+### Adapting Your Guide
+
+The basic criteria we use reflect the five fundamental errors that we saw our students make the most often. We recommend adjusting these criteria by sampling previously graded local reports. 
+
+1. Select ~50 reports that earned a score of <70% (D range), and another 50 that earned a score of 70-80% (C range). Do not use reports that earned an A or B yet; the goal is to establish the benchmark criteria distinguishing C level and D level work. 
+
+2. Compare 2 reports, one from the D range, one from C range. What is missing from the D range report that is present in the C range report? Look for traits that can be scored as binaries (yes/no, present/absent.)
+
+3. Record the key differences for this first pair. 
+
+4. Repeat the process for 40 pairs. Hold back the last 20 reports (10 each with grade C or D) for testing the final criteria.
+
+5. After completing the 40 initial comparisons, group similar features into 5-7 discrete binary criteria that can differentiate reports earning a C from a D. 
+
+6. To evaluate the inter-rater reliability of the selected C vs. D grading criteria, have two independent readers use them to score the remaining 20 reports. The independent readers should assign the same score of C or D on 80% (16/20) reports or more. 
+
+7. If the two readers assign scores that are different __from each other__ for more than 20% of reports, review the criteria with them to determine whether the explanation of one or more criteria needs to be refined, or if the criteria are not sufficient to discriminate between a C and D level report. 
+
+<br/>
+
+The local criteria for technical, writing, and logical flaws are identified the same way, by comparing past reports that earned an A vs. B vs. C. 

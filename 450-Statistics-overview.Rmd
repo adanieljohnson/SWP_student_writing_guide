@@ -54,3 +54,14 @@ Motulsky H. 2013. _Intuitive Biostatistics: A Non-Mathematical Guide to Statisti
 
 Nuzzo R. 2014. Statistical errors: P values, the ‘gold standard’ of statistical validity, are not as reliable as many scientists assume. _Nature_, 506:150-152.
 
+<br/>
+<hr/>
+
+## Instructors' Supplement
+
+### Adapting Your Guide
+
+Our introduction to biostatistics describes the statistical tests that our students use most often. If there are other statistical tests that are more appropriate for the types of analyses your students do, add new descriptions for them to the tables on this page, add new pages outlining each test, and remove any current ones that are not needed.
+
+Alternatively, if your students have a separate statistics resource guide, the pages on biostatistics in this guide should be deleted entirely.
+

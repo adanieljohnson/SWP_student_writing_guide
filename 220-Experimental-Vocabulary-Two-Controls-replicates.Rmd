@@ -65,3 +65,11 @@ The table below shows the summarized data. It is much easier to make a compariso
 
 Which type of data are easier to compare, the raw measurements or the summary data in the table?
 
+<br/>
+<hr/>
+
+## Instructors' Supplement
+### Adapting Your Guide
+
+These are the terms that our students misuse most often when writing. Revise this page to emphasize terms that your local audience uses incorrectly most often.
+

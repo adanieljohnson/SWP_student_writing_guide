@@ -302,3 +302,8 @@ claims-evidence-reasoning-2
 sample-reports-2
 appc833
 appc835
+instructors-supplement-1
+rationale
+instructional-notes
+adapting-your-guide
+watch-out
