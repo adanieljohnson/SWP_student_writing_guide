@@ -1,4 +1,4 @@
-# The Vocabulary of Experiments - Controls & Replicates {#replicates220}
+# Controls & Replicates {#replicates220}
 
 ## Terms That Describe Groups Within an Experiment
 

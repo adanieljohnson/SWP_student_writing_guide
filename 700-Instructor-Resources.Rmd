@@ -8,4 +8,4 @@ Part 7 of the Resource Guide is intended for Instructors. It can be removed from
 * Strategies for training GTAs to teach scientific writing.
 * An annotated Bibliography for those interested in going deeper.
 
-Appendices A-C are practice cases that instructors can use for training activities or for teaching students to write lab reports when they do not have access to labs. 
+Appendices A-C are practice cases that instructors can use for training activities or for teaching students to write lab reports when they do not have access to wet labs. 

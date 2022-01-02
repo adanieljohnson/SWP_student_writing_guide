@@ -4,7 +4,7 @@
 
 Council of Science Editors (Ed.). (2014). _Scientific style and format: The CSE manual for authors, editors, and publishers_ (Eighth edition). Council of Science Editors; The University of Chicago Press.
 
-> THE definitive guide to scientific writing formats. While most journals follow the CSE standards, it is not a particularly useful resource for students.
+> THE definitive guide to scientific writing formats. Most journals follow the CSE standards, but the full style guide is not a particularly useful resource for students.
 
 <br>
 

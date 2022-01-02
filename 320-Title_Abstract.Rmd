@@ -31,7 +31,7 @@ You can see professionally written, published [examples of some abstracts here](
 #### Example 1
 
 > __Title:__ Reduced contractions of Raina pipiens’ sciatic nerve when treated with lidocaine
-
+>
 > __Abstract:__ The main objective of this study was to examine how the introduction of Lidocaine in the leg of a Raina pipien frog would effect the neuromuscular response. The hypothesis that we tested was if Lidocaine is used to block Na+ channels, then the voltage of the maximum contraction will decrease. We determined the twitch threshold for 3 different frog legs and then tested the frog leg at 0.1 V more than the threshold. The individual frog legs were stimulated 3 times without Lidocaine and 3 times with Lidocaine, and the separate trials for the control and treatment groups were averaged out. Our results showed that the introduction of Lidocaine does produce a smaller response when the voltage was applied as the control group had a greater response than the treatment group by an average of about .306, but we could not support our hypothesis because our p-value was not significant. The results from our two-tailed t-test gave us a p-value of .089957. We did not reject the null hypothesis because while our data shows that there is a difference when Lidocaine is injected into the frog leg, our p-value was greater than .05. Based on our results, we were not able to determine that the addition of Lidocaine into the leg of a frog does reduce the neuromuscular response when a voltage is applied.
 
 __What Could Be Improved?__
@@ -61,7 +61,7 @@ To see how this might be revised, take a look at the first example in the next s
 #### Example 2
 
 > __Title:__ The Physiological Impacts of Insect Growth Hormones
-
+>
 > __Abstract:__ Research in the insect growth continuous to bring notice in discussion regarding insect protection considering their value in the ecosystem. With intense curiosity to find better ways to alter the physiology of insects, without the need of pesticides, lab continues to occur to decrease their harmful ability. Here, this lab experiments the effects of insect growth hormones on how they might affect the Manduca sexta. The expectation or hypothesis of the lab is that if the Manduca sexta is treated with the IGR levels in its diet, it will not grow normally as the control group. While the observations showed some differences, our data calculation showed that there was no difference or impact by the hormones; hence the differences might have been by chance. The Control and Treatment grew relatively at the same rate until the control caterpillar started their metamorphosis while the treatment continued to grow as larvae. With more experiments, more knowledge can be discovered.
 
 __What Could Be Improved?__
@@ -97,7 +97,7 @@ This is entirely unnecessary.
 #### Example 3
 
 > __Title:__ Effects of Soil Temperature on the Phenotypic plasticity and Energy Allocation of Beans
-
+>
 > __Abstract:__ Phenotypic plasticity, coupled with energy allocation, is a key mechanism for plants to cope with environmental stress. With a given amount of resources, plants tend to allocate the acquired resources toward body parts, which can obtain further bioavailable resources, and reduce the growth and biomass of parts that are more energy-consuming/ inefficient. This report implemented an allometric approach to study how the soil temperature influences the phenotypic changes of Vigna radiata (mung beans). Results show no statistically significant difference (two-sample t-test p-value < 0.05) in all, except weights of whole plant, body size comparisons. Therefore, our hypothesis (higher soil temperature leads to higher root-to-shoot weight/length ratio) was not supported. The effects of phenotypic plasticity and allocation strategies of _V. radiata_ are discussed with further suggestions on ways to improve the experimental design to be closer to real-life conditions.
 
 __What Could Be Improved?__
@@ -131,7 +131,7 @@ This sounds excessive. Is it really needed?
 #### Example 1
 
 > __Title:__ Reduced contractions of _Rana pipiens_’ gastrocnemius muscle when treated with lidocaine
-
+>
 > __Abstract:__ The objective of this study was to see how introducing the Na+ channel blocker Lidocaine into the leg of a grass frog _(Rana pipiens)_ would effect the neuromuscular response. The hypothesis that we tested was if Lidocaine blocks Na+ channels, then the force generated at maximum contraction (as measured by voltage from a force transducer) will decrease. We determined the twitch threshold for 3 different frog legs and then tested the frog leg at a stimulation voltage of 0.1 V more than the threshold. Individual frog legs were stimulated 3 times without Lidocaine and 3 times with Lidocaine, and the separate trials for the control and treatment groups were averaged. Graphed summary results showed the introduction of Lidocaine did produce a smaller response when the voltage was applied, supporting our hypothesis. However the results from our one-tailed t-test gave us a p-value of 0.089957, so we could not reject the null hypothesis. Based on our results, we were not able to say that the addition of Lidocaine into the leg of a frog reduces the maximum contraction when a stimulus voltage is applied.
 
 __What Is Particularly Good?__ 
@@ -147,7 +147,7 @@ This is the revised title and abstract submitted by the same student as in Examp
 #### Example 2
 
 > __Title:__ Lower Water Temperature Reduces the Frequency of Agonistic Display Behaviors in Betta Fish, _Betta splendens_
-
+>
 > __Abstract:__ In order to understand behaviors in animals, specifically behaviors that require a high energy expenditure, it is important to understand their metabolism and the factors that affect it. Heterothermic metabolism is directly dependent on temperature, meaning that as temperature decreases, metabolism also decreases. In order to study the effects of decreased metabolism, we studied aggressive behavior, a high energy behavior, in _Betta splendens_. It was hypothesized that if the betta fish had a reduced metabolism in colder water, they would display aggressive behaviors less frequently. As predicted, the betta fish displayed significantly less aggressive behavior, measured by time spent displaying a red mane, when they were in cold water than when they were in room temperature water. Future studies should examine various fish species that live in various temperatures to see if the fish have adapted their metabolism for different environments. 
 
 __What Is Particularly Good?__ 
@@ -165,7 +165,7 @@ This abstract does have one thin spot. The author could have given a one sentenc
 #### Example 3
 
 > __Title:__ Determining the Optimal Growing Temperature Range for Spinach _(Spinacia oleracea)_ Based on Redox Activity in Photosystem II
-
+>
 > __Abstract:__ The purpose of this experiment was to determine whether the optimal temperature range at which spinach _(Spinacia oleracea)_ grows is similar to the temperature at which spinach chloroplasts perform photosynthesis best. In order to determine this optimal temperature range, PSII activity was measured using the Hill reaction and DCIP as the alternative electron acceptor. Isolated chloroplasts in Hill assay buffer were incubated at 5 temperatures for 10 minutes: 0°C, 12°C, 25°C, 35°C, and 60°C.Then DCIP was added and absorbances were measured at time zero, then after 10, 20, and 30 minutes of incubation. Average rates of change in absorbance between 0 and 10 minutes, 10 and 20 minutes, and 20 and 30 minutes were compared using an ANOVA statistical test. Individual groups were compared using Tukey's post-hoc test. From the statistical analysis, the optimal temperature range for PSII activity was determined to be between 12°C and 35°C. This is a wider range than the published optimum growth temperature range for spinach plants of 10°to 15°C. Proposed reasons for decreased activity at low (0°C) and high (60°C) temperatures include alterations in the chloroplast membrane, electron carrier and acceptors, or essential proteins associated with PSII. 
 
 __What Is Particularly Good?__ 

@@ -1,4 +1,4 @@
-# Biostatistics 5: Statistical Models {#models480}
+# Statistical Models {#models480}
 
 Statistical models are extremely powerful tools for exploring relationships between variables in datasets. Many of the advanced predictive algorithms used by Google, Amazon, Netflix, and other companies to make personalized recommendations for you are statistical models. They use what others have watched, purchased, or searched for in the past to predict what you want or would like. 
 
@@ -51,7 +51,7 @@ __Table 1.__ Weight of apples versus branch diameter and height above ground.
 Correlations assume that the relationship between the X and Y variables fits a straight line. The null and alternate hypotheses are:
 
 > H0: ΔX ∝̸ ΔY, where ΔX = change in X, ΔY = change in Y, and ∝ = "proportional to."
-
+>
 > HA: ΔX ∝ ΔY
 
 
@@ -113,7 +113,7 @@ __Table 2.__ Weight of apples versus height above ground.
 ### What Do the Statistical Hypotheses Look Like For Linear Regression?
 
 > H<sub>0</sub>: The slope of the best-fit line is equal to zero. (The strength of the association between the two variables is so small that we cannot predict values of X from Y, nor Y from X.)
-
+>
 > H<sub>A</sub>: The slope of the best-fit line is not equal to zero. (There is a non-zero association between the X and Y variables.)
 
 
