@@ -17,7 +17,7 @@ __Table 1.__ Descriptive and Summary Statistics
 |---|---|---|
 |Arithmetic Mean|2019 mean household income in the US was $116,735.|Estimates the middle of the range of values mathematically.|
 |Median|2019 median household income in the US was $68,703|Estimates the middle of a range of values using observed measures. Measurements are sorted in rank order; the middle measurement is the estimated middle of the distribution.| 
-|Standard Deviation|example|Estimated spread in the measurements|
+|Standard Deviation|Normal adult blood hemoglobin averages 42.1 ± 3.28% |Estimated spread in the measurements|
 
 <br>
 
@@ -63,5 +63,5 @@ Nuzzo R. 2014. Statistical errors: P values, the ‘gold standard’ of statisti
 
 Our introduction to biostatistics describes the statistical tests that our students use most often. If there are other statistical tests that are more appropriate for the types of analyses your students do, add new descriptions for them to the tables on this page, add new pages outlining each test, and remove any current ones that are not needed.
 
-Alternatively, if your students have a separate statistics resource guide, the pages on biostatistics in this guide should be deleted entirely.
+Alternatively, if your students have a separate statistics resource guide, the pages on biostatistics can be deleted entirely. Be sure to refer your students to the local resource.
 

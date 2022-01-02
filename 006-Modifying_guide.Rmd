@@ -1,4 +1,4 @@
-# DRAFT How to Modify the Resource Guide {-}
+# Coming Soon: How to Modify the Resource Guide {-}
 
 Other instructors should modify this Resource Guide to fit their local needs, and address the problems they see most often with their own students. We have some general recommendations for how to go about doing that. 
 
@@ -57,6 +57,7 @@ In Chapter 6 we explain how to install Git.
 
 ## For More Information {-}
 
-[Handouts from our first workshop on how to modify the Guide](https://github.com/adanieljohnson/ABLE_2022_Workshop)
-[Presentation of the complete writing instructional model]()
+Coming 6/1/22: [Handouts on how to modify the Guide from our first public workshop](https://github.com/adanieljohnson/ABLE_2022_Workshop)
+
+Coming 6/15/22: [Publication of the complete writing instructional model](https://ableweb.org)
 

@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>DRAFT C1: Poorly Written Cell Biology Report | Biology Student Writing Guide</title>
+  <title>Coming Soon: How to Modify the Resource Guide | Biology Student Writing Guide</title>
   <meta name="description" content="This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs." />
   <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="DRAFT C1: Poorly Written Cell Biology Report | Biology Student Writing Guide" />
+  <meta property="og:title" content="Coming Soon: How to Modify the Resource Guide | Biology Student Writing Guide" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://github.com/adanieljohnson/SWP_student_writing_guide/" />
   <meta property="og:image" content="https://github.com/adanieljohnson/SWP_student_writing_guide//images/SWP_logo.png" />
@@ -16,7 +16,7 @@
   <meta name="github-repo" content="adanieljohnson/SWP_writing_guide" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="DRAFT C1: Poorly Written Cell Biology Report | Biology Student Writing Guide" />
+  <meta name="twitter:title" content="Coming Soon: How to Modify the Resource Guide | Biology Student Writing Guide" />
   
   <meta name="twitter:description" content="This is an open-access web book for biology students starting out in scientific writing. We developed and released it on a open platform so teachers can modify it to meet their particular needs." />
   <meta name="twitter:image" content="https://github.com/adanieljohnson/SWP_student_writing_guide//images/SWP_logo.png" />
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="&lt;“images/favicon.ico”&gt;" type="image/x-icon" />
-<link rel="prev" href="draft-appendix-c-cell-biology.html"/>
-<link rel="next" href="draft-c2-well-written-cell-biology-report.html"/>
+<link rel="prev" href="for-instructors.html"/>
+<link rel="next" href="contributors.html"/>
 <script src="libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -639,10 +639,42 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="draft-c1-poorly-written-cell-biology-report" class="section level1 unnumbered">
-<h1>DRAFT C1: Poorly Written Cell Biology Report</h1>
-<div id="appc833" class="section level2" number="42.35">
-<h2><span class="header-section-number">42.35</span> A Poorly Written Report</h2>
+<div id="coming-soon-how-to-modify-the-resource-guide" class="section level1 unnumbered">
+<h1>Coming Soon: How to Modify the Resource Guide</h1>
+<p>Other instructors should modify this Resource Guide to fit their local needs, and address the problems they see most often with their own students. We have some general recommendations for how to go about doing that.</p>
+<div id="adapting-the-guide-to-your-students-needs" class="section level2 unnumbered">
+<h2>Adapting the Guide to Your Students’ Needs</h2>
+<ol style="list-style-type: decimal">
+<li><p>Focus on the <strong>largest, most serious writing skills gaps your students have first.</strong> Look at the writing products of your students systematically, and try to quantify how many students make particular mistakes (not just which mistakes you or your instructional team find the most irritating.) Rank the mistakes so you are confident that you have identified the 5-10 most serious shortcomings in their scientific writing. These are your priority goals that you should focus on first, and what you should keep in mind as you revise this Guide.</p></li>
+<li><p>Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, move the overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.</p></li>
+<li><p>The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book.</p></li>
+<li><p><strong>Part 3</strong> is the main deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.</p></li>
+</ol>
+</div>
+<div id="editing-the-guide-itself" class="section level2 unnumbered">
+<h2>Editing the Guide Itself</h2>
+<p>Each chapter is a plain text file with an .Rmd file. This is the standard format for R Markdown files. If you change the extension of the file name from .Rmd to .md, the file will switch to a plain Markdown file, and vice versa. Both file types are plain text files. The extensions simply indicate which programs to use to open and edit the files. In practice, you can write new chapters entirely as plain text files using any text editor. When you are ready to use them, simply change the extension on the filename.</p>
+<p>Each .Rmd file begins with a 3-digit number, which defines the order of the files when compiled into a book. To change the order of the chapters, just change the order of the numbering. There are other ways to tell R Studio how to arrange pages, but this way is obvious and fairly painless.</p>
+<p>A good practice when renumbering pages is to number sequential by 10s (10, 20, 30, etc.) This leaves room to add new pages without renumbering all existing ones.</p>
+<p>Chapter files begin with the chapter title as a level-one header, e.g., <code># Chapter Title</code>. Each chapter is divided into sections using lower-level headers, e.g., <code>## A Section Within a Chapter</code>.</p>
+<div id="creating-cross-links-between-pages" class="section level3 unnumbered">
+<h3>Creating Cross-Links Between Pages</h3>
+<p>When an .Rmd file is converted to HTML for a book the chapter and section headings are formatted and sequentially numbered automatically. Chapter and section headers include a cross-reference tag; the auto-generated tags can be replaced by adding an explicit {#label} after the chapter. For example, the H1 chapter header for the document describing scientific writing in general has this header line:</p>
+<pre><code># What Do We Mean By Scientific Writing? {#goals100}</code></pre>
+<p>Adding an explicit {#label} to the end of all chapter headers is a good practice if you know you’re going to cross-reference a topic repeatedly. We have already attached explicit {#labels} to the top level header of most pages (only pages in the Preface were excluded.)</p>
+<p>In-book crosslinks are formatted this way:</p>
+<pre><code>[link text](#goals100)</code></pre>
+<p>The first part in square brackets is the linked text that will be displayed. The hashed text in parentheses is the label from the page or section that is the target.</p>
+<p>To refer to the NUMBER of a particular chapter or section, use <code>\@ref(label)</code>. For example:</p>
+<pre><code>In chapter \@ref(install-git) we explain how to install Git.</code></pre>
+<p>renders this way:</p>
+<pre><code>In Chapter 6 we explain how to install Git.</code></pre>
+</div>
+</div>
+<div id="for-more-information" class="section level2 unnumbered">
+<h2>For More Information</h2>
+<p>Coming 6/1/22: <a href="https://github.com/adanieljohnson/ABLE_2022_Workshop">Handouts on how to modify the Guide from our first public workshop</a></p>
+<p>Coming 6/15/22: <a href="https://ableweb.org">Publication of the complete writing instructional model</a></p>
 
 </div>
 </div>
@@ -651,8 +683,8 @@
           </div>
         </div>
       </div>
-<a href="draft-appendix-c-cell-biology.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="draft-c2-well-written-cell-biology-report.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="for-instructors.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="contributors.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -684,7 +716,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/833-AppC-Cell-Biology_report_poor.Rmd",
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/006-Modifying_guide.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -695,7 +727,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["https://github.com/rstudio/bookdown-demo/raw/master/833-AppC-Cell-Biology_report_poor.Rmd"],
+"download": ["https://github.com/rstudio/bookdown-demo/raw/master/006-Modifying_guide.Rmd"],
 "toc": {
 "collapse": "section"
 }
