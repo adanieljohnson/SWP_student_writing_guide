@@ -2,9 +2,6 @@
 
 The documents in this repository are available for non-commercial uses under the terms of a __Creative Commons BY-NC-SA 4.0__ license. 
 
+This Guide was created by the __STEM Writing Project__ at Wake Forest University. We are STEM teachers and education researchers who want to make scientific writing a bigger part of students' training. The STEM Writing Project is funded in part by NSF IUSE Program Award #1712423: "Improving Scientific Writing In Undergraduate STEM Classrooms: A Training Program for Students and Teaching Assistants Aided By Information Extraction Technology".
 
-[![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
-
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
-
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
+All contents are the opinion of the project team, and are not endorsed by NSF or other supporting agency.
