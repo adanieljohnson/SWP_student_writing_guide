@@ -75,9 +75,9 @@ This is the complete discussion section, not an excerpt.
 What could be improved in this example?
 
 > Our hypothesis, that a calcium channel activator would cause increased muscle response in the Rana pipien frogs’ legs was not supported by our data. Our results, in fact, showed a trend in which there was a decrease in muscle response of the frog legs after the legs were treated with the A23187 calcium channel activator. 
-
+>
 > It is likely that we did not give the A23187 enough time to be evenly transported around the muscle because we only waited a minute after injection before re-stimulation of the nerve. If that was the case, the activators would not have had time to take effect, causing there to be very little difference between the controlled muscle responses and the A23187 treated muscle responses. It is also possible that not enough of the A23187 calcium channel activator was added to the gastrocnemius muscle, preventing the effect of the treatment from being observed. Additionally, only injecting into the gastrocnemius muscle may have prevented the activator from being transported efficiently to every part of the frog leg. 
-
+>
 > Upon researching Ca<sup>2+</sup> in _Rana pipiens_ independently, it became very clear that the effects of Ca<sup>2+</sup> on the animals can actually be seen more clearly in the skin of the frogs because Ca<sup>2+</sup> in frog skin is concentrated and easily extracted. Thus, in future it would be fruitful to try the experiment without deskinning the frog legs and observing how the movement of Ca<sup>2+</sup> would move in the epithelium of the legs and see how that would change the responsivity (Stiffler, 1994).
 
 1. They only discuss their own results in the first two sentences, then start listing every reason why their results may be incorrect.
@@ -90,11 +90,11 @@ What could be improved in this example?
 What problems do you see here? What has been done well?
 
 > The results of this experiment reject the hypothesis that purple lettuce chloroplast samples would demonstrate a lesser change in absorbance over time than green leaves. The insignificant difference between the percent of initial absorbance after 30 minutes for purple and green samples with a high p value indicates that the presence of anthocyanins did not have a significant effect on the activity of photosystem II during photosynthesis. 
-
+>
 > The relatively consistent absorbance readings after each 10-minute interval for both samples show that DCIP was reduced by photosystem II at a similar rate in both green and purple lettuce chloroplasts. The results lead to the conclusion that anthocyanins may not play as significant of a role in photosynthesis as was predicted and indicated by previous studies. 
-
+>
 > However, it is essential to consider other possible interpretations of the data. It was observed that, following centrifugation, B-pellet samples for green and purple lettuce chloroplasts were nearly indistinguishable shades of green. It is possible that the process of centrifugation caused the anthocyanins to separate from the chloroplasts, preventing the anthocyanins from providing a protective mechanism against sunlight, and reducing photosynthetic rate. The results of the experiment would thus be invalid because the independent variable of purple pigmentation would no longer exist. In order to effectively analyze the difference in photosynthetic activity between purple and green lettuce, the experiment must be modified so that the anthocyanins are present in the purple lettuce chloroplast sample throughout analysis. Or, rather than isolating the chloroplasts, O<sub>2</sub> production of purple lettuce plants could be compared to that of green lettuce leaves as a way to analyze photosynthetic activity. Further experimentation with anthocyanins in different fruits and vegetables, as well as other plants, can provide scientists with a better understanding of how anthocyanins evolved and what additional purposes they serve in plant cells. 
-
+>
 > One study conducted on Arabidopsis found that anthocyanins were produced in response to reactive oxygen species (ROS) that cause oxidative stress in the cells, demonstrating that anthocyanins may have purposes in the cell beyond shielding from radiation [Xu: 2018]. By observing the conditions under which anthocyanins are produced in cells, scientists can make conclusions about the functions of anthocyanin pigmentation.
 
 1. The first paragraph does not make sense.
@@ -109,9 +109,9 @@ Paragraph 3 makes a very good point; they might have removed the anthocyanins ac
 ### Example 1
 
 > Our results supported our hypothesis that the root: shoot ratio will be larger in the plants given salt water for both weight and length than the plants given tap water because our results were statistically significant. The p-values we obtained showed that there was a significant difference in the root: shoot ratios between salt water plants and tap water plants. Other studies have shown that salt causes plants to grow slow and become stunted (Bernstein, 1975).  Our results compare similarly to these studies, for we did not see much growth in our experimental plants given salt water. Because plants absorb water and nutrients through the roots, we expected the dehydrated plants to grow longer roots in search of water and nutrients by allocation their resources. Since the control plants were given tap water, they were able to grow tall and evenly making the root: shoot ratio fairly small. This is supported by the small averages of the root: shoot ratio for the weight and length of the tap water plants (Figure 1). 
-
+>
 > Water is crucial for the survival of plants, so allocating resources towards finding water is essential for growth. Some plants are capable of surviving in salt-affected soils however because they have a tolerance to the salinity. Plants like, tolerant grasses and legumes, “tend to improve soil structure in partially reclaimed soils through the beneficial action of roots, or through their incorporation into the soil as green manures” (Bernstein, 1975). However, some research suggests rye to be in the salt-tolerant category of plants (Francois, 1989). This could explain why we were able to see growth in our plants over the two-week period instead of dead plants. The tolerance that rye plants have allowed us to have enough data to obtain results, but not so tolerant as to hinder the experiment.  Additionally, other research suggests that a small concentration of salt can actually improve certain plant growth, with only a few exceptions (Magistad, 1943). 
-
+>
 > The next step in this study could be to test what types of plants have more or less of a tolerance to salt in the soil because that tolerance could affect growth and therefore manipulate the root: shoot ratio for the length and weight. This experiment supports that salinity hinders plant growth, but a future study could also test whether a specific, smaller concentration of salt water would actually improve growth like some studies have found in the past. 
 
 __What Is Particularly Good?__ 
@@ -127,7 +127,7 @@ __What Is Particularly Good?__
 ### Example 2
 
 > Our original hypothesis was supported in that the group that received an injection of caffeine had a significantly higher amplitude of contraction than the control group. In a similar study on human males, researchers found that consuming caffeine increased excitability in skeletal muscles of humans (Onslow, 2011). Although injecting caffeine would have a more immediate effect on the muscles, regularly consuming it likely has similar effects. Additionally, caffeine allows muscles to maximally contract and maintain contraction, indicating that it may be responsible for maintaining the binding of Ca<sup>2+</sup> in the muscle and not allowing it to relax after fatigue (Kalmar, 1999). This would explain the rigidity of the muscle we saw following the removal of the stimulus. The muscle remained in a state of tetany, or constant contraction, for a longer period of time because the caffeine inhibited the return of Ca<sup>2+</sup> to its storage site. 
-
+>
 > The p-value of 0.011 indicates there was a significant difference in contraction force between the control muscles and those injected with caffeine. The sample size was small (n=3), so one way to increase the validity of this experiment in the future could be to introduce more types of skeletal muscles from other species which have similar neuromuscular functions to humans. For example, a similar experiment described the effects of caffeine on the soleus of rats and found similar results, that the caffeine prolonged and intensified the contraction of the muscles (Fryer, 1989). If both rat and frog muscles were used in the experiment and their data combined, it would be interesting to see whether the control and treatment groups remain statistically significantly different among different species.
 
 __What Is Particularly Good?__

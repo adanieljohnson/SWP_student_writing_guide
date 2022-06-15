@@ -1,4 +1,4 @@
-# Biostatistics 3: Comparing Three or More Groups - ANOVA {#compstatstwo473}
+# Comparing Three or More Groups Using ANOVA {#compstatstwo473}
 
 Analysis of variance (ANOVA) is an extension of t-tests. It tests whether the means of measurements from three or more treatment groups are equal. It works by comparing whether individuals chosen from different groups are, on average, more different than individuals chosen from the same group. 
 
@@ -27,25 +27,25 @@ The null hypothesis is that the population means are the same for all groups. We
 The alternative hypothesis is that least one mean is different from the others.
 
 > H<sub>A</sub>: x̅<sub>MV</sub> ≠ x̅<sub>FV</sub>
-
+>
 > or 
-
+>
 > x̅<sub>MV</sub> ≠ x̅<sub>MO</sub>
-
+>
 > or  
-
+>
 > x̅<sub>MV</sub> ≠ x̅<sub>FO</sub>  
-
+>
 > or 
-
+>
 > x̅<sub>FV</sub> ≠ x̅<sub>MO</sub>
-
+>
 > or 
-
+>
 > x̅<sub>FV</sub> ≠ x̅<sub>FO</sub>
-
+>
 > or 
-
+>
 > x̅<sub>MO</sub> ≠ x̅<sub>FO</sub>
 
 

@@ -55,7 +55,9 @@ Now suppose your second friend instead had said,
 
 They are making a claim that goes against what we have observed in the past. They need to provide a lot more compelling evidence. Their reasoning is flawed too, because they did not rule out other possible sources (like a bear). 
 
-> We often make claims or come to conclusions that ignore the possibility of a simpler, more likely explanation. Avoiding this is the goal behind the scientific axiom, Occam's Razor: "Never propose a complex explanation when a simple one is sufficient." In medical circles, there is a similar axiom about diagnosing patients: "When you see hoofprints, rule out horses before you propose zebras."
+> We often make claims or come to conclusions that ignore the possibility of a simpler, more likely explanation. Avoiding this is the goal behind the scientific axiom, Occam's Razor: "Never propose a complex explanation when a simple one is sufficient." 
+>
+> In medical circles, there is a similar axiom about diagnosing patients: "When you see hoofprints, rule out horses before you propose zebras."
 
 <br>
 

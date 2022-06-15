@@ -25,7 +25,6 @@ wheres-the-hypothesis-in-a-research-article
 expdesign210
 practice-cases
 variables215
-vocabulary-is-a-hurdle-for-new-scientific-writers
 types-of-variables
 independent-versus-dependent-variables
 measurement-categorical-and-ranked-variables
@@ -251,8 +250,8 @@ using-an-irrelevant-source
 zotero520
 toolbox600
 strategies610
-writing-to-an-outline
-writing-from-the-middle
+option-1-writing-to-an-outline
+option-2-writing-from-the-middle
 toulmin615
 the-upside-of-arguments
 putting-the-claim-evidence-reasoning-method-to-work

@@ -1,4 +1,4 @@
-# Summarizing Data: Figure Legends {#chartstwo426}
+# Figure Legends {#chartstwo426}
 
 ## Writing Figure Legends
 

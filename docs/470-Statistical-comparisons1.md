@@ -1,4 +1,4 @@
-# Biostatistics 2: Comparing Groups - T-Tests {#compstatsone470}
+# Comparing Two Groups Using T-Tests {#compstatsone470}
 
 T-tests are a family of statistical tests that compare two groups of data points to determine whether the means of the measurement variable are the same. All of the tests in the t-test family use the t-distribution to estimate probabilities. The main differences between the various t-tests is what and how the groups are compared.  
 
@@ -77,9 +77,9 @@ There are two different ways you can describe the __alternative hypothesis (H<su
 If you have some prior information or other observations, you can make a prediction that the two groups will be different from one another in a particular direction. In other words, you can predict in advance which group will have a mean that is significantly greater or less than that of the other group. Depending on the direction you choose, your alternate hypothesis would be:
 
 > H<sub>A</sub>:  x̅ Group 1 > x̅ Group 2
-
+>
 > or
-
+>
 > H<sub>A</sub>:  x̅ Group 1 < x̅ Group 2
 
 Say you noticed that a lot of taller students live on west campus. So we can choose a hypothesis that includes a specific direction, and predict that the mean height of students living on east (Group 1) campus is less than the mean height of students on west (Group 2) campus. In other words, your alternate hypothesis is H<sub>A</sub>:  x̅ Group 1 < x̅ Group 2. 

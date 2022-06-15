@@ -42,7 +42,7 @@ General access web pages are not acceptable sources because the content is not p
 
 Teachers have differing policies on how long quotes can be before they are considered plagiarism, and disagree on how to format and properly cite them. This led to a lot of confusion for our students, and report grades suffered. After struggling with this for many years, we found a simple solution to the problem. We have a blanket requirement: 
 
-> "Everyone has to paraphrase their sources. No quotes longer than 3 words are allowed in lab reports. Period." 
+__"Everyone has to paraphrase their sources. No quotes longer than 3 words are allowed in lab reports. Period."__
 
 This might seem harsh, but think about it: if you can never quote a source, you spend less time worrying about whether or not you formatted the quote right, or whether it is below the word limit to be called plagiarism. You spend your time and mental energy practicing paraphrasing sources instead. We found this stricter rule meant FEWER students made mistakes in how they quoted sources; we did not have to count off for it, and our students got higher scores on lab reports.
 
@@ -64,6 +64,3 @@ Make sure you know which citation format you are expected to use, and follow it.
 Make sure that each source you use and cite actually says what you claim it does. We understand students get short on time. When your deadline is looming, it is tempting to find a source that sounds like it supports your argument, and add it without actually reading the source. This is much more likely to hurt than help you. 
 
 For example, some time back one of our students used a citation from 1951 to support a statement about plant population growth in the Discussion section of their report. Their GTA was suspicious, and looked up the 1951 article. It turned out that the article the student cited was about human population growth and focused on agricultural economics, not biology. The student confessed that they had not read the source, and added it simply because the phrase "population growth" was in the description in Google Scholar. The student received a zero on the report for padding their Literature Cited section, which they could have avoided by taking 5 minutes to skim the actual article. 
-
-
-
