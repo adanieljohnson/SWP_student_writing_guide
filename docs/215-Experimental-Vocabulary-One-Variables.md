@@ -1,8 +1,6 @@
-# The Vocabulary of Experiments - Variables {#variables215}
+# Variables {#variables215}
 
-## Vocabulary Is a Hurdle for New Scientific Writers
-
-The words defined here come up regularly when talking about scientific writing, and we often see students use them incorrectly. Your instructor may warn you about other "watch-out" terms that they see misused. You do not have to avoid using these terms, just take extra care to use them __correctly__ when you do. 
+The words defined here come up regularly when talking about scientific writing, and we often see students use them incorrectly. Your instructor may warn you about other "watch-out" terms that they see misused. You definitely should use these terms, just take extra care to use them __correctly__ when you do. 
 
 To make it easier to compare these terms, we have defined all of them together here, then provided shorter definitions as each term comes up elsewhere.
 
@@ -45,3 +43,11 @@ In this particular experiment we are assuming that there is a linear relationshi
 If the plotted points form a (more or less) straight line, then there is a linear relationship between body length and head width. We can safely use the width/length ratio to transform the data. Suppose instead that the plot of the width of isopod heads vs. body length was NOT a straight line, but formed a curve. This would suggest that the relationship is NOT linear and that we cannot use a simple ratio. 
 
  __Normalization__ is a specific type of transformation, where we correct values for pre-existing differences between the samples.  
+
+<br/>
+<hr/>
+
+## Instructors' Supplement
+### Adapting Your Guide
+
+These are the terms that our students misuse most often when writing. Revise this page to emphasize terms that your local audience uses incorrectly most often.

@@ -27,6 +27,7 @@ This results section needs significant revision.
 2. There is no description of the general trends in the data. 
 3. There are no summary statistics, and the results of the t-test are reported incorrectly.
 
+<br>
 
 ### Example 2
 
@@ -39,28 +40,30 @@ This results section has several problems.
 3. What is the meaning of this phrase? "There did not appear to be any differences in the amount of movement at the twitch threshold between each trial..."
 4. Why is this phrase included? "...and all frog legs remained intact throughout the experiment."
 
+<br>
 
 ### Example 3
 
 This results section has a serious flaw, though it might not be obvious at first.
 
 > Throughout the experiment, both groups of caterpillars were observed to grow at about the same rate. Both groups were equally as mobile and both ate about the same amount of food; when food was replaced, it very often was replaced for all six caterpillars at once. The two sample t-test demonstrated a lack of statistical difference between the treatment group and the control group means shown in Figure 1 (t-stat = 0.022, df = 3, P = 0.98). 
-
+>
 > It is important to note that one of the caterpillars in the control group failed to grow more than 0.2 grams during the two weeks. Although it remained alive for about a week and a half, it finally died. Because this caterpillar performed drastically different than the control is expected to, it was considered an outlier and not factored into the data. Had the caterpillar been included, the data would have shown that Precor in fact accelerated _M. sexta_ growth. The failure of this caterpillar to grow would have skewed the results and created the illusion that the average growth of _M. sexta_ larvae without any external stressor or stimulus  was far slower than it was. 
 
 This results section combines results and interpretation; the latter (which is basically all of the second paragraph) belongs in the discussion.
 
+<br>
 
 ### Example 4
 
-The text below is the complete text of the results section for one author's report.
+The text below is the __entire__ text of the results section for one author's report.
 
 > Figure 1: Summary of data of measured absorbances, and the percent increase in these absorbances over time. These numbers are shown as individual data points and as averages for each group.
-
+>
 > Figure 2: Graph displaying the average of percent change in absorbances over time for each group, at 10, 20, and 30 minutes respectively.
-
+>
 > Figure 3: Summary of statistical tests of a Mixed Design ANOVA, determining significant difference between the three groups in temperature groups, in percent change over time and interaction between percent change and temperature. This test demonstrates there is a statistical significance to these differences.
-
+>
 > Figure 4: This figure demonstrates a Tukey’s Honestly Significant Difference Test, which checks for statistical difference between each group specifically. This demonstrates that there was statistical significance in the difference between the heated group and both other groups, but not between the two other groups themselves, those being the room temperature and chilled groups.
 
 This example illustrates two problems that we do not see very often, but often enough to warrant pointing them out. 
@@ -68,12 +71,13 @@ This example illustrates two problems that we do not see very often, but often e
 1. The results section should __refer__ to the figures, but figure legends are not the same as the results. They are a separate part of a report.
 2. Figures 3 and 4 refer to two statistical tests incorrectly. Always be sure to use the correct terminology for the data, statistical tests, etc.
 
+<br>
 
 ## Examples of Well-Written Results Sections
 
 ### Example 1
 
-> Comparisons of root:shoot weight ratios for control and salt water treated plants are summarized in Figure 1. Root:shoot weight ratios for the salt water plants (6.31±0.927, mean±s.d.) were significantly higher than those of the tap water plants (3.18±0.148) (t-stat = 3.89, df = 10, p = 0.00152). Comparisons of root:shoot length ratios are summarized in Figure 2. Salt water treated plants had significantly shorter shoots compared to roots than tap water treated plants (5.13±1.46 vs. 17.8±2.94) (t-stat = 9.44, df = 10, p = 0.00000134). There were no notable outlier data points. 
+> Comparisons of root:shoot weight ratios for control and salt water treated plants are summarized in Figure 1. Root:shoot weight ratios for the salt water plants (6.31±0.927, mean±s.d.) were significantly higher than those of the tap water plants (3.18±0.148) (t-stat = 3.89, df = 10, p = 0.00152). Comparisons of root:shoot length ratios are summarized in Figure 2. Salt water treated plants had significantly shorter shoots compared to roots than tap water treated plants (5.13±1.46 vs. 17.8±2.94) (t-stat = 9.44, df = 10, p = 0.00000134). There were no notable outlier data points.
 
 __What Is Particularly Good?__ 
 
@@ -81,6 +85,7 @@ __What Is Particularly Good?__
 2. Nothing has been included that is not needed. 
 3. They do not interpret their results, just report them. 
 
+<br>
 
 ### Example 2
 

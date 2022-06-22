@@ -18,7 +18,7 @@ Reflective coaching comments have both specific information or guidance/rational
 This is an example of a front-page summary comment for a lab report. 
 
 > This is good work on your first submission. You met all 5 of our basic criteria. The most important area to work on next is your discussion. Really think about resource allocation and herbivory, and your explanation. Ask yourself, is there another possible explanation besides herbivory? Also think about your results and what they’re really saying. Is there a better way to display or summarize the data that makes your main points clearer? Your writing was very clear; good work! There were some other minor technical points that also need correcting that I’ve highlighted. 
-
+>
 > Overall Score: Needs Minor Revisions.
 
 Here is a breakdown the individual elements in the comment.
@@ -94,12 +94,12 @@ Our Resource Guide is very thorough, but students are notoriously reluctant to u
 Sometimes basic writing is the biggest weakness of a lab report. Here is an example; this Introduction is so poorly written that it is hard to understand the student’s thinking:
 
 > Organisms metabolism is fundamental in the ways that it is the sum of the chemical reactions that take place within each cell of a living organism that provide energy for vital processes and for synthesizing new organic material. The amount of energy expended by an animal over a specific period of time is referred to as a rate of heat energy released from an animal’s body (this procedure is known as calorimetry). However, measuring heat from an animal body with accurate precision requiring special equipment, which is often expensive. So, we measure rate that is controlled directly with heat production by oxygen consumption. 
-
+>
 > In an article published in 2000, K.A. Sloman set to exploring environmental factors and specific metabolic rate. The researcher carried out a study where he observed the effects of aggression on metabolism through the use of the brown trout (salmo trutta). Sloman placed a pair of the species in small, confined aquarium where he allowed one trout to establish a social hierarchy by becoming the dominant fish. He found that, other fish (subordinates) experienced high levles of soceity stress as a result of the aggression exhibited by the dominering trout. This led the smaller fish to have an increase in specific metabolic rate, which was measured through oxygen consumption (Sloman AK, 2000. Annals Biol. 34:15-17). This experiment is similar to our own as we wish to test the effects of aggression on the specific metabolic rate. In order to do this, we will use crayfish (orconectes sp.). We will carry out this experiment with the following hypothesis in mind: a crayfish is exposed to aggression/social stress should have a significant increase in specific metabolic rate.
 
 It is hard to address so many errors using just reflective coaching and references to other resources. Adding to the challenge, the entire report likely needs detailed corrections, not just these two paragraphs. We do not expect GTAs to spend time copy editing entire reports. Instead, we recommend they use one of these two strategies for responding to writing mechanics problems. 
 
-__Option 1:__ highlight one poorly written paragraph, and attach a new comment. List the specific errors that you see. Be sure to tell the student that you saw similar errors in other paragraphs, and that they are responsible for finding and correcting them. For example, the feedback comment for the flawed paragraph above might read:
+__Option 1:__ highlight the one poorly written paragraph, and attach a new comment. List the specific errors that you see. Be sure to tell the student that you saw similar errors in other paragraphs, and that they are responsible for finding and correcting them. For example, the feedback comment for the flawed paragraph above might read:
 
 > You have a lot of basic writing flaws in your report that you need to correct or revise. For example, I found all of these basic errors in just these two paragraphs:
 * Unclear flow of the logic in both paragraphs
@@ -109,8 +109,10 @@ __Option 1:__ highlight one poorly written paragraph, and attach a new comment. 
 * Improper citation location and format (look at Sloman reference.)
 * Format errors in scientific names
 * Spelling errors (ex. levles of soceity)
-
+>
 > You need to revise this report very carefully. I recommend that you contact the Writing Center in the library first. They can help you with basic writing issues. After meeting with their tutors, make an appointment with me to work on how you could better organize your logic and key points. 
+
+<br/>
 
 __Option 2:__ use minimal marking. Edit one paragraph thoroughly for grammatical errors. Then attach a comment in the margin telling the student they are responsible for fixing similar errors beyond this paragraph. [You can learn more about minimal marking here.](www.csuchico.edu/ge/faculty/writing_intensive_u/responding_to_writing/responding_to_surface_errors.shtml)
 
@@ -120,4 +122,4 @@ __Option 2:__ use minimal marking. Edit one paragraph thoroughly for grammatical
 * Provide some positive encouragement or praise when warranted, but do not over-state it, or give undeserved praise. 
 * If one particular item was done well, refer the student to it as an example of how to correct other parts of the report. 
 * Avoid “but.” Think about this comment: “I like how you wrote your Intro, but the Methods need…”. The “but” negates what the student did well. Try wording that invites continued effort: “I like how you organized your Introduction. For the revision, try using the same organizational strategy for your Methods section, which needs…”. 
-* Do not interject writing conventions and idioms of your sub-field. For example, our students are not required to use different formats for in-text citations, depending on the number of authors on the source article. These details become important later as students specialize; at the introductory level we want to focus on foundational issues. 
+* Do not interject writing conventions and idioms of your disciplinary sub-field. For example, our students are not required to use different formats for in-text citations, depending on the number of authors on the source article. These details become important later as students specialize; at the introductory level we want them to focus on fundamental writing issues. 

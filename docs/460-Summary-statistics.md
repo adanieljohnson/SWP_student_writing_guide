@@ -1,4 +1,4 @@
-# DRAFT Biostatistics 1: Summary Statistics {#sumstats460}
+# Summary or Descriptive Statistics {#sumstats460}
 
 Summary statistics make it much easier for your readers to understand and think about your data. The questions you want to answer for your readers are:
 
@@ -32,15 +32,28 @@ __Table 1.__ Distribution of student height on campus.
 |>219 (7'2")|52|
 |Total|5788|
 
+<br/>
+
 If we plot these data as a series of bars showing the counts for each category, we get a __histogram__ like the one in Figure 1.
 
-![__Figure 1.__ Histogram showing the distribution of student height on campus.](http:url.excel)
+<center>
+
+![__Figure 1.__ Histogram showing the distribution of student height on campus.](images/Histogram1.png){width=80%}
+
+</center>
+<br/>
+
 
 The histogram shows us the __distribution__ of the numbers that represent our observations. The histogram shows there are about the same number of students on either side of the peak (there are 1904 students who are less than 170 cm tall, and 1868 students who are greater than 179 cm tall.) Data are said to have a __normal distribution__ when there are about the same number of data points above and below the midpoint.
 
 Suppose we observed instead that there are 2744 students who are less than 170 cm tall, and 1028 students who are greater than 179 cm tall. The midpoint of the data still is 170-179 cm, but now the data are not normally distributed. We call this a __skewed distribution__. 
 
-![__Figure 2.__ Histogram showing a skewed distribution of student height on campus.](http:url.excel)
+<center>
+
+![__Figure 2.__ Histogram showing a skewed distribution of student height on campus. The blue bars show the normal distribution from Figure 1. The orange bars are the skewed distribution. ](images/Histogram2.png){width=80%}
+
+</center>
+<br/>
 
 When writing up your own experiments in lab reports, you will be working with smaller datasets, and skewed distributions will not be a big concern. When you begin working with larger datasets, there are statistical methods for quantifying the relative amount of skew in the data distributions. 
 
@@ -57,21 +70,28 @@ For example, the counts in each of the bins in Table 1 add up to 5788. The arith
 
 Arithmetic mean is very useful, but also sensitive to extreme values, which means it does not work well for data that are highly skewed. Imagine that you are measuring the heights of trees in two areas of equal size. 
 
-![__Figure 3__. Two forest plots.](images/Tree-plots.png)
+
+<center>
+
+![__Figure 3__. Two forest plots.](images/Tree-plots.png){width=80%}
+
+</center>
+<br/>
+
 
 Plot A is in a mature, undisturbed forest. Plot B experienced a fire a few years ago that killed all but 2 very large trees. Since then, new seedlings have sprouted. There are dozens of small trees now, all about the same height.
 
 If we calculate the arithmetic mean of the tree heights in the two plots, we might calculate that the mean tree height is similar for the two plots even if our eyes tell us that is not right. So the arithmetic mean alone does not provide enough information to compare the plots. We need to report a second value that describes the dispersion of the data points.
 
 
-### Optional: Other Ways to Calculate Means
+### Advanced Topic: Other Ways to Calculate Means
 
 You will not use them in most biology classes, but there are many other ways to estimate the mean for a set of measurements. The __geometric mean__ is often used to describe the mid-point of numbers that grow exponentially. For example, human population growth rate has grown exponentially over time. If we wanted to express the mean value, we would use the geometric mean. The other mean used in science regularly is the __harmonic mean__, which is used to describe the mid-point for ratios or rates like speed.
 
 These and other ways to calculate means are useful in particular situations. When you are first starting out in biostatistics, it is safer to stick with a simple arithmetic mean. As specific situations arise, your instructor may introduce other ways to calculate means.
 
 
-## Optional: Median
+## Advanced Topic: Median
 
 Where the mean is a mathematical descriptor of your data, the __median__ estimates the middle of the distribution is the actually __observed__ middle of a range of observed values. We determine median by sorting the values in rank order (lowest to highest). The median is the middle measurement in the set. 
 

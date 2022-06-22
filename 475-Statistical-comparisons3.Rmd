@@ -1,4 +1,4 @@
-# Biostatistics 4: Comparing Groups - Chi Square Tests {#compstatsthree475}
+# Comparing Groups Using Chi Squared Tests {#compstatsthree475}
 
 A Chi-squared test is like a t-test in that there are several versions and variations which are appropriate for different situations. Where t-tests are used to evaluate raw numbers, Chi-squared tests compare ratios and frequencies of categorical data. These can be compared to a predicted set of data or an independent set. The test itself calculates a statistic that measures how far the observed data are from the null expectation. We then use a mathematical relationship called the chi-squared distribution to estimate the probability of obtaining that value of the test statistic if there is no actual difference from the null.
 
@@ -25,7 +25,7 @@ You perform the cross another 6 times, and collect a total of 337 wild type and 
 The null is that the number of observations in each category is equal to what is predicted by theory. The alternate is that the observed number of observations are different from those expected based on theory.
 
 > H<sub>0</sub>: O = E, where O=observed values and E=expected values.
-
+>
 > H<sub>A</sub>: O ≠ E
 
 

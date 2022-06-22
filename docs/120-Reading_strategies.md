@@ -51,6 +51,8 @@ With practice, strategic reading goals become even more focused. For example:
 |Find additional articles that could be useful for interpreting their own work;|the full list of Literature Cited.|
 |What the influential labs, authors, and papers in the field are;|which papers and authors are listed in the Literature Cited; which authors show up repeatedly.|
 
+<br>
+
 
 ## Remember To THINK While You Read
 This might sound silly, but many students read scientific literature under the faulty assumption that "it's published, so it HAS to be true." As a result, when you read a scientific article but do not understand it, you are tempted to think you are somehow at fault. Instead, take a step back and ask yourself, "__why__ am I confused?"

@@ -3,7 +3,7 @@
 The first few times that you write for a scientific audience, you may not know how or where to start. That's okay; there is more than one way to approach the task. We suggest using one of these two general approaches to writing until you find a strategy of your own. The basic steps are the same, just arranged in a different order. Both will get you to the same end point.
 
 
-## Writing to an Outline
+## Option 1: Writing to an Outline
 
 We mentioned before that the [Step by Step Guide to Experimental Design](#expdesign210) can be used as an outline for writing your report. This is a good strategy to use if you like to work through a writing assignment in order, and do not like to skip around. Write responses to each of the questions as short phrases or bulleted points. These will be the rough draft that you go back and revise.
 
@@ -56,7 +56,7 @@ We mentioned before that the [Step by Step Guide to Experimental Design](#expdes
 13. Make sure every cited source in the text has an entry in the Literature Cited section.
 
 
-## Writing From the Middle
+## Option 2: Writing From the Middle
 
 Here your strategy is to write your report in 3 separate 1/2- to 1-page segments For each segment you start by writing or creating the main concepts, or creating the main graph or figure. Then you write the parts that led up to it. You can write the 3 segments in any order, but it is better if you complete a rough draft of one segment before starting another. 
 

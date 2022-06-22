@@ -30,5 +30,3 @@ The order we just described is widely used but is by no means the only format yo
 
 * Combined Results and Discussion. Rather than present the data then interpret it, the authors do both at the same time. 
 * Introduction, Results and Discussion, Methods last. Some journals do this because most of their readers skip the Methods and go straight to the Results.
-
-

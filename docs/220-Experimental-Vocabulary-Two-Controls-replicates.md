@@ -1,4 +1,4 @@
-# The Vocabulary of Experiments - Controls & Replicates {#replicates220}
+# Controls & Replicates {#replicates220}
 
 ## Terms That Describe Groups Within an Experiment
 
@@ -64,4 +64,12 @@ The table below shows the summarized data. It is much easier to make a compariso
 |Orchard|1.096|0.007|
 
 Which type of data are easier to compare, the raw measurements or the summary data in the table?
+
+<br/>
+<hr/>
+
+## Instructors' Supplement
+### Adapting Your Guide
+
+These are the terms that our students misuse most often when writing. Revise this page to emphasize terms that your local audience uses incorrectly most often.
 

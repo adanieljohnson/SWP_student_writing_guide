@@ -82,3 +82,11 @@ These are what we see __our__ students do. Your instructor will provide you with
 
 [ &nbsp; ] Starting too late. Good writing takes time.
 
+<br/>
+<hr/>
+
+## Instructors' Supplement
+
+### Adapting Your Guide
+
+We have found students appreciate having a one-stop checklist that ensures they do not miss important parts of their report. The items listed here match key points that were listed in the preceding sections. Revise the checklist as needed to include the items which have the largest impact on overall report grade. 

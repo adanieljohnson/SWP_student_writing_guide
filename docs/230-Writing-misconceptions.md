@@ -1,4 +1,4 @@
-# DRAFT Scientific Writing Misconceptions
+# Coming Soon: Scientific Writing Misconceptions
 
 As long-time scientific writing trainers, we see many students make the same common mistakes when they first start out. Some mistakes are inevitable. It is a new genre with new expectations. Other mistakes are accidental oversights, like switching the correct word or phrase for its incorrect antonym. An example would be using the phrase "positive control group" to refer to either the "negative control group," or the "experimental treatment group." Errors like this are fairly easy to avoid, __if you make a habit of re-reading your work__ and double-checking that easily confused words are used correctly.  
 
@@ -34,4 +34,27 @@ As you write, keep asking yourself, "is this the right word for what I mean to s
 
 
 
-   
+<br/>
+<hr/>
+
+## Instructors' Supplement
+
+### Rationale
+
+Reasoning, published evidence, or local data supporting a practice we recommend.
+
+
+### Instructional Notes
+
+Practical tips, tricks, or alternative ways to implement the methods or activities described. 
+ 
+ 
+### Adapting Your Guide
+
+Items that instructors should check and modify so the distributed document/web pages match their local goals or requirements. 
+
+
+### Watch Out
+
+Particularly difficult or frequent problems that we or others have encountered, and if we know any, strategies for working around them. 
+

@@ -12,6 +12,7 @@ The links take you to specific chapters. If you get lost, the Table of Contents 
     + [Step by Step Guide: Experimental Design](#expdesign210)
     + [Vocabulary of Experiments - Variables](#variables215)
     + [Vocabulary of Experiments - Controls, Replicates](#replicates220)
+    + Coming soon: [Misconceptions About Scientific Writing](#misconceptions230)
 
 * [Part 3: Pieces of an Article or Report](#articleparts300)
     + [How articles are organized](#articleparts300)
@@ -41,12 +42,12 @@ The links take you to specific chapters. If you get lost, the Table of Contents 
     + [Paraphrasing Sources 3](#paraphrasingthree508)
     + [Citation Formats](#citformats510)
     + [Common Citation Mistakes](#citmistakes515)
-    + [Managing Sources with Zotero](#zotero520)
+    + Coming Soon: [Managing Sources with Zotero](#zotero520)
 
 * [Part 6: Your Writing Toolbox](#toolbox600)
     + [Writing Strategies](#strategies610)
     + [How to Critique Scientific Arguments](#toulmin615)
-    + [Peer Review Methods](#peerreview630)
+    + Coming Soon: [Peer Review Methods](#peerreview630)
     + [Step-by-Step Guide: Pre-Submission Checklist](#submissioncheck650)
 
 * [Part 7: Resources for Instructors](#teachertools700)
@@ -55,7 +56,7 @@ The links take you to specific chapters. If you get lost, the Table of Contents 
     + [Training GTAs](#tatraining720)
     + [Annotated Bibliography](#bibliography750)
 
-* [Appendices: Practice Cases and Example Reports](#appendix800)
-    + [Appendix A. Ecology](#appa810)
-    + [Appendix B. Physiology](#appb820)
-    + [Appendix C. Cell Biology](#appc830)
+* Coming Soon: [Practice Cases and Example Reports](#appendix800)
+    + [Case A. Ecology](#appa810)
+    + [Case B. Physiology](#appb820)
+    + [Case C. Cell Biology](#appc830)

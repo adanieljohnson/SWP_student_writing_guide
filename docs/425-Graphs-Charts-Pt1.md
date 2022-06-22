@@ -1,4 +1,4 @@
-# Summarizing Data: Bar Charts, Scatter Plots, Box Plots {#chartsone425}
+# Bar Charts, Scatter Plots, Box Plots {#chartsone425}
 
 __Graphs__ (also called plots and charts) summarize numerical or statistical results. When creating figures for lab reports, research papers, or scientific articles, it is essential that you present numerical data properly. Not presenting your data clearly can confuse or mislead your readers. So making sure your graphs are clear and accurate is essential.
 
