@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Contributors {-}
 
 The __SWP Writing Resource Guide__ is the product of many collaborators and contributors. 

@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Reading Scientific Literature {#reading120}
 
 Learning how to __read__ scientific writing is an important step in learning to __write__ it well.
