@@ -13,21 +13,21 @@ We encourage instructors to modify this Resource Guide so it fits their local ne
 
 2. Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, move the overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.
 
-2. The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book. 
+3. The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book. 
 
-3. __Part 3__ is the main deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.
+4. __Part 3__ is a deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.
 
 
 ## Editing the Guide Itself {-}
 
 The Guide is available in these formats on the __[GitHub repository](https://github.com/adanieljohnson/SWP_student_writing_guide)__:
 
-* MS Word format (.docx)
-* HTML format (.html)
-* R Markdown (.Rmd)
-* GitHub Markdown (.md)
+* MS Word format (Full_Guide.docx)
+* HTML format (HTML_files.zip + images.zip archives)
+* R Markdown (.Rmd files within a GitHub repository)
+* GitHub Markdown file (Full_Guide.md + images.zip archive)
 
-Which format will be best for your needs depends on how much of our Guide you need to change, how you plan to share it with students, and whether you need to make it available in one or multiple formats.
+Which format will best suit your needs depends on how much of the Guide you need to change, how you plan to share it with students, and whether you need to make it available in multiple formats.
 
 
 ### MS Word Format {-}
@@ -35,7 +35,7 @@ Which format will be best for your needs depends on how much of our Guide you ne
 Users who do not need to translate their Guide between file types or provide it on multiple platforms can edit the Resource Guide directly in Word. 
 
 1. Go to the __[GitHub repository](https://github.com/adanieljohnson/SWP_student_writing_guide)__ and open the `versions` subfolder.
-2. Download the `Guide.docx` file to your local computer.
+2. Download the `Full_Guide.docx` file to your local computer.
 3. Several chapters contain _Instructors Only_ recommendations for revising the Guide to fit local requirements. This information should be deleted before posting the revised Guide for students.
 4. The original and any edited versions of the `.docx` file can be shared with students freely within the terms of the Creative Commons license. 
 
@@ -49,7 +49,7 @@ HTML is a good way to share our Guide with students via the campus LMS or file s
 1. Go to the __[GitHub repository](https://github.com/adanieljohnson/SWP_student_writing_guide)__ and open the `versions` subfolder.
 2. Download the `HTML_files.zip` and `images.zip` archives to your local computer.
 3. Open the two archives on your local machine.
-4. Move the unpacked images folder INSIDE the HTML_files folder.
+4. Move the un-zipped `images` folder INSIDE the HTML_files folder.
 4. Upload the `HMTL_files folder` (along with the Images sub-folder) to a web site or page that students can access.
 5. Test the copy by opening the `Index.html` page. The index uses relative HTML links, which means all links in the Table of Contents should connect to their appropriate pages.  
 6. If the index page opens others correctly, check that images are being displayed correctly. 
@@ -58,7 +58,7 @@ HTML is a good way to share our Guide with students via the campus LMS or file s
 
 ### R Markdown Format {-}
 
-The interactive online version of the Resource Guide, downloadable HTML version, and .md chapters were all produced from a master set of .Rmd files using the [bookdown](https://bookdown.org/) library in R Studio. Users familiar with R Studio can fork or clone our repository and launch their own localized version of the Guide.
+The various versions of the Guide are built from one master set of .Rmd files using the [bookdown](https://bookdown.org/) library in R Studio. Users familiar with R Studio can fork or clone our repository and launch their own localized version of the Guide.
 
 Editing the .Rmd master files is the best way to make changes that will affect the overall structure of the Guide, while maintaining its interactive features. Users can replace or revise the order of chapters, modify the linked Table of Contents, incorporate their own content, or add new content published on GitHub. 
 
@@ -129,9 +129,9 @@ Those not familiar with GitHub will find step-by-step instructions for setting i
 
 ### GitHub Markdown Format {-}
 
-R Studio only converts .Rmd to .html, .docx, and (with effort) .pdf formats. Users who need other formats can use Pandoc terminal commands to convert both `.Rmd` and `.md` formatted files (which can be edited in any plain text editor) to >30 different file types. 
+R Studio only converts .Rmd to .html, .docx, and (with effort) .pdf formats. Users needing other formats can use Pandoc terminal commands to convert both `.Rmd` and `.md` formatted files (which can be edited in any plain text editor) to >30 different file types. 
 
-Pandoc can convert Markdown files into slides, bibliographic formats, Jupyter notebooks, CSV data files, and multiple wiki languages too. [This list](https://pandoc.org/) shows all of the possible file format conversions. Learn about [installing and using Pandoc](https://pandoc.org/installing.html) here.
+Pandoc can convert .Rmd/.md files into slides, bibliographic formats, Jupyter notebooks, CSV data files, and multiple wiki languages too. [This list](https://pandoc.org/) shows all of the possible file format conversions. Learn about [installing and using Pandoc](https://pandoc.org/installing.html) here.
 
 1. Go to the Pandoc installation page for instructions to download and install to your computer and operating system.
 2. Go to the __[GitHub repository](https://github.com/adanieljohnson/SWP_student_writing_guide)__ and open the `versions` subfolder.
@@ -145,4 +145,4 @@ Pandoc can convert Markdown files into slides, bibliographic formats, Jupyter no
 
 ```
 
-The example above outputs a copy of the .md format file in .html format. To convert to other formats, change output filename to the standard file type extension that Pandoc should create.
+The example command above reads the .md formatted source (-s) file and outputs (-o) a copy in .html format. To convert to other formats, change the file extension on the output filename to the standard file type extension that Pandoc should create.

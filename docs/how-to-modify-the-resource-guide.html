@@ -768,25 +768,25 @@
 <li><p>Decide what are the <strong>largest, most serious writing skills gaps your students have.</strong> Look at the writing products of your students systematically, and try to quantify how many students make particular mistakes (not just which mistakes you or your instructional team find the most irritating.) Rank the mistakes so you are confident that you have identified the 5-10 most serious shortcomings in their scientific writing. These are your priority goals that you should focus on first, and what you should keep in mind as you revise this Guide.</p></li>
 <li><p>Look at the topics listed in the Preface and Table of Contents. If you have resources you are using to teach these elements of scientific writing successfully, move the overlapping units or pages to an archive folder, and use your own resources. Pages in the archive folder will still be available in the future, or you can download new copies from our repository.</p></li>
 <li><p>The Preface is written assuming students are the main audience. That said, if a particular section goes too deeply into our rationale, delete those sections before generated the individual documents or book.</p></li>
-<li><p><strong>Part 3</strong> is the main deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.</p></li>
+<li><p><strong>Part 3</strong> is a deep dive into scientific articles and lab reports for biology. We show students what goes in each section, point out where our own students struggle with each section, and suggest ways to avoid common pitfalls. We strongly urge instructors to incorporate their own observations and suggestions so that the Resource Guide addresses the specific local needs. Ideally you should incorporate examples from reports that your own students have written.</p></li>
 </ol>
 </div>
 <div id="editing-the-guide-itself" class="section level2 unnumbered hasAnchor">
 <h2>Editing the Guide Itself<a href="how-to-modify-the-resource-guide.html#editing-the-guide-itself" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>The Guide is available in these formats on the <strong><a href="https://github.com/adanieljohnson/SWP_student_writing_guide">GitHub repository</a></strong>:</p>
 <ul>
-<li>MS Word format (.docx)</li>
-<li>HTML format (.html)</li>
-<li>R Markdown (.Rmd)</li>
-<li>GitHub Markdown (.md)</li>
+<li>MS Word format (Full_Guide.docx)</li>
+<li>HTML format (HTML_files.zip + images.zip archives)</li>
+<li>R Markdown (.Rmd files within a GitHub repository)</li>
+<li>GitHub Markdown file (Full_Guide.md + images.zip archive)</li>
 </ul>
-<p>Which format will be best for your needs depends on how much of our Guide you need to change, how you plan to share it with students, and whether you need to make it available in one or multiple formats.</p>
+<p>Which format will best suit your needs depends on how much of the Guide you need to change, how you plan to share it with students, and whether you need to make it available in multiple formats.</p>
 <div id="ms-word-format" class="section level3 unnumbered hasAnchor">
 <h3>MS Word Format<a href="how-to-modify-the-resource-guide.html#ms-word-format" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Users who do not need to translate their Guide between file types or provide it on multiple platforms can edit the Resource Guide directly in Word.</p>
 <ol style="list-style-type: decimal">
 <li>Go to the <strong><a href="https://github.com/adanieljohnson/SWP_student_writing_guide">GitHub repository</a></strong> and open the <code>versions</code> subfolder.</li>
-<li>Download the <code>Guide.docx</code> file to your local computer.</li>
+<li>Download the <code>Full_Guide.docx</code> file to your local computer.</li>
 <li>Several chapters contain <em>Instructors Only</em> recommendations for revising the Guide to fit local requirements. This information should be deleted before posting the revised Guide for students.</li>
 <li>The original and any edited versions of the <code>.docx</code> file can be shared with students freely within the terms of the Creative Commons license.</li>
 </ol>
@@ -799,7 +799,7 @@
 <li>Go to the <strong><a href="https://github.com/adanieljohnson/SWP_student_writing_guide">GitHub repository</a></strong> and open the <code>versions</code> subfolder.</li>
 <li>Download the <code>HTML_files.zip</code> and <code>images.zip</code> archives to your local computer.</li>
 <li>Open the two archives on your local machine.</li>
-<li>Move the unpacked images folder INSIDE the HTML_files folder.</li>
+<li>Move the un-zipped <code>images</code> folder INSIDE the HTML_files folder.</li>
 <li>Upload the <code>HMTL_files folder</code> (along with the Images sub-folder) to a web site or page that students can access.</li>
 <li>Test the copy by opening the <code>Index.html</code> page. The index uses relative HTML links, which means all links in the Table of Contents should connect to their appropriate pages.<br />
 </li>
@@ -809,7 +809,7 @@
 </div>
 <div id="r-markdown-format" class="section level3 unnumbered hasAnchor">
 <h3>R Markdown Format<a href="how-to-modify-the-resource-guide.html#r-markdown-format" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>The interactive online version of the Resource Guide, downloadable HTML version, and .md chapters were all produced from a master set of .Rmd files using the <a href="https://bookdown.org/">bookdown</a> library in R Studio. Users familiar with R Studio can fork or clone our repository and launch their own localized version of the Guide.</p>
+<p>The various versions of the Guide are built from one master set of .Rmd files using the <a href="https://bookdown.org/">bookdown</a> library in R Studio. Users familiar with R Studio can fork or clone our repository and launch their own localized version of the Guide.</p>
 <p>Editing the .Rmd master files is the best way to make changes that will affect the overall structure of the Guide, while maintaining its interactive features. Users can replace or revise the order of chapters, modify the linked Table of Contents, incorporate their own content, or add new content published on GitHub.</p>
 <ol style="list-style-type: decimal">
 <li>Clone or fork the full <a href="https://github.com/adanieljohnson/SWP_student_writing_guide">SWP Resource Guide</a> from GitHub.</li>
@@ -866,8 +866,8 @@
 </div>
 <div id="github-markdown-format" class="section level3 unnumbered hasAnchor">
 <h3>GitHub Markdown Format<a href="how-to-modify-the-resource-guide.html#github-markdown-format" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>R Studio only converts .Rmd to .html, .docx, and (with effort) .pdf formats. Users who need other formats can use Pandoc terminal commands to convert both <code>.Rmd</code> and <code>.md</code> formatted files (which can be edited in any plain text editor) to &gt;30 different file types.</p>
-<p>Pandoc can convert Markdown files into slides, bibliographic formats, Jupyter notebooks, CSV data files, and multiple wiki languages too. <a href="https://pandoc.org/">This list</a> shows all of the possible file format conversions. Learn about <a href="https://pandoc.org/installing.html">installing and using Pandoc</a> here.</p>
+<p>R Studio only converts .Rmd to .html, .docx, and (with effort) .pdf formats. Users needing other formats can use Pandoc terminal commands to convert both <code>.Rmd</code> and <code>.md</code> formatted files (which can be edited in any plain text editor) to &gt;30 different file types.</p>
+<p>Pandoc can convert .Rmd/.md files into slides, bibliographic formats, Jupyter notebooks, CSV data files, and multiple wiki languages too. <a href="https://pandoc.org/">This list</a> shows all of the possible file format conversions. Learn about <a href="https://pandoc.org/installing.html">installing and using Pandoc</a> here.</p>
 <ol style="list-style-type: decimal">
 <li>Go to the Pandoc installation page for instructions to download and install to your computer and operating system.</li>
 <li>Go to the <strong><a href="https://github.com/adanieljohnson/SWP_student_writing_guide">GitHub repository</a></strong> and open the <code>versions</code> subfolder.</li>
@@ -878,7 +878,7 @@
 </ol>
 <pre><code>        pandoc -s /filepath/Full_Guide.md  -o /filepath/Output_Filename.html
 </code></pre>
-<p>The example above outputs a copy of the .md format file in .html format. To convert to other formats, change output filename to the standard file type extension that Pandoc should create.</p>
+<p>The example command above reads the .md formatted source (-s) file and outputs (-o) a copy in .html format. To convert to other formats, change the file extension on the output filename to the standard file type extension that Pandoc should create.</p>
 
 </div>
 </div>
