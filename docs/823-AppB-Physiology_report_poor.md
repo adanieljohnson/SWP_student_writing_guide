@@ -1,4 +1,4 @@
-# Higher Quality Sample Physiology Reports {#appb823}
+# Lower Quality Sample Physiology Reports {#appb823}
 
 **Note to Instructors:** these reports have been reproduced essentially as they were submitted by the original student authors. We have not corrected misspellings or grammar, nor filled in missing information.
 
