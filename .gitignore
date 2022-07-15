@@ -6,3 +6,9 @@ _book
 _bookdown_files
 rsconnect
 .DS_Store
+reference_ignore/AppA_data.csv
+reference_ignore/Ecology_dataset.csv
+reference_ignore/Energy Allocation Data.csv
+reference_ignore/Energy Allocation Data.xlsx
+reference_ignore/Frog muscle ANOVA.xlsx
+reference_ignore/Physarum_Plate.ai
