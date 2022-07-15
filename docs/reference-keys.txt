@@ -247,6 +247,12 @@ toulmin615
 the-upside-of-arguments
 putting-the-claim-evidence-reasoning-method-to-work
 assessing-arguments-systematically
+peerreview630
+why-does-peer-review-work
+general-workflow
+sample-review-summary-sheets
+narrative-summary-sheet
+bins-based-summary-sheet
 submissioncheck650
 instructors-supplement-5
 adapting-your-guide-4

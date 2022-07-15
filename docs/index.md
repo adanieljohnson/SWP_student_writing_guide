@@ -1,7 +1,7 @@
 --- 
 title: "Biology Student Writing Guide"
 author: "STEM Writing Project"
-date: "2022-07-12"
+date: "2022-07-15"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
